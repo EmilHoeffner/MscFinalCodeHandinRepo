@@ -8,7 +8,7 @@ to provide your own API keys from Huggingface and Gemini in the "keymanagement.p
 
 # Getting the BM25 plot in section 2.4.3 of the report:
 
-Navigate to "IllustrativePlots". Simply run the command:
+Navigate to "src/IllustrativePlots". Simply run the command:
 
 python BM25K1Plot.py
 
