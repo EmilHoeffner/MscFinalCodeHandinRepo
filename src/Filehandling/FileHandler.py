@@ -8,7 +8,7 @@ class FileHandler:
     def __init__(self):
         cwd = os.getcwd()
         # Set the path to the Storage folder
-        self.path = os.path.abspath(os.path.join(cwd, os.pardir, os.pardir)) + "/Storage - Correct"
+        self.path = os.path.abspath(os.path.join(cwd, os.pardir, os.pardir)) + "/Storage - Clean"
 
     def storage_path(self):
         return self.path
