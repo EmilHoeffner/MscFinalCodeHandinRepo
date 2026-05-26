@@ -1,0 +1,2 @@
+name,recip_rank,recall_1,recall_5,recall_10
+"BM25(b = 0.9,k1 = 1.0)",0.94434524,0.922,0.9728,0.9796

@@ -1,0 +1,201 @@
+qid,question,True Answer,Predicted Answer,Lettuce,Haluccinot
+0,Do director of film Chandirani and director of film Not Without Gisela have the same nationality?,no,no,[],NOHALU
+1,Who is the father of the performer of song Breaking News (Song)?,Joseph Jackson,Michael Joseph Jackson,[],NOHALU
+2,"Which film came out first, Fifty Fathoms Deep or Cool Breeze (Film)?",Fifty Fathoms Deep,Fifty Fathoms Deep,[],fHALU:0.7891
+3,When is Karl Johann Von Königsmarck's father's birthday?,24 March 1634,24 March 1634,[],fHALU:0.9922
+4,What is the award that the director of film Young Eagles (Film) won?,Academy Award for Best Story,Academy Award for Best Story,[],NOHALU
+5,Do both films Amba Ambika Ambalika and Ernest Goes To Camp have the directors from the same country?,no,no,[],NOHALU
+6,Where was the place of death of the director of film Master Stroke?,Rome,"Rome, Italy",[],NOHALU
+7,Are director of film Cosmonaut (Film) and director of film The Scientific Cardplayer from the same country?,yes,no,[],NOHALU
+8,When is the director of film Buried Treasure (1921 Film) 's birthday?,"April 22, 1868",1950,[],fHALU:0.7891
+9,"Do both films, The Trail Of The Lonesome Pine (1923 Film) and La Torre De Suso, have the directors who are from the same country?",no,no,[],NOHALU
+10,Are the directors of films My Sister Eileen (1955 Film) and The Gun That Won The West both from the same country?,yes,no,[],NOHALU
+11,Where was the place of death of the director of film Beyond Justice?,Rome,Brussel,[],fHALU:0.7031
+12,"Who was born first, Erland Van Lidth De Jeude or David Tatham?",David Tatham,David Tatham,[],NOHALU
+13,"Did the bands Band Of Gold (Band) and The Domino State, originate from the same country?",no,no,[],NOHALU
+14,Why did Nona Gaye's father die?,shot,fatally shot him,[],NOHALU
+15,When did the performer of song G.I. Jive die?,"June 25, 1976",date of death unknown,[],fHALU:0.9414
+16,What is the date of death of the director of film Spitfire (1934 Film)?,"September 26, 1979","September 26, 1979",[],NOHALU
+17,"Which film has the director who was born earlier, Honor Of The West or A Esposa Do Solteiro?",A Esposa Do Solteiro,A Esposa do Solteiro,[],NOHALU
+18,Are Long Branch (Troublesome Creek) and Jenipapo River both located in the same country?,no,no,[],NOHALU
+19,What is the place of birth of the director of film The Condemned 2?,Dutch,place of birth,[],NOHALU
+20,"Which film has the director died first, Eleni (Film) or Hunted Men?",Hunted Men,Hunted Men,[],fHALU:0.9219
+21,Which country the director of film Superfly (2018 Film) is from?,Canadian,Canadian,[],NOHALU
+22,Do director of film The Somme (film) and director of film Tiger Thompson have the same nationality?,no,no,[],NOHALU
+23,"Which film was released first, Different From The Others or Connecting Rooms?",Different From The Others,Different from the Others,[],NOHALU
+24,Did Bruno Teles and Hadley Caliman share the same nationality?,no,no,[],fHALU:0.9023
+25,What is the date of death of the director of film Once Before I Die?,"May 22, 1998","May 22, 1998)",[],NOHALU
+26,Are Incheh Salah-E Olya and Ameixial located in the same country?,no,no,[],NOHALU
+27,Who is the father of the director of film Missing Women (Film)?,Francis Ford,Francis Ford,[],fHALU:0.8242
+28,"Are both Ingur Railway Station and Colo Vale Railway Station, New South Wales located in the same country?",no,no,[],NOHALU
+29,Are General Vanier Intermediate School and Ormeau Woods State High School both located in the same country?,no,no,[],NOHALU
+30,What is the date of death of the director of film Shocking Asia?,3 April 1998,3 April 1998),[],NOHALU
+31,"Who was born earlier, Joseph Peter Kinneary or Nando (Footballer, Born May 1967)?",Joseph Peter Kinneary,Joseph Peter Kinneary,[],fHALU:0.8555
+32,"Are both museums, Aksaray Museum and Jim Gatchell Memorial Museum, located in the same country?",no,no,[],NOHALU
+33,Which country the composer of film Miss 420 is from?,India,India,[],NOHALU
+34,Are both Bullarto Railway Station and Harestua Station located in the same country?,no,no,[],NOHALU
+35,Are the directors of both films Jetpiloter and Life Itself (2018 film) from the same country?,no,no,[],NOHALU
+36,Do both Something Always Happens and The Great Impersonation (1921 film) films have the directors from the same country?,no,no,[],NOHALU
+37,"Which film has the director born earlier, Songs And Saddles or The Poor Little Rich Girl?",The Poor Little Rich Girl,The Poor Little Rich Girl,[],NOHALU
+38,Do both films: The Ex-Mrs. Bradford and The Star Of Santa Clara have the directors from the same country?,no,no,[],NOHALU
+39,Does Yann Pivois have the same nationality as George W. Sarbacher Jr.?,no,no,[],NOHALU
+40,Was Cian O'Sullivan or Sexy Cora born first?,Sexy Cora,Sexy Cora,[],fHALU:0.9727
+41,"Are Zamanabad, Chaharmahal And Bakhtiari and Ashkuh both located in the same country?",yes,yes,[],NOHALU
+42,Who is the father of the performer of song The House That Jack Built (Song)?,C. L. Franklin,C. L. Franklin,[],NOHALU
+43,Do both films Happy Day (Film) and El Misterioso Señor Marquina have the directors from the same country?,no,no,[],NOHALU
+44,"Which country the composer of film At Last, Okemah! is from?",American,American,[],fHALU:0.8125
+45,When was the director of film Battles Of Chief Pontiac born?,"February 28, 1910","February 28, 1910",[],NOHALU
+46,Where was the place of death of the director of film De Blaa Drenge?,Copenhagen,Copenhagen,[],NOHALU
+47,Who is the spouse of the director of film Twilight (1945 Film)?,Rosenda Monteros,Rosenda Monteros,[],NOHALU
+48,Do director of film Miss Lovely and director of film Good Will Hunting have the same nationality?,no,no,[],NOHALU
+49,Who is the spouse of the director of film Three Monkeys?,Ebru Ceylan,Ebru Ceylan,"[{'start': 0, 'end': 11, 'confidence': 0.7986971735954285, 'text': 'Ebru Ceylan'}]",NOHALU
+50,Do both directors of films The French Lieutenant'S Woman (Film) and The Arrest Of A Pickpocket have the same nationality?,no,no,[],NOHALU
+51,Are the directors of films Disturbia (film) and Nemesis (1992 film) both from the same country?,yes,no,[],NOHALU
+52,Do both The Buccaneer (1938 Film) and Law Abiding Citizen films have the directors from the same country?,yes,no,[],NOHALU
+53,When is the director of film Seven Psychopaths 's birthday?,26 March 1970,21 June 1862 – 24 May 1948,[],NOHALU
+54,"Are the movies God'S House (Film) and Natural Selection (2011 Film), from the same country?",yes,no,[],NOHALU
+55,"Are both villages, Halvehhani and Aq Bolagh, Qazvin, located in the same country?",yes,no,[],NOHALU
+56,"Which film was released more recently, Murder Obsession or Cuore Sacro?",Cuore Sacro,Cuore sacro,[],NOHALU
+57,Who is the child of the director of film Kaala Rathri?,K. S. G. Venkatesh,K. S. G. Venkatesh,[],NOHALU
+58,Are Lyons Township High School and Lisbon High School (Maine) both located in the same country?,yes,yes,[],NOHALU
+59,Where was the composer of film Avidathe Pole Ivideyum born?,Kerala,"Kerala, India",[],NOHALU
+60,When was the director of film Way For A Sailor born?,"July 10, 1883",1950,[],NOHALU
+61,When is George Lamb (Politician)'s father's birthday?,29 January 1745,29 January 1745,[],fHALU:0.9961
+62,Are director of film Desde Que Amanece Apetece and director of film The Last Survivors from the same country?,no,no,[],NOHALU
+63,Who is Wenceslaus Of Krosno's paternal grandfather?,Henry V of Iron,Henry VIII the Sparrow,[],fHALU:0.8398
+64,Are the directors of both films Mayuri (Film) and California (1947 Film) from the same country?,no,no,[],NOHALU
+65,"Which film has the director died first, Forbidden Paths or Little Man, What Now? (1933 Film)?",Forbidden Paths,Forbidden Paths,[],fHALU:0.9727
+66,"Were Sonny Curtis and Archibald Douglas, 1St Duke Of Douglas of the same nationality?",no,no,[],NOHALU
+67,Where was the place of death of the director of film The Countess Of Paris?,Hollywood,Hollywood,"[{'start': 0, 'end': 1, 'confidence': 0.6370252966880798, 'text': 'H'}]",fHALU:0.9766
+68,Who is the mother-in-law of Andrew Murray (Scottish Soldier)?,"Marjorie, Countess of Carrick",Christina Bruce,[],fHALU:0.9648
+69,Where was the composer of film Marikkunnilla Njan born?,Kulathupuzha,"Kulathupuzha, Kollam",[],fHALU:0.8867
+70,Are Sozar Subari and Julián Vara from the same country?,no,no,[],NOHALU
+71,Do both films: Spain Again and Suburbicon have the directors from the same country?,no,no,[],NOHALU
+72,Are Whole Wheat Bread (band) and Dreamscape (band) both from the same country?,no,no,[],NOHALU
+73,Are Lords Lake (South Dakota) and Lough Gill located in the same country?,no,no,[],NOHALU
+74,Which country the performer of song I'Ve Found A New Baby is from?,American,American,[],NOHALU
+75,Are Berkeh-Ye Khalaf and Rostam Beyg located in the same country?,yes,yes,[],NOHALU
+76,Where was the place of burial of the performer of song First In Line (Song)?,Graceland,Sarre Anglo- Saxon cemetery,[],fHALU:0.707
+77,What is the date of death of the director of film Rhodes Of Africa?,24 September 1953,24 September 1953,[],NOHALU
+78,Do both films: Betty Of Greystone and Kaadhal Kavithai have the directors from the same country?,no,no,[],NOHALU
+79,Are both Kandry and Salash-E Disam located in the same country?,no,no,[],NOHALU
+80,Do both directors of films Blücher (film) and The Good Old Soak have the same nationality?,no,no,[],NOHALU
+81,When did the director of film Radha Kalyanam (1981 Film) die?,31 August 2014,31 August 2014,[],fHALU:0.9023
+82,"Which film has the director born earlier, Aapo (Film) or The White God?",The White God,The White God,[],NOHALU
+83,Where was the place of burial of the performer of song First In Line (Song)?,Graceland,Sarre Anglo- Saxon cemetery,[],fHALU:0.707
+84,Where was the director of film Ninì Tirabusciò: La Donna Che Inventò La Mossa born?,Rome,"Rome, Italy",[],NOHALU
+85,When did the director of film Her Own Free Will die?,17 January 1954,17 January 1954,[],fHALU:0.9375
+86,Do director of film The Subject and director of film La Terrazza share the same nationality?,no,no,[],NOHALU
+87,"Which film has the director born earlier, Blonde Ice or Shadow (1956 film)?",Blonde Ice,Blonde Ice,[],NOHALU
+88,Which country the director of film A Mighty Heart (Film) is from?,British,English,[],NOHALU
+89,"Which film came out first, Sluttish (Film) or The Straight Way?",The Straight Way,The Straight Way,[],NOHALU
+90,Which country the performer of song Soldier (Neil Young Song) is from?,Canadian,Canadian,[],NOHALU
+91,"Which film was released more recently, Die schöne Lurette or Sabhash?",Sabhash,Sabhash,[],NOHALU
+92,"Are Shaveh, Markazi and Brajićevići located in the same country?",no,no,[],fHALU:0.9609
+93,Where was the place of death of Archduchess Anna Of Austria's husband?,Munich,Munich,[],NOHALU
+94,Where did Christopher Chaplin's mother graduate from?,Brearley School,Brearley School,[],fHALU:0.7852
+95,"Which film has the director born first, Twilight On The Rio Grande or Sound Of The Desert?",Twilight On The Rio Grande,Sound of the Desert,[],NOHALU
+96,Where did the director of film The Right Of The Strongest die?,Los Angeles,Los Angeles,[],NOHALU
+97,Where did the director of film Outwitted (1925 Film) die?,Hollywood,Hollywood,[],fHALU:0.918
+98,"Who died first, Dallas Pratt or Arthur James Armstrong?",Dallas Pratt,Dallas Pratt,[],fHALU:0.8633
+99,"Do both films, Laali and Gayby, have the directors who are from the same country?",no,no,[],NOHALU
+100,"Which film has the director who died first, Sos Pacific or Amores De Ayer?",Amores De Ayer,Amores de ayer,[],NOHALU
+101,Do both films: The Island (2011 film) and The Insider (film) have the directors from the same country?,no,no,[],NOHALU
+102,What is the date of birth of the performer of song Irma Jackson?,"April 6, 1937","April 6, 1937",[],NOHALU
+103,When was the director of film The Vampire'S Ghost born?,"May 26, 1900","May 26, 1900",[],NOHALU
+104,Are director of film Sthree Sahasam and director of film That Malicious Age both from the same country?,no,no,[],NOHALU
+105,What is the place of birth of the director of film Zero (1928 Film)?,Wimborne,place of birth,[],NOHALU
+106,What is the place of birth of the director of film Zero (1928 Film)?,Wimborne,place of birth,[],NOHALU
+107,When did the director of film Sathruvu die?,22 February 2019,22 February 2019,[],fHALU:0.8711
+108,Where was the director of film Clear The Decks born?,"Omaha, Nebraska","Omaha, Nebraska","[{'start': 0, 'end': 15, 'confidence': 0.9037591814994812, 'text': 'Omaha, Nebraska'}]",NOHALU
+109,Are both McLeod River (British Columbia) and Waikare River (Northland) located in the same country?,no,no,[],NOHALU
+110,Do both films: Desde Que Amanece Apetece and Danton (1921 Film) have the directors from the same country?,no,no,[],NOHALU
+111,Which award the performer of song Haunt Me received?,Grammy Award for Best New Artist,Grammy Award for Best R&B Performance by a Duo or Group with Vocals,[],NOHALU
+112,What is the date of birth of the director of film Just Like Heaven (Film)?,"June 30, 1964","June 30, 1964",[],fHALU:0.8945
+113,"Are Kaj Kolah, Zanjan and Nurabad, Shazand both located in the same country?",yes,no,[],fHALU:0.8633
+114,Are Rudy Halmaert and Han Xin of the same nationality?,no,no,[],NOHALU
+115,Where did Mirza Farkhunda Shah's father die?,Rangoon,Rangoon,[],fHALU:0.9062
+116,When is the performer of song Behind The Ritual 's birthday?,31 August 1945,29 April 1925,[],fHALU:0.9219
+117,What is the place of birth of the director of film Chivalrous Charley?,Brooklyn,"Brooklyn, New York",[],NOHALU
+118,"Who died first, Phil Emmanuel or Matiu Dickson?",Matiu Dickson,Phil Emmanuel,[],NOHALU
+119,Where was the director of film Rubber Racketeers born?,"Portland, Oregon","Portland, Oregon",[],NOHALU
+120,Which country the composer of song Every Day I Have To Cry (Song) is from?,American,American,"[{'start': 0, 'end': 8, 'confidence': 0.6691615581512451, 'text': 'American'}]",NOHALU
+121,Are Alberto Rivera Pizarro and William G. Rohrer from the same country?,no,no,[],NOHALU
+122,Which country the composer of song A Foggy Day is from?,American,American,[],NOHALU
+123,"Are both villages, Vukpalaj and Ano Lechonia, located in the same country?",no,no,[],NOHALU
+124,"What is the place of birth of the composer of song I Was A Lover, A Leader Of Men?",Douglas,Ockeghem,"[{'start': 0, 'end': 8, 'confidence': 0.8062064051628113, 'text': 'Ockeghem'}]",fHALU:0.9688
+125,"Which film has the director who died first, Naseeb (1981 Film) or Fighting Trooper?",Fighting Trooper,Fighting Trooper,[],fHALU:0.9844
+126,When did the composer of film Andru Kanda Mugam die?,21 June 2001,21 June 2001,[],NOHALU
+127,Where was the father of Margaret Of Hungary (Saint) born?,Transylvania,Hungary,[],NOHALU
+128,Where did the director of film Beyond The Rocks (Film) die?,Hollywood,"September 22, 1949",[],NOHALU
+129,What is the place of birth of Nayla Moawad's husband?,Zgharta,Zgharta,[],NOHALU
+130,What is the date of death of Konstantin Kuzakov's father?,5 March 1953,5 March 1953,[],NOHALU
+131,Do director of film The Haunting of Morella and director of film The Young Girl share the same nationality?,no,yes,[],NOHALU
+132,"Which film has the director who died later, Aaranya Kandam or One Hundred Nails?",One Hundred Nails,One Hundred Nails,[],NOHALU
+133,Where did Herbert Furth's mother die?,Washington,"Washington, D.C.",[],fHALU:0.8086
+134,Do both films: Arbitrage (film) and In the Wake of a Stranger have the directors from the same country?,no,no,[],NOHALU
+135,Where did Lamprocles's father die?,Athenian,Beaulieu- sur- Loire,[],NOHALU
+136,Are Carfury and Albu Shahbaz located in the same country?,no,no,[],NOHALU
+137,"Which film whose director was born first, Mad Dog Time or Seclusion Near A Forest?",Seclusion Near A Forest,Seclusion Near a Forest,[],NOHALU
+138,Do Marcel Vonlanthen and Domenico Doardo share the same nationality?,no,no,[],NOHALU
+139,Where did the director of film The Right Of The Strongest die?,Los Angeles,Los Angeles,[],NOHALU
+140,"Who was born later, William Crump (Gardener) or Davit Khutsishvili?",Davit Khutsishvili,Davit Khutsishvili,[],fHALU:0.875
+141,Do Cliff Cook and John Drawbridge have the same nationality?,no,no,[],NOHALU
+142,"Which film was released earlier, The Pervert'S Guide To Ideology or La Vida Alrededor?",La Vida Alrededor,La vida alrededor,[],NOHALU
+143,When was the director of film Prey For The Shadows born?,13 July 1923,IDK,"[{'start': 0, 'end': 3, 'confidence': 0.9419621229171753, 'text': 'IDK'}]",fHALU:0.9844
+144,Are Marc Dutroux and Joaquim Pimentel of the same nationality?,no,no,[],NOHALU
+145,Who is the spouse of the director of film Angels In The Infield?,Michelle King,Michelle King,[],NOHALU
+146,"Are the movies Shadows of the West and The Matchmaker (1934 film), from the same country?",no,no,[],NOHALU
+147,"Are both movies, The Crescent (Film) and Little Ashes, from the same country?",no,no,[],NOHALU
+148,Do Juan Pablo Magallanes and Bud Shrake share the same nationality?,no,no,[],NOHALU
+149,"Which film whose director is younger, Charge It To Me or Danger: Diabolik?",Danger: Diabolik,Danger: Diabolik,[],NOHALU
+150,"Do both films, Spencer'S Mountain and Karpoora Mullai, have the directors who are from the same country?",no,no,[],NOHALU
+151,Where did the performer of song After The Dance (Song) die?,Los Angeles,West Adams district of Los Angeles,[],NOHALU
+152,Did John Agoglia and John E. Toews have the same nationality?,yes,no,[],fHALU:0.9492
+153,"Are both villages, Biezelinge and Larzian, located in the same country?",no,no,[],fHALU:0.918
+154,What is the date of death of Mirza Jahangir's father?,28 September 1837,18 July 1821,[],fHALU:0.9297
+155,Are Cvo Skool Pretoria and Toronto Japanese School located in the same country?,no,no,[],NOHALU
+156,What is the date of birth of the director of film Katanga Business?,13 October 1952,13 October 1952,[],NOHALU
+157,Where was the place of death of the composer of film Kudamattam?,Chennai,Chennai,[],fHALU:0.9688
+158,What is the date of birth of the director of film Zwemplaats Voor Jongelingen Te Amsterdam?,5 November 1866,5 November 1866,[],NOHALU
+159,When is the director of film A Musical War Of Love 's birthday?,10 May 1899,21 June 1862 – 24 May 1948,[],fHALU:0.7617
+160,Who is the spouse of the director of film Just Once A Great Lady (1957 Film)?,Hilde Volk,Hilde Volk,[],NOHALU
+161,Why did the director of film An Angel From Texas die?,heart attack,heart attack,[],NOHALU
+162,Do both films: The Secret Of Madame Blanche and Dasima have the directors from the same country?,no,no,[],NOHALU
+163,Do director of film Zila Ghaziabad and director of film Teree Sang share the same nationality?,yes,no,[],NOHALU
+164,Are Lucas Tirigall Caste and Naphtali Hirz Wessely both from the same country?,no,no,[],NOHALU
+165,Who is the uncle of Manuel Komnenos (Kouropalates)?,Isaac I Komnenos,Alexios I Komnenos,[],fHALU:0.9102
+166,Are both director of film The Search For John Gissing and director of film Blindfolded (Film) from the same country?,yes,no,[],NOHALU
+167,Where was the director of film As I Open My Eyes born?,Tunis,Tunis,[],NOHALU
+168,Are Griff The Invisible and Winter Sleep (Film) both from the same country?,no,no,[],NOHALU
+169,Are both directors of films The Blue Bird (1940 Film) and Bharya Biddalu from the same country?,no,no,[],NOHALU
+170,"Which film came out earlier, Zehreela Insaan or Bert: The Last Virgin?",Zehreela Insaan,Bert: The Last Virgin,[],fHALU:0.7422
+171,Which country the director of film Imperative (Film) is from?,Polish,Ascension Island,[],NOHALU
+172,"Are both businesses, Vakıfbank and Infopro Sdn Bhd, located in the same country?",no,no,[],NOHALU
+173,Where did the director of film Dakshayagnam (1962 Film) die?,Madras,Florence,[],NOHALU
+174,Do both films: Arbitrage (film) and In the Wake of a Stranger have the directors from the same country?,no,no,[],NOHALU
+175,"Which film came out earlier, Voter (Film) or Flowers From Nice?",Flowers From Nice,Flowers from Nice,[],NOHALU
+176,"Who was born first, Eupremio Carruezzo or Bruno Millienne?",Bruno Millienne,Eupremio Carruezzo,[],NOHALU
+177,When did the director of film Albert Schweitzer (Film) die?,"November 21, 1972","November 21, 1972","[{'start': 0, 'end': 17, 'confidence': 0.9481674432754517, 'text': 'November 21, 1972'}]",fHALU:0.9648
+178,Where did Mirza Farkhunda Shah's father die?,Rangoon,Rangoon,[],fHALU:0.9062
+179,When was the director of film Private Hell 36 born?,"October 26, 1912","October 26, 1912 – April 20, 1991",[],NOHALU
+180,Where was the place of death of the director of film Vikramaditya (Film)?,Mumbai,place of birth,[],NOHALU
+181,When was the director of film Western Jamboree born?,"July 21, 1899","July 21, 1899",[],fHALU:0.9648
+182,Where did the director of film Canyon Of The Fools die?,Hollywood,"Hollywood, California",[],NOHALU
+183,Which country the director of film Sleepless In New York is from?,Swiss,Swiss,[],fHALU:0.8906
+184,"Which film has the director born first, Last Plane Out or The Negro (Film)?",Last Plane Out,The Negro,[],NOHALU
+185,When did the director of film Catherine & Co. die?,10 November 2002,29 April 1954,[],fHALU:0.957
+186,Do both Something Always Happens and The Great Impersonation (1921 film) films have the directors from the same country?,no,no,[],NOHALU
+187,Are director of film The Squeeze (1987 Film) and director of film Web Of The Spider both from the same country?,no,no,[],NOHALU
+188,Do both Bait (1954 Film) and Dharm Adhikari films have the directors from the same country?,no,no,[],NOHALU
+189,When did the director of film Poor Man'S Pudding die?,"November 28, 2009","November 28, 2009",[],NOHALU
+190,Who is the spouse of the director of film Lord Of The Manor (Film)?,Chrissie White,Chrissie White,[],NOHALU
+191,When did the composer of film Andru Kanda Mugam die?,21 June 2001,21 June 2001,[],NOHALU
+192,Do both directors of films Blücher (film) and The Good Old Soak have the same nationality?,no,no,[],NOHALU
+193,"Are Malian, Hamadan and Chahar Taq, Markazi located in the same country?",yes,no,[],NOHALU
+194,Who is Rhescuporis I (Odrysian)'s paternal grandfather?,Raizdos,Cotys III,[],NOHALU
+195,Where was the director of film Santos Vega (1936 Film) born?,Buenos Aires,Buenos Aires,[],NOHALU
+196,"Who died later, Chuck Turner or Mohamed Abdelaziz (Sahrawi Politician)?",Chuck Turner,Mohamed Abdelaziz,[],NOHALU
+197,What is the date of death of the director of film Celluloide?,5 October 2013,5 October 2013,[],NOHALU
+198,Are both directors of films The Blue Bird (1940 Film) and Bharya Biddalu from the same country?,no,no,[],NOHALU
+199,Where was the place of death of the director of film Kiss Of Araby?,Hollywood,"Hollywood, California",[],NOHALU

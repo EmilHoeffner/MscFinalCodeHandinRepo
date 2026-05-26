@@ -1,0 +1,92 @@
+question,True Answer,Predicted Answer,EditDist,BERT
+What is the smallest geographical region discussed?,counties,IDK,8,0.4046829640865326
+How many forced fumbles did Von Miller have during the Super Bowl 50 game?,2,two,3,0.7908575534820557
+What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?,South Coast Metro,"Irvine business centers of The Irvine Spectrum, West Irvine",50,0.3641363382339477
+Time and space are both examples of what type of resource?,complexity resources,computational,14,0.4291266798973083
+How did Luther view Islam?,tool of the devil,he was indifferent to its practice,28,0.3425989747047424
+What can be the result of a change in an organization?,stress,Stress,1,0.9999998807907104
+How much land do farms use in Victoria?,"136,000 square kilometres",60% of the state's total land surface,31,0.4233900606632232
+How much did the gross agricultural product increase from 2003-04?,$8.7 billion,17%,11,0.4143045246601105
+What's the party's take on Muslim history?,a different view,"HT sees Islam's pivotal turning point as occurring not with the death of Ali, or one of the other four rightly guided Caliphs in the 7th century, but",137,0.3225779235363006
+Who specifically does HT target to change the opinion of?,elites,Muslim public,11,0.4688698351383209
+What sin were the leaders the extremists attacked guilty of?,promoted Western/foreign ideas and practices into Islamic societies,apostate,60,0.3429834246635437
+Of what mathematical nature is the Basel problem?,identity,modern algebraic number theory,24,0.4712832570075989
+"Name one country that banned boating, driving and flying on Sundays.",Germany,The UK,7,0.6088671088218689
+What caused UK to have an oil crisis in its own country?,a series of strikes,embargo,17,0.4048391282558441
+When was this proclamation issued?,1629,IDK,4,0.483034074306488
+Which region invented the machine gun?,European,Europe,2,0.8512678146362305
+Where is the Science Village located?,Centre for Life,Newcastle,13,0.3450908660888672
+How many sororities belong to the National Panhellenic Conference?,Alpha Phi Omega,Four,15,0.3503199219703674
+To what did Martin Luther devote all his attention ?,Augustinian order,"fasting, long hours in prayer, pilgrimage, and frequent confession",55,0.3677802681922912
+What work of Luther's became popular?,Bible translation,Luther's version,13,0.4922037124633789
+What did Luther think was required to stop the violence?,personal presence,God's word,15,0.4033268392086029
+Who created an engine using high pressure steam in 1801?,Oliver Evans,Richard Trevithick,15,0.4994177222251892
+Where did ITV Tyne Tees move in 2005?,a new facility,The Watermark business park,23,0.5036540627479553
+The idea that Islam can be apolitical isn't able to be embraced by whom?,its supporters,Islamism,13,0.3883425891399383
+Who funds the IPCC's Deputy Secretary?,United Nations Environment Programme,UNEP,32,0.4647227823734283
+Who did internet2 partner with,"The Internet2 community, in partnership with Qwest",Level 3 Communications,37,0.3947598934173584
+What's the climate like in Newcastle?,oceanic,milder than some other locations in the world at a similar latitude,62,0.3423143029212951
+Where does the proportion of shared and converted houses in 2011 put this dwelling type in the color-coded brackets?,5.9%,within the highest,18,0.3120665848255157
+Where is the Rhine? ,Europe,European,2,0.8512678146362305
+What is a type of disobedience against the federal government?,refusals to pay taxes,draft dodging,18,0.3919220268726349
+What side effect of these type of protests is unfortunate?,coercion,make it more difficult for a system to function,40,0.3387039601802826
+What goal do many of these protests have?,engage in moral dialogue,get their issue onto the table,23,0.408291608095169
+What party is strongest in Melbourne's affluent areas?,Liberal Party,Liberals,6,0.5600979328155518
+Why is the final bill passed to the Monarch?,royal assent,"a 4-week period has elapsed, during which the Law Officers of the Scottish Government or UK Government can refer the bill to the Supreme Court of the United Kingdom for a ruling",166,0.2793075144290924
+What measure of a computational problem broadly defines the inherent difficulty of the solution?,if its solution requires significant resources,complexity,42,0.4511725902557373
+What does the W and Z boson exchange create?,weak force,beta decay (of neutrons in atomic nuclei) and the associated radioactivity,67,0.3506659865379333
+What was developed for the Air Force ,survivable communications networks,distributed adaptive message block switching,36,0.4853532314300537
+What are Apicomplexans a type of?,chromalveolates,parasitic,12,0.3596608638763428
+What delivery message was used ,by store and forward switching,packets,28,0.4759021401405334
+How many sacks did Derek Wolfe register?,5½,512,2,0.5814002156257629
+Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66,7,0.4370768666267395
+"If q=9 and a=3,6 or 9, how many primes would be in the progression?",at most one prime number,infinitely many,20,0.4337616264820099
+What does the beroida have instead of feeding appendages?,large pharynx,macrocilia,11,0.4292598068714142
+What has risen to be a factor in teaching today?,the internet,technology,9,0.4821658730506897
+What is another way of learning that is not formal?,informal,field trips,9,0.5826379656791687
+What was Luther's marriage seen as by others?,seal of approval,reckless,15,0.340658575296402
+When was the current parliament of Scotland convened?,Following a referendum in 1997,1998,27,0.4532067477703094
+What famous author used similarity and likeness of Percy Shelly in his writing?,Henry David Thoreau,Gandhi,16,0.3151683509349823
+What was the main reason for the show's suspension in 1989?,Its late 1980s performance of three to five million viewers,poor,55,0.2885515391826629
+Who among Genghis Khan's subjects shared similar privileges to his close family members'?,his generals,"Muqali, Jebe and Subutai",19,0.3751911520957947
+What mechanism can be used to make oxygen?,zeolite molecular sieves,pressure swing adsorption,22,0.5069603323936462
+What can scales and spring balances measure between two forces by using static equilibrium?,forces,weight,6,0.7256214618682861
+What equals the spring reaction force on an object suspended on a spring reaction scale? ,gravity,weight,6,0.7849302291870117
+What is the name of one type of computing method that is used to find prime numbers?,distributed computing,Mersenne Prime Search,20,0.3983746170997619
+where is the Victoria and Albert Museum located?,The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea,London,85,0.3459800481796264
+"In the layered model of the Earth, the outermost layer is what? ",crust,lithosphere,10,0.3573949635028839
+What part of the Rhine flows west at Katwijk?,Old Rhine,Oude Rijn,5,0.3053447306156158
+"For a field F containing 0 and 1, what would be the prime field?",the smallest subfield,Q,21,0.3600091338157654
+In what group of compounds is oxygen a necessary part?,organic compounds,ethers,16,0.6666132211685181
+What is a D-loop?,a Cairns replication intermediate,double displacement loop,28,0.4686692357063293
+What did Polo call the Yuan capital?,Cambaluc,Campaluc,1,0.7171022891998291
+What is the Canal in Wesel? ,Wesel-Datteln Canal,second east-west shipping route,25,0.3881775736808777
+What has replaced the former shipping premises?,Large-scale regeneration,imposing new office developments,26,0.4657149910926819
+Where are the upper Rhine and upper Danube crossed?,southern,Baden and Württemberg,18,0.3831965923309326
+What is one result of civil rebellion?,destructive,destruction,2,0.6931018829345703
+Cristian Bay's encyclopedia concludes that civil disobedience does not only include what behavior?,non-violence,non-violent,2,0.814741313457489
+"In his defense of Doctor Who, what did Philip Howard compare to the London property market?",Monopoly,the violence of Dr Who,19,0.4438338875770569
+What was their first plan that was launched?,National Climate Change Action Plan,Vision 2030,30,0.4505181014537811
+Who was the film Charly produced by?,Ralph Nelson,ABC Pictures,12,0.4743869304656982
+When is Sir Pindar's house dated?,c1600,1600,1,0.5781143307685852
+How much of a difference in homicide rates are related to inequality?,tenfold,half,6,0.5804367065429688
+What is the Chinese name for the Yuan dynasty?,Yuán Cháo,,9,0.0
+What do forces have with regard to additive quantities?,magnitude and direction,crucial properties,18,0.4155861735343933
+What did the loss mean to France?,"disappearance of a strong ally and counterweight to British expansion, leading to their ultimate dispossession",IDK,110,0.3322989046573639
+Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?,one MSP,Tricia Marwick,12,0.2933996319770813
+A specific algorithm demonstrating T(n) represents what measure of time complexity?,upper bound,running time,11,0.4837586879730224
+"If the apparant force of two fermions is attractive, what is the spin function?",antiparallel,antisymmetric,9,0.6465483903884888
+"If the apparant force of two fermions is repulsive, what is the spin function?",parallel,symmetric,9,0.7348918318748474
+"Which is more costly, formal, or informal imperialism?",informal,formal,2,0.9020926356315612
+What kind of immune system do bacteria have?,enzymes that protect against bacteriophage infections,rudimentary,47,0.3164234757423401
+Where do dikes form?,in areas that are being actively deformed,along cracks,36,0.3245335817337036
+What is the name of another type of modern primality test?,deterministic,Monte Carlo,12,0.3634602427482605
+How successful was initial effort by Braddock?,disaster; he was defeated in the Battle of the Monongahela,None succeeded,51,0.3244438171386719
+By which year did the American cars mpg start to improve?,1985,1970,2,0.8185666799545288
+Name a luxury model that became popular in the mid-1970s.,"Lincoln Continental,",Cadillac DeVille and Fleetwood,24,0.5299511551856995
+The West saw the East as what?,inferior,irrational and backward,19,0.4966103732585907
+How are forces classified with regard to push and pull strengt?,vector quantities,sizes dependent upon how strong the push or pull is,43,0.356143593788147
+How do you determine the acceleration of a rope when two people are pulling it?,Associating forces with vectors,it is impossible to determine,26,0.3303520977497101
+Colonialism as a policy is caused by financial and what other reasons?,ideological,settlement or commercial intentions,29,0.5117420554161072
+What should be avoided when talking to authorities?,suspect's talking to criminal investigators,rude,41,0.4313953518867492
+What type of arts flourished in the Yuan?,"painting, mathematics, calligraphy, poetry, and theater",classical Chinese art,45,0.4430839419364929

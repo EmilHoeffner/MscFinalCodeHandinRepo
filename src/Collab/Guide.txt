@@ -1,0 +1,41 @@
+1. Put Collab.ipynb in google colab environment
+
+2. Choose the T4 GPU
+
+3. Put scripts and "Storage.zip" with "Storage - Correct" in the environment
+
+4. Set the dataset identifier in the code to e.g. Squad_Test, depending on which dataset you want to evaluate over. This is done by 
+setting "data_set_iden = "Squad_Tune" in the second last cell of the notebook. 
+
+5. Set the prompter to either zero shot or few shot. This is done by setting "prompter = ZeroShotPrompter()" or "prompter = FewShotPrompter()" 
+in the second last cell. 
+
+6. Set the BM25 parameters to either tuning or test parameters. This is done, by in the "get_retrieved_contexts" method of the notebook
+setting either this code in the beginning of the method (if run on tuning splits):
+
+    if data_set_name == "Squad":
+        (b, k1) = hyperparameters.BM25_default()
+    elif data_set_name == "WikiMultiHop":
+        (b, k1) = hyperparameters.BM25_default()
+    else:
+        raise Exception("Unknown Dataset name. Must be either Squad or WikiMultiHop")
+
+or setting this code in the beginning of the method (if run on test splits):
+
+    if data_set_name == "Squad":
+        (b, k1) = hyperparameters.Squad_BM25_tuned()
+    elif data_set_name == "WikiMultiHop":
+        (b, k1) = hyperparameters.WikiMultiHop_BM25_tuned()
+    else:
+        raise Exception("Unknown Dataset name. Must be either Squad or WikiMultiHop")
+
+
+7. Run the all the code of the notebook (you might have to set the collab access key so the model can be fetched from huggingface). You might also have to run the first cell twice (click restart session and then run again if it does errors out, then it works).
+
+8. When the notebook has been run, results of the run are stored in "Storage - Correct/EvaluationFiles/<DATASETNAME>". It contains
+three files: "M_question.csv", "M_RAG.csv" and "M_context.csv". These contains results for the models "M_question", "M_RAG" and 
+"M_ceil" respectively. Please save these to your local Storage directory in the same place. 
+
+
+For me, it was necessary to run the code spread out over 5 days, where i every other day ran results for 2 data splits. 
+This is due to the fact that i used the free version, where you have limited quota that needs some time to restore again.

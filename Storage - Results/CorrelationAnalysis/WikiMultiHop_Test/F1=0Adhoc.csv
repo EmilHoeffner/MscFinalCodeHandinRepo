@@ -1,0 +1,627 @@
+question,True Answer,Predicted Answer,EditDist,BERT
+"Are both rivers, Claro River (Lower Tietê River) and Cabixi River, located in the same country?",yes,no,3,0.7633386850357056
+"Do the movies Touch Of Pink and The Head Of The Family (1922 Film), originate from the same country?",yes,no,3,0.7633386850357056
+Are both On A Magical Night and The Mongols (Film) from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director born later, Colour Blossoms or Kai Rabe Gegen Die Vatikankiller?",Kai Rabe Gegen Die Vatikankiller,Colour Blossoms,31,0.32840296626091
+"Which film has the director born earlier, To Dorothy A Son or Jurášek?",Jurášek,To Dorothy a Son,15,0.3106252551078796
+Are Moree Railway Station and Molesworth Railway Station located in the same country?,yes,no,3,0.7633386850357056
+Are La Minorenne and The Lovers (1946 Film) both from the same country?,yes,no,3,0.7633386850357056
+Are To Kill A Dragon and Tannenberg (Film) from the same country?,yes,no,3,0.7633386850357056
+Are Dibujando El Cielo and Tac-Tac both from the same country?,yes,no,3,0.7633386850357056
+What nationality is the director of film Two For Texas?,Australia,Australian,1,0.830821692943573
+"Who is younger, Mart Van Duren or Madeleine Simms?",Mart Van Duren,Madeleine Simms,11,0.4391466081142425
+"Who is younger, Jeong Hae-Rim or Michael Drga?",Jeong Hae-Rim,Michael Drga,13,0.2890179753303528
+"Which film has the director born earlier, Hello Caesar! or Arizona Nights?",Arizona Nights,Hello Caesar!,13,0.3934005796909332
+Which country the director of film The Girl From The Naked Eye is from?,American,Chinese-American,8,0.5957056283950806
+"Are both movies, Everest (1998 Film) and Fighter Attack, from the same country?",yes,no,3,0.7633386850357056
+Are both Yam Island (Queensland) and Carnac Island located in the same country?,yes,no,3,0.7633386850357056
+Are Comrades (1921 Film) and Céleste (1982 Film) from the same country?,yes,no,3,0.7633386850357056
+Which country the director of film Mrs. Gibbons' Boys (Film) is from?,French,Australian,9,0.566376805305481
+What nationality is the director of film That Summer Of White Roses?,Croatia,Croatian,1,0.7868367433547974
+"Who lived longer, Ernst Düllberg or Louis-Antoine Ranvier?",Louis-Antoine Ranvier,Ernst Düllberg,17,0.488200694322586
+"Which film was released earlier, Farewell To The King or Brother Liu And Brother Wang On The Roads In Taiwan?",Brother Liu And Brother Wang On The Roads In Taiwan,Farewell to the King,42,0.3797098696231842
+Where was the place of death of the director of film Mole Men Against The Son Of Hercules?,Roma,Rome,1,0.6620814800262451
+Where was the director of film Edges Of The Lord born?,Poznań,Pozna,1,0.381045788526535
+"Which film came out first, Thappu Thalangal or Of Love And Shadows?",Thappu Thalangal,Of Love and Shadows,17,0.2242118269205093
+"Who was born earlier, Ronald King Murray, Lord Murray or Ion Cojar?","Ronald King Murray, Lord Murray",Ion Cojar,26,0.321525514125824
+Where was the wife of Alfred L. Copley born?,Seyðisfjörður,"Seyisfjörur, Iceland",11,0.6562203168869019
+"Who was born first, Ugonna Okegwo or Muhammad Hashim Kakar?",Ugonna Okegwo,Muhammad Hashim Kakar,19,0.3775648474693298
+What nationality is the director of film Abeti Masikini: Le Combat D'Une Femme?,Democratic Republic of the Congo,Congolese,29,0.5638040900230408
+"Are both businesses, Quarry (Company) and Fields (Department Store), located in the same country?",yes,no,3,0.7633386850357056
+Which country Roman Smoluchowski's father is from?,Austro-Hungarian Empire,Polish,21,0.3045332729816437
+Are director of film Faults (Film) and director of film Fair Exchange (Film) both from the same country?,yes,no,3,0.7633386850357056
+What is the award that the composer of film The Broken Disk got?,State Artist,IDK,12,0.4063160717487335
+"Which film has the director born later, L'Immortelle or The Fourth Companion?",L'Immortelle,The Fourth Companion,17,0.3347837328910827
+"Which film has the director who was born later, Land Of Hunted Men or Black Bandit?",Land Of Hunted Men,Black Bandit,15,0.4562651515007019
+"Which film was released more recently, Last Stop or The Bear And The Doll?",The Bear And The Doll,Last Stop,18,0.3608554899692535
+What nationality is the director of film The Gate Ii: Trespassers?,Hungary,Hungarian,3,0.8192571401596069
+Where was the director of film The Search For Animal Chin born?,Venice,IDK,6,0.4861275851726532
+Where was the director of film The Girl From Fano born?,Berlin,German,3,0.6718852519989014
+What is the place of birth of the director of film Adam And Eve (1923 Film)?,Hamburg,St. Pauli,8,0.3964089751243591
+What is the place of birth of the composer of film Tana (Film)?,Shkodër,Shkodr,1,0.8584247827529907
+"Who is older, Vernon H. Vaughan or William Francis Frederick Waller?",Vernon H. Vaughan,William Francis Frederick Waller,28,0.5263309478759766
+What nationality is the director of film 11 Harrowhouse?,American,Armenian-American,9,0.5890661478042603
+What nationality is the director of film Guns Of Diablo?,American,Ukrainian-American,10,0.5804622769355774
+"Which film has the director who was born earlier, Face Of A Fugitive or Cage Of Gold?",Cage Of Gold,Face of a Fugitive,13,0.5089147090911865
+Are Sydney Park (Actress) and Karl August Folkers of the same nationality?,yes,no,3,0.7633386850357056
+Do both films: Blockade (1938 Film) and Woman In The River have the directors from the same country?,yes,no,3,0.7633386850357056
+"Who is younger, Bernard Chambaz or Tibor Pézsa?",Bernard Chambaz,Tibor Pézsa,12,0.4251428544521332
+"Who is younger, H. Dean Evans or Henry G. Hager?",Henry G. Hager,H. Dean Evans,12,0.5802203416824341
+What nationality is the director of film Enfantasme?,Italy,Italian-French,10,0.5148953199386597
+"Do the movies The Communist (Film) and Vella Kalpi, originate from the same country?",yes,no,3,0.7633386850357056
+What is the place of birth of the director of film Super Singh?,Jalandhar,Mumbai,8,0.6200336813926697
+What nationality is the director of film The Shark (1920 Film)?,Canadian,Canadian-American,9,0.6478748321533203
+"Are the movies The Wings Of The Dove (1981 Film) and Prison Sans Barreaux, from the same country?",yes,no,3,0.7633386850357056
+"Are both movies, The Almighty Dollar (1923 Film) and Alfons Zitterbacke, from the same country?",yes,no,3,0.7633386850357056
+What is the place of birth of the director of film Huey Long (Film)?,Brooklyn,IDK,8,0.4343027472496032
+What nationality is the director of film Vortex (1976 Film)?,Italy,Italian-French,10,0.5148953199386597
+Who is the maternal grandfather of Irmgard Of Chiemsee?,Welf,King Louis the German,20,0.3473477363586426
+Was Frank Kühne or Subhash Bapurao Wankhede born first?,Frank Kühne,Subhash Bapurao Wankhede,20,0.3910892903804779
+Are The Grand Duke'S Finances (1934 Film) and The Rainer Case both from the same country?,yes,no,3,0.7633386850357056
+Where was the father of Przemysław Potocki born?,Monastyryska,Warsaw,9,0.4024201035499573
+"Are both movies, Crossing The Line 2: The New Face Of Anti-Semitism On Campus and Buffalo Soldiers (2001 Film), from the same country?",yes,no,3,0.7633386850357056
+"Did the movies Cock Of The Roost and Nobody'S Perfect, originate from the same country?",yes,no,3,0.7633386850357056
+Which country the composer of film Sergeant Hassan is from?,Malaysia,French,8,0.5124102234840393
+Do director of film Trouble In The Glen and director of film Hennessy (Film) have the same nationality?,yes,no,3,0.7633386850357056
+What nationality is the director of film Oļegs Un Aina?,Soviet,Latvian,5,0.6283594369888306
+Do director of film The Black Book (Serial) and director of film Meyer From Berlin share the same nationality?,yes,no,3,0.7633386850357056
+Which country the director of film A Man'S Country is from?,American,Germany,5,0.5658442378044128
+"Which film has the director who was born earlier, Chad Hanna or The Avenging Shadow?",Chad Hanna,The Avenging Shadow,15,0.4335396587848663
+When was the company that published Pharmacoeconomics (Journal) founded?,2015,IDK,4,0.4607280492782593
+Where was the husband of Caterina Visconti born?,Pavia,Milan,5,0.5301070809364319
+What nationality is the director of film Claustrophobia (2003 Film)?,U.S.,American,8,0.3485874533653259
+Which country the director of film Yellowbeard is from?,American,British,7,0.6835518479347229
+"Where was the father of Richard (Iii), Bishop Of Bayeux born?",Caen,Worcester,8,0.5073104500770569
+"Which film was released first, Heroes All or Stronghold Of Toughs?",Heroes All,Stronghold of Toughs,17,0.504646897315979
+"Who lived longer, Eleni Lambiri or Douglas Wilmer?",Douglas Wilmer,Eleni Lambiri,13,0.4255368113517761
+"Which film was released first, Black Butterflies or Winterurlaub Mit Dem Fdgb?",Winterurlaub Mit Dem Fdgb,Black Butterflies,20,0.2992872297763824
+"Which film has the director who is older, Senseless or Peões?",Peões,Senseless,6,0.3815623521804809
+What nationality is John Morgan (Of Rhiwpera)'s father?,England,Welsh,6,0.5470160245895386
+Which country the director of film After Winter: Sterling Brown is from?,United States,Ethiopian,11,0.4204933047294616
+What nationality is the director of film People Die For Metal?,Russia,Russian,1,0.895858645439148
+"Which film came out earlier, Marriage Blue or 4 Minute Mile?",Marriage Blue,4 Minute Mile,10,0.4411539435386657
+Who is Prince Koreyasu's paternal grandfather?,Emperor Go-Saga,Prince Munetaka,13,0.5401037931442261
+"Which film was released earlier, Compañeros De Aventuras or Yateem?",Compañeros De Aventuras,Compaeros de aventuras,3,0.9270801544189452
+Which country the director of film Citizen Mavzik is from?,Latvian,Latvian-American,9,0.5744038820266724
+"Which film has the director who is older than the other, Raghuvinte Swantham Raziya or Eagoler Chokh? ",Raghuvinte Swantham Raziya,Eagoler Chokh,22,0.5024058222770691
+Where did the director of film Request Concert die?,Kreuth,Kreuth-Weißach,8,0.7581643462181091
+Are director of film Thought Crimes: The Case Of The Cannibal Cop and director of film Love And Other Disasters both from the same country?,yes,no,3,0.7633386850357056
+Where was the father of Gian Maria Visconti born?,Pavia,Abbiategrasso,11,0.4295222163200378
+"Which film has the director who died later, Lukket Avdeling or Three Hearts For Julia?",Three Hearts For Julia,Lukket avdeling,18,0.3504106998443603
+Who is David Of Trebizond's paternal grandmother?,Gulkhan-Eudokia of Georgia,Theodora Kantakouzene,22,0.3904782235622406
+Are both We Joined The Navy and Love Story (1944 Film) from the same country?,yes,no,3,0.7633386850357056
+"Were both Pietro Salini and Domenico Ravenna, born in the same place?",yes,no,3,0.7633386850357056
+Where was the place of death of the director of film Unwilling Lovers?,American,New York City,12,0.4226420223712921
+"Where was the mother of Viktor Manakov (Cyclist, Born 1992) born?",Panevėžys,Panevys,2,0.5434104800224304
+Where does the director of film The Skin Game (1921 Film) work at?,Hollandia,Granger-Binger,13,0.4209301173686981
+"Did the movies The Man With The Iron Heart (Film) and Flowers Of Evil (Film), originate from the same country?",yes,no,3,0.7633386850357056
+"Did the bands The Dirty Youth and Poacher (Band), originate from the same country?",yes,no,3,0.7633386850357056
+"Are both movies, The Week Of The Sphinx and A Day For Lionhearts, from the same country?",yes,no,3,0.7633386850357056
+"Are the movies The Statement (Film) and A Self Made Hero, from the same country?",yes,no,3,0.7633386850357056
+"Who lived longer, Louis Ncamiso Ndlovu or Raymond Balze?",Raymond Balze,Louis Ncamiso Ndlovu,17,0.399633377790451
+"Who is younger, Curuppumullage Jinarajadasa or W. K. Mcneil?",W. K. Mcneil,W.K. McNeil,2,1.0
+Do both Dreams In A Drawer and Tifosi (Film) films have the directors from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director who is older than the other, Handsome Siblings or 5 Flights Up? ",5 Flights Up,Handsome Siblings,17,0.410372644662857
+Do both Let'S Talk (2015 Film) and Tigre Reale films have the directors from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director died earlier, Remember The Day or Cast Up By The Sea?",Cast Up By The Sea,Remember the Day,14,0.3602229654788971
+What is the place of birth of the director of film 911 Nightmare?,American,IDK,8,0.3981325328350067
+"Which film has the director who is older than the other, Images/Reflections or Lower City? ",Images/Reflections,Images/ Reflections,1,0.9999999403953552
+"Which film has the director born earlier, Lithivm or Romeo.Juliet?",Romeo.Juliet,Romeo. Juliet,1,1.0000001192092896
+"Which film has the director who was born earlier, The Red-Haired Alibi or Blondes By Choice?",Blondes By Choice,The Red- Haired Alibi,18,0.3171330094337463
+"Which film has the director who died later, Suyetchai Mla or Brilliant Lies?",Suyetchai Mla,Brilliant Lies,13,0.3681236803531647
+Where did Countess Johanna Magdalene Of Hanau-Lichtenberg's mother die?,Babenhausen,St. Mary's Church in Hanau,23,0.3947866857051849
+What nationality is Amytis Of Media's husband?,Babylon,Iraqi,7,0.6257713437080383
+"Who was born earlier, J Yaw Wu or Eduard Hämäläinen?",Eduard Hämäläinen,J Yaw Wu,15,0.3270381093025207
+Where was the director of film Kanneshwara Rama born?,Mysore,India,6,0.6715781688690186
+Who was born first out of Otto Schimek and Yip Ho Nung?,Yip Ho Nung,Otto Schimek,11,0.3513680398464203
+Who is Princess Caroline Napoléon's maternal grandmother?,Chantal de Chevron-Villette,Princess Béatrice of Bourbon-Two Sicilies,32,0.43661829829216
+Who is Pheidon I's paternal grandfather?,Aristomachus,Temenus,9,0.5224723219871521
+"Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!?",Marriage In Name Only,Mille chilometri al minuto!,22,0.2620411515235901
+Do John Maclean (Sportsperson) and Rachel Gordon have the same nationality?,yes,no,3,0.7633386850357056
+What is the place of birth of the director of film The Criminal (1926 Film)?,Polish,Poland,3,0.8235241174697876
+Do both films: Black Forest Children and Sometime In August have the directors from the same country?,yes,no,3,0.7633386850357056
+Are Say You Want Me and Dead Calm (Film) from the same country?,yes,no,3,0.7633386850357056
+"Are both movies, The Bad Education Movie and Werewolves Of The Third Reich, from the same country?",yes,no,3,0.7633386850357056
+"Which film has the director who was born first, Nagalit Ang Buwan Sa Haba Ng Gabi or Roberto Carlos E O Diamante Cor-De-Rosa?",Roberto Carlos E O Diamante Cor-De-Rosa,Nagalit ang Buwan sa Haba ng Gabi,34,0.3890388607978821
+"Which film has the director who died later, Nagalit Ang Buwan Sa Haba Ng Gabi or Roberto Carlos E O Diamante Cor-De-Rosa?",Roberto Carlos E O Diamante Cor-De-Rosa,Nagalit ang Buwan sa Haba ng Gabi,34,0.3890388607978821
+"Who is Infante Manuel, Count Of Ourém's paternal grandmother?",Luisa de Guzmán,Maria Sophia of Neuburg,18,0.4681766033172607
+What is the place of birth of the director of film Detective Willy?,San Cristóbal Province,Santo Domingo,14,0.4904044568538666
+"Which film was released more recently, Jalitgeola or 5 Against The House?",5 Against The House,Jalitgeola,15,0.3041430711746216
+What nationality is Jan Karol Opaliński's father?,Polish-Lithuanian Commonwealth,Polish,24,0.4931778013706207
+"Which film was released more recently, Abla Ki Shakti or L'Affittacamere?",L'Affittacamere,L'affittacamere,1,1.0
+"Who died earlier, Forouzan or Sir Robert Rankin, 1St Baronet?","Sir Robert Rankin, 1St Baronet",Forouzan,26,0.2384098768234253
+What nationality is the director of film Let'S Dance (2009 Film)?,Nepal,Nepalese,3,0.7034858465194702
+"Which film was released more recently, Supertex or The Forbidden Path?",Supertex,SuperTex,1,1.0
+Where was the place of death of Thomas Sheridan (Soldier)'s father?,London,Westminster Abbey,16,0.5131884217262268
+What nationality is Marie Leszczyńska's mother?,Polish-Lithuanian Commonwealth,Polish,24,0.4931778013706207
+"Which film was released earlier, Montana Belle or The Grand Olympics?",Montana Belle,The Grand Olympics,15,0.4417595267295837
+"Who lived longer, Martino Finotto or Franklin Edson?",Martino Finotto,Franklin Edson,12,0.4589326679706573
+"Which film has the director who died earlier, Il Contratto or The Fiddler Of Florence?",The Fiddler Of Florence,Il Contratto,20,0.3795802295207977
+"Which film has the director who was born later, Wedding In Paris or All For Free?",All For Free,Wedding in Paris,14,0.3333715498447418
+Which country the director of film Paris: Xy is from?,Democratic Republic of the Congo,France,28,0.3810075521469116
+"Which film has the director born earlier, The King Of England Will Not Pay or Outlaws Of The Orient?",The King Of England Will Not Pay,Outlaws of the Orient,27,0.4092688858509063
+"Which film has the director died earlier, The Man With The Glass Eye or His Buddy'S Wife?",His Buddy'S Wife,The Man with the Glass Eye,23,0.4060972332954407
+"Who died later, Higinio Uriarte or Boyd Merriman, 1St Baron Merriman?","Boyd Merriman, 1St Baron Merriman",Higinio Uriarte,28,0.3267721831798553
+Where was the husband of Esperanza Osmeña born?,Cebu,IDK,4,0.3975346386432647
+Are both director of film All Hands On Deck (Film) and director of film The Star Of Valencia from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director who died earlier, Mayor Muthanna or The Market Of Souls?",The Market Of Souls,Mayor Muthanna,16,0.3861618638038635
+Where was the director of film The Interpreter (2018 Film) born?,Žilina,ilina,1,0.5997010469436646
+What is the place of birth of the director of film The Watermelon Woman?,Liberian,Liberian-American,9,0.710708498954773
+"Are the bands Eleventh Dream Day and The Los Dos Bros, from the same country?",yes,no,3,0.7633386850357056
+What is the place of birth of the performer of song That'S What I Like About The South?,Indiana,IDK,6,0.4477375447750091
+"Which film was released first, Modra (Film) or Así Te Deseo?",Así Te Deseo,As te deseo,3,0.8521500825881958
+"Who was born earlier, Helen Clifton or Steve Barancik?",Helen Clifton,Steve Barancik,12,0.3976240456104278
+Do both films: Ripkin and This Man Is Mine (1934 Film) have the directors from the same country?,yes,no,3,0.7633386850357056
+Where was the place of burial of the composer of film The Inner Scar?,Berlin,IDK,6,0.4900011420249939
+Do director of film Born American and director of film The White Raven (1998 Film) share the same nationality?,yes,no,3,0.7633386850357056
+"Which film has the director died earlier, A Captive In The Land or Curtain Up?",A Captive In The Land,Curtain Up,17,0.4184630215167999
+Who is Leopoldo De Austria's paternal grandfather?,"Frederick III, Holy Roman Emperor",Maximilian I,28,0.3661721646785736
+What is the place of birth of Safiyyah Bint Abi Al-As's husband?,Mecca,IDK,5,0.4484555423259735
+Are the directors of both films All Inclusive (2019 Film) and Mission In Tangier from the same country?,yes,no,3,0.7633386850357056
+"Who lived longer, Kálmán Rózsahegyi or Lili Damita?",Lili Damita,Kálmán Rózsahegyi,14,0.4101045131683349
+What is the place of birth of Constance Of Arles's husband?,Orléans,Arles,4,0.507387101650238
+Who is Princess Florestine Of Monaco's paternal grandmother?,Louise d'Aumont,Maria Caroline Gibert de Lametz,25,0.5320018529891968
+What is the place of birth of A'Isha Bint Talhah's husband?,Mecca,Basra,4,0.465625524520874
+Does Masayuki Koga have the same nationality as Ernest Riedel?,yes,no,3,0.7633386850357056
+"Which film has the director who was born later, Huras or Nuvvante Naakishtam?",Huras,Nuvvante Naakishtam,16,0.4510633051395416
+Who is the sibling-in-law of Archidamia?,Agis III,Eudamidas I,9,0.5927129983901978
+What is the place of birth of Katarina Martinson's father?,Norrköping,Stockholm,9,0.5446707010269165
+What is the place of birth of the director of film Revival (2013 Film)?,České Budějovice,eské Budjovice,2,0.5955329537391663
+Are Car Trouble (Film) and White Heat (1926 Film) both from the same country?,yes,no,3,0.7633386850357056
+Who is Hye Of Baekje's paternal grandfather?,Muryeong,Seong,4,0.6649995446205139
+Where was the director of film A Very Moral Night born?,Berettyóújfalu,"Berettyójfalu, Hungary",10,0.6716843843460083
+What is the place of birth of the director of film Preston Tylk?,Kearney,IDK,7,0.3797683119773865
+"Which film has the director who is older than the other, Suzanne'S Career or Vente A Alemania, Pepe? ","Vente A Alemania, Pepe",Suzanne's Career,19,0.3260860443115234
+"Which film was released earlier, Kalahasti Mahatyam or Killer Darts?",Kalahasti Mahatyam,Killer Darts,13,0.3939902782440185
+Which country the director of film The White Countess is from?,America,American,1,0.7450175881385803
+"Which film was released more recently, Fraternity Vacation or The Striker With Number 9?",The Striker With Number 9,Fraternity Vacation,19,0.3684071004390716
+"Which film has the director who was born earlier, Ringo The Lone Rider or Den Sommeren Jeg Fylte 15?",Ringo The Lone Rider,Den sommeren jeg fylte 15,20,0.3478873074054718
+Where was the director of film Elinor Norton born?,Boston,Massachusetts,11,0.7823776602745056
+What nationality is the performer of song Come Back (Jessica Garlick Song)?,British,Welsh,5,0.4572798609733581
+"Who is Edmund Butler, 1St Earl Of Kilkenny's paternal grandmother?",Charlotte Bradstreet,Henrietta Butler,13,0.459954023361206
+"Who lived longer, Claes-Ulrik Winberg or André Piters?",André Piters,Claes- Ulrik Winberg,15,0.4203842580318451
+"Are the movies Open Water 2: Adrift and Step Across The Border, from the same country?",yes,no,3,0.7633386850357056
+Who is the paternal grandfather of Zhengde Emperor?,Chenghua,Hongzhi Emperor,13,0.6457914710044861
+"Which film has the director who died later, John Heriot'S Wife or The Marriage Of Kitty?",The Marriage Of Kitty,John Heriot's Wife,16,0.4577402770519256
+"Which film has the director who died first, Vice Raid or The Courier Of Lyon?",Vice Raid,The Courier of Lyon,17,0.4076088964939117
+What is the place of birth of the director of film Moonlighting (Film)?,Łódź,ód,2,0.5188504457473755
+"Who is Prince Aage, Count Of Rosenborg's paternal grandmother?",Louise of Hesse-Kassel,Princess Marie d'Orléans,21,0.4948496520519256
+Do director of film The Case Of The Stuttering Bishop and director of film 3096 Days share the same nationality?,yes,no,3,0.7633386850357056
+Where was the mother of Marie Henriette Of Austria born?,Pokój,"Pest, Hungary",12,0.2934763133525848
+"Which film has the director who died later, The Lafarge Case or Hearts In Bondage?",Hearts In Bondage,The Lafarge Case,15,0.352078765630722
+Are John F. Mulholland Jr. and Tony Succar of the same nationality?,yes,no,3,0.7633386850357056
+"Do both films, Amuck! and Sole Nudo, have the directors who are from the same country?",yes,no,3,0.7633386850357056
+Where was the director of film There'S No Tomorrow (Film) born?,Saarbrücken,German-born,10,0.3846538662910461
+Are Brian Part and John Mosca both from the same country?,yes,no,3,0.7633386850357056
+What is the place of birth of the director of film This Kind Of Love (Film)?,Parma,Rome,4,0.7073746919631958
+What is the place of birth of Oliver Penrose's father?,London,IDK,6,0.4631162583827972
+Who is Adolf Of Burgundy's paternal grandmother?,Marie de La Vieville,Anna of Borselen,16,0.5442286729812622
+Are both Horezu (Bistricioara) and Bogdana (Simila) located in the same country?,yes,no,3,0.7633386850357056
+"Are both director of film Germany, Year Zero and director of film Cross Shot from the same country?",yes,no,3,0.7633386850357056
+Are Sueko Matsueda Kimura and George Watterston both from the same country?,yes,no,3,0.7633386850357056
+What is the place of birth of Nilüfer Hatun's husband?,Söğüt,Söüt,1,0.6692557334899902
+"Which film has the director who died earlier, Moonlight And Pretzels or Husmandstøsen?",Husmandstøsen,Moonlight And Pretzels,19,0.3120805621147156
+Are both director of film Anna (2019 Film) and director of film The Road To Jenin from the same country?,yes,no,3,0.7633386850357056
+"Which film was released earlier, Awaaz or Cadillac Man?",Awaaz,Cadillac Man,10,0.4634020626544952
+"Which film has the director died earlier, No, No, Nanette (1930 Film) or What'S Your Husband Doing??",What'S Your Husband Doing?,"No, No, Nanette",21,0.2702952623367309
+Who is the maternal grandfather of Floris De Voogd?,Henry I,Matilda of Brabant,17,0.3287802338600158
+What is the place of birth of the director of film The Great Awakening (Film)?,Hamburg,St. Pauli,8,0.3964089751243591
+Where was the performer of song Bag Skyerne born?,Århus,"rhus, Region Midtjylland, Denmark",30,0.4052501022815704
+Do both directors of films The White Hen and French Kiss (1995 Film) have the same nationality?,yes,no,3,0.7633386850357056
+"Which film has the director who is older than the other, I As In Icarus or Move Over, Darling? ","Move Over, Darling",I as in Icarus,15,0.3311480283737182
+Where was the director of film Tremors 2: Aftershocks born?,American,IDK,8,0.3981325328350067
+Are the directors of both films Lovers Lane (2005 Film) and Gross Misconduct: The Life Of Brian Spencer from the same country?,yes,no,3,0.7633386850357056
+What nationality is the director of film Surviving Picasso?,America,American,1,0.7450175881385803
+Who is Nebmaatre (Prince)'s paternal grandmother?,Takhat,Mentuherkhepeshef,15,0.4774353206157684
+What is the place of birth of Prince Nikolaus Wilhelm Of Nassau's mother?,Stuttgart,Dillenburg,9,0.4023021459579468
+Are both Enmelen and Yelshanka located in the same country?,yes,no,3,0.7633386850357056
+Do both films Three Men From Texas and Je Suis Un Sentimental have the directors from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director who died first, Did A Good Man Die? or The Last Of The Knucklemen?",The Last Of The Knucklemen,Did a Good Man Die?,21,0.372711032629013
+Where was the place of death of the director of film The River Wild?,L.A.,American,8,0.2462629079818725
+Where did the director of film Napoleon (1995 Film) graduate from?,Film and Television School,Flinders University,20,0.3827721774578094
+Do both films Spirit (2012 Film) and Krishna Rukmini have the directors that share the same nationality?,yes,no,3,0.7633386850357056
+"Which film has the director born earlier, The Under Dog (Film) or Dr. Kildare'S Crisis?",Dr. Kildare'S Crisis,The Under Dog,16,0.3764227032661438
+Are both Andy Hilbert and Barbara Rylko-Bauer from the same country?,yes,no,3,0.7633386850357056
+Are director of film Just Maath Maathalli and director of film Theeram Thedunna Thira from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director who was born first, Angel And The Badman or Happy Days In Aranjuez?",Happy Days In Aranjuez,Angel and the Badman,18,0.3424589335918426
+"Which film has the director who was born first, Tombstone Rashomon or Waiting For The Clouds?",Tombstone Rashomon,Waiting for the Clouds,19,0.3782921135425567
+"Are the movies Hellraiser: Revelations and Night Of Mystery, from the same country?",yes,no,3,0.7633386850357056
+Do both films: Prison Stories: Women On The Inside and Kingston Paradise have the directors from the same country?,yes,no,3,0.7633386850357056
+Where was the director of film Poison Ivy: The New Seduction born?,L.A.,IDK,4,0.3839949667453766
+Who is Marie Zéphyrine Of France's paternal grandmother?,Marie Leszczyńska,Maria Josepha of Saxony,16,0.3576970100402832
+Who is the mother-in-law of Queen Sindeok?,Queen Uihye,Ebba Eriksdotter Vasa,19,0.3892571628093719
+Are the directors of films House Of Ricordi and Blood Of My Blood (2015 Film) both from the same country?,yes,no,3,0.7633386850357056
+What nationality is the performer of song Fiesta Buena?,France,French,2,0.7987915873527527
+Do director of film Ithemba and director of film Oklahoma Blues share the same nationality?,yes,no,3,0.7633386850357056
+Where did the director of film The Take (2007 Film) graduate from?,New York University,Tisch School of the Arts,19,0.352506011724472
+Are director of film A Dirty Shame and director of film The Heavenly Kings both from the same country?,yes,no,3,0.7633386850357056
+Where was the place of death of the director of film The Pipes?,Přerov,Perov,1,0.7085968255996704
+What nationality is the director of film Estudantes?,America,American,1,0.7450175881385803
+What nationality is the director of film The Mission (1983 Film)?,Iran,Iranian,3,0.7889846563339233
+Where was the director of film The Beautiful Adventure (1932 German-Language Film) born?,Hamburg,St. Pauli,8,0.3964089751243591
+"Which film has the director died earlier, Heartbroken On The Moselle or The Rough And The Smooth?",The Rough And The Smooth,Heartbroken on the Moselle,20,0.350200206041336
+"Which film has the director who died first, The Boss And The Worker or Claire'S Knee?",The Boss And The Worker,Claire's Knee,18,0.3706740736961365
+Who is the spouse of the director of film The Happy Ending (1931 Film)?,Mary Eaton,Lydia Stocking,11,0.563110888004303
+Were William G. Gray and Simon May from the same country?,yes,no,3,0.7633386850357056
+Do both directors of films A Summer'S Tale and Promise At Dawn share the same nationality?,yes,no,3,0.7633386850357056
+"Which film has the director who died first, Beat Girl or The White Squaw?",Beat Girl,The White Squaw,12,0.3903493285179138
+Who is the paternal grandmother of Ahmose-Nebetta?,Tetisheri,Queen Ahhotep I,12,0.4069631099700928
+What is the place of birth of the director of film The House In The Snow-Drifts?,Rēzekne,Rzekne,1,0.8425500392913818
+Where was the place of death of the director of film Scugnizzi?,Rome,Fregene,6,0.4779223799705505
+"What is the date of death of Heinrich, Duke Of Saxe-Merseburg's mother?",20 May 1701,28 July 1738,6,0.7229794859886169
+"Who is William Paulet, 4Th Marquess Of Winchester's paternal grandmother?",Elizabeth Willoughby,Agnes Howard,17,0.7248716354370117
+Who is Princess Caroline-Mathilde Of Denmark's mother-in-law?,Alexandrine of Mecklenburg-Schwerin,Hereditary Prince Knud,29,0.3066494464874267
+"Where was the father of John Roberts, 1St Baron Clwyd born?",Liverpool,"Abergele, Denbighshire",21,0.2895368933677673
+Where does Ekaterina Rybolovleva's father work at?,Uralkali,Monaco's football club AS Monaco,29,0.2501094043254852
+When is Gomes Echigues's father's birthday?,985,1010,4,0.7965695858001709
+"Which film has the director who died earlier, Thedi Vandha Mappillai or Jet Storm?",Thedi Vandha Mappillai,Jet Storm,20,0.338931530714035
+Which country Agnes Of Meissen's mother is from?,Germany,Sicily,6,0.6361460089683533
+"Which film has the director died earlier, Railroaded! or By The Light Of A Star?",By The Light Of A Star,Railroaded!,21,0.3465700149536133
+Where was the director of film Ashwamedha (Film) born?,Channapatna,Bangalore,8,0.3586369156837463
+What is the date of death of Begga's husband?,662,679,2,0.9142630696296692
+Who is the paternal grandfather of Nia Segamain?,Fer Corb,Adamair,7,0.339726835489273
+What is the place of birth of Princess Helena Of Nassau's father?,Kirchheimbolanden,Nassau,16,0.3719528913497925
+"Which film has the director who is older, See Naples And Die or Season Of Strangers?",See Naples And Die,Season of Strangers,16,0.3345422744750976
+"Which film was released first, Le Donk & Scor-Zay-Zee or Terror Trap?",Le Donk & Scor-Zay-Zee,Terror Trap,17,0.3641708791255951
+Are both Kaufland and Otrag located in the same country?,yes,no,3,0.7633386850357056
+Where did the composer of film A Man Escaped die?,Vienna,IDK,6,0.4908284246921539
+Where did the director of film Rok Sako To Rok Lo study?,IIPM,Indian Institute of Planning and Management,39,0.3047634065151214
+"Which film has the director died earlier, Payment On Demand or My Cousin From Warsaw?",My Cousin From Warsaw,Payment on Demand,17,0.3691849410533905
+Where did the director of film The Far Shore die?,Toronto,New York City,10,0.5415103435516357
+Where does the director of film War Dogs (1943 Film) work at?,Van Beuren Studios,Metro-Goldwyn-Mayer,19,0.2881844937801361
+Where was the director of film Phantoms Of Happiness born?,Hamburg,St. Pauli,8,0.3964089751243591
+Do both films: Mare Matto and Mother Song have the directors from the same country?,yes,no,3,0.7633386850357056
+Where was the director of film Hold That Girl born?,Boston,Massachusetts,11,0.7823776602745056
+"Which film was released earlier, The Little Convict or Office Romance?",Office Romance,The Little Convict,13,0.4773463010787964
+"Which film was released earlier, Un Príncipe De La Iglesia or O Costa Do Castelo?",O Costa Do Castelo,Un Prncipe de la iglesia,19,0.4940576553344726
+"Who is William I, Count Of Burgundy's father?","Reginald I, Count of Burgundy",Stephanie,27,0.3995330035686493
+"Which film has the director who died earlier, The Undercover Woman or Way Of A Gaucho?",Way Of A Gaucho,The Undercover Woman,18,0.38345468044281
+"Which film has the director died later, The Fighting Fist Of Shanghai Joe or With Life And Soul?",The Fighting Fist Of Shanghai Joe,With Life and Soul,25,0.319414347410202
+Where was the director of film Drifters (2003 Film) born?,Shanghai,"May 22, 1966",12,0.2480194270610809
+Who is the sibling-in-law of Vladimir Kovalevsky (Paleontologist)?,Anne Jaclard,Alexander Kovalevsky,15,0.3864298462867737
+Do both directors of films The Floating Dutchman and The Living And The Dead (2006 Film) have the same nationality?,yes,no,3,0.7633386850357056
+Who is the paternal grandfather of Matilda Of Hesse?,Louis I,Henry III,7,0.7267445921897888
+Who is the maternal grandfather of Princess Amalie Of Saxony?,Ferdinand,"Frederick Christian, Elector of Saxony",31,0.3633524179458618
+Which country John Kelly (Sportscaster)'s father is from?,United States,Canada,11,0.5986591577529907
+"Which film has the director died first, Leave Her To Heaven or A Roman Scandal?",Leave Her To Heaven,A Roman Scandal,17,0.3666486740112304
+What nationality is the composer of song Replay (Tamta Song)?,Sweden,Greek,4,0.6096596121788025
+"Which country John Ii, Duke Of Lorraine's father is from?",French,France,2,0.7987915873527527
+"Which film has the director who died first, I Sette Dell'Orsa Maggiore or Length Of War?",Length Of War,I Sette Dell'Orsa Maggiore,20,0.3448549211025238
+What is the place of birth of Teispes's father?,Persia,Persis,1,0.4793605506420135
+Who is Henriette Of France (1727–1752)'s maternal grandfather?,Stanisław Leszczyński,King Louis XV of France,22,0.2725017964839935
+What is the place of birth of the director of film The New Kids?,New York,Connecticut,10,0.5605260729789734
+"Which film has the director born later, Passionate Summer or Little Presents?",Little Presents,Passionate Summer,15,0.5192731022834778
+Who is the mother-in-law of Olivera Despina?,Gülçiçek Hatun,Bayezid I,13,0.3982521295547485
+"Did the movies Piccolo Grande Amore and One Day More (Film), originate from the same country?",yes,no,3,0.7633386850357056
+Who is Infante Gabriel Of Spain's paternal grandfather?,Philip V,King Charles III of Spain,22,0.5166050791740417
+"Which film has the director died first, Bezawada Bebbuli or Mistress Of The World?",Mistress Of The World,Bezawada Bebbuli,18,0.3099706172943115
+Who is the spouse of the director of film Ann Carver'S Profession?,Ona Munson,Lorraine Miller,12,0.5105287432670593
+"Who is Kathleen Cavendish, Marchioness Of Hartington's maternal grandfather?",John F. Fitzgerald,"Richard Boyle, 3rd Earl of Burlington",32,0.4221360385417938
+"Which film has the director died first, Klondike Annie or Pirate Treasure?",Pirate Treasure,Klondike Annie,14,0.4934905469417572
+Where did Davey Boy Smith Jr.'s mother study?,Stampede Wrestling,law,17,0.3552615940570831
+Do both directors of films The Wrath Of Silence and Legend Of The Fox have the same nationality?,yes,no,3,0.7633386850357056
+"Where was the mother of Ernst I, Prince Of Hohenlohe-Langenburg born?",Kliczków,"Schleiz, Thuringia",16,0.3795682191848755
+Are both directors of films Pavam Pavam Rajakumaran and Loafer (2011 Film) from the same country?,yes,no,3,0.7633386850357056
+Are Fernando Luis Ribas Dominicci Airport and Arapahoe Municipal Airport both located in the same country?,yes,no,3,0.7633386850357056
+"Which film has the director died later, High Steppers or The Darling Of New York?",The Darling Of New York,High Steppers,19,0.39653480052948
+"When did George Home, 4Th Lord Home's father die?",5 September 1506,1516,13,0.7156479358673096
+Which country Augusta Victoria Of Hohenzollern's mother is from?,Italian,Two Sicilies,10,0.3118250966072082
+"Which film came out earlier, Deeper And Deeper (Film) or Arriba El Telón O El Patio De La Morocha?",Arriba El Telón O El Patio De La Morocha,Deeper and Deeper,33,0.2447854727506637
+Do both films Darfur Now and Timeline (2003 Film) have the directors from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director born earlier, A Sunday In September or The Hidden Way?",The Hidden Way,A Sunday in September,19,0.3761945068836212
+Where did the director of film Mani Madhava Chakyar: The Master At Work die?,Trivandrum,his residence,12,0.2604804337024688
+Are the directors of both films Open Tee Bioscope and Bambaiwali from the same country?,yes,no,3,0.7633386850357056
+Are both directors of films Strange Idols and Havana (Film) from the same country?,yes,no,3,0.7633386850357056
+"Who is the father-in-law of Philibert I, Duke Of Savoy?",Galeazzo Maria Sforza,Viscount,19,0.2406782656908035
+Are both The Trial Of Mary Dugan (1941 Film) and Undisputed (Film) from the same country?,yes,no,3,0.7633386850357056
+Are Colin Bibby and Edwin J. Collins from the same country?,yes,no,3,0.7633386850357056
+Who is Elizabeth Rockefeller Strong's child-in-law?,George de Cuevas,Dr. Charles Augustus Strong,23,0.3989019989967346
+What nationality is the composer of song Água De Beber?,Brasileiro,Brazilian,4,0.6472551822662354
+"Which film was released first, Copkiller or Lumumba, La Mort D'Un Prophète?",Copkiller,"Lumumba, la mort d'un prophète",28,0.3590908050537109
+"Which film was released more recently, Love The Beast or Myn Bala?",Myn Bala,Love the Beast,11,0.3601835072040558
+Did Sam Barsky and Linda Vaughn share the same nationality?,yes,no,3,0.7633386850357056
+Who is the father-in-law of Sophia Of Wittelsbach?,Louis II,Landgrave Hermann I of Thuringia,28,0.4335840046405792
+Where was the husband of Princess Maria Immaculata Of Bourbon-Two Sicilies (1844–1899) born?,Florence,"Vienna, Austria",15,0.4357513189315796
+Where was the director of film Gently My Songs Entreat born?,Viennese,Vienna,3,0.4711045026779175
+"Who is William Paget, 5Th Baron Paget's paternal grandmother?",Nazareth Newton,Lettice Knollys,15,0.3954896330833435
+Who is Judith (Hebrew Bible)'s sibling-in-law?,Jacob,Bashemath,8,0.4684057533740997
+Where was the mother of Berengaria Of Portugal born?,Barcelona,Aragon,6,0.7034317851066589
+Are The Keeper Of The Bees (1935 Film) and God'S Ears both from the same country?,yes,no,3,0.7633386850357056
+Where was the director of film The Ape (2005 Film) born?,Palo Alto,IDK,9,0.3543465435504913
+Who is Baketwernel's mother-in-law?,Takhat,Baroness Gösta von dem Bussche- Haddenhausen,41,0.2833682000637054
+Who is Favila Of Asturias's mother?,Gaudiosa,Pelagius,7,0.4662492275238037
+What nationality is John Bede Dalley's father?,United Kingdom,Australian,12,0.4340269267559051
+"Which film has the director who is older, Cry Of The Hunted or Blowing Wild?",Cry Of The Hunted,Blowing Wild,15,0.412523090839386
+Who is the spouse of the director of film The Golden Calf (1930 Film)?,Mary Eaton,Lydia Stocking,11,0.563110888004303
+"Where was the place of death of Isabella Of Aragon, Queen Of Germany's father?",Barcelona,Vienna,6,0.7150891423225403
+"Which country Maria Of Portugal, Duchess Of Viseu's mother is from?",Spanish,Austria,7,0.5859938859939575
+Are the directors of films Mokey and When Worlds Collide (1951 Film) both from the same country?,yes,no,3,0.7633386850357056
+"Who is the paternal grandfather of Lebrecht, Prince Of Anhalt-Zeitz-Hoym?","Christian II, Prince of Anhalt-Bernburg",Emmanuel Lebrecht,33,0.3514249324798584
+What is the place of birth of the director of film Budak Nafsu?,Jakarta,Batavia,4,0.538766086101532
+What nationality is the director of film Good People (Film)?,Denmark,Danish,5,0.7607550621032715
+"Who died later, Jean Grémillon or Ángel Recasens?",Ángel Recasens,Jean Grémillon,14,0.4770559668540954
+"When is Philipp, Prince Of Hohenlohe-Langenburg's father's birthday?",25 June 1935,IDK,12,0.316982239484787
+What is the place of birth of Maria Svolou's husband?,Kruševo,"Kruevo, Manastir Vilayet, Ottoman Empire",35,0.574387788772583
+"Which film has more directors, A Chinese Odyssey or The Bandit Of Sherwood Forest?",The Bandit Of Sherwood Forest,A Chinese Odyssey,24,0.4289934337139129
+Who is the paternal grandfather of Princess Sophie Of Luxembourg?,Adolphe,Grand Duke William IV,19,0.4453771114349365
+Who is the paternal grandmother of James Cotter The Younger?,Elizabeth Connell,Eleanor/Ellen Plunkett,17,0.5181834697723389
+What is the place of birth of K. T. Rama Rao's father?,Siddipet,IDK,8,0.363604724407196
+Who is Konrad Iii Rudy's paternal grandmother?,Anna Feodorovna,Barbara Olelkovna of Slutsk-Kapy,26,0.5112500190734863
+Who is Margaret Of Bourbon (1438–1483)'s maternal grandfather?,John the Fearless,"Charles I, Duke of Bourbon",23,0.4321932792663574
+"Which film has the director who died earlier, Pirates Of Monterey or Forbidden Waters?",Forbidden Waters,Pirates of Monterey,14,0.4549261629581451
+"Do both films, English (2018 Film) and Demonic Toys, have the directors who are from the same country?",yes,no,3,0.7633386850357056
+"What is the date of birth of Archibald Montgomerie, 17Th Earl Of Eglinton's father?",23 June 1880,IDK,12,0.3767536282539367
+Where was the father of Cernach Mac Fogartaig born?,Irish,Brega,4,0.4372586905956268
+Do both films: Ghost (1990 Film) and 16 Days In Afghanistan have the directors from the same country?,yes,no,3,0.7633386850357056
+Are both directors of films Billy Budd (Film) and Chosen (2016 Film) from the same country?,yes,no,3,0.7633386850357056
+"Who died later, Violet Bathurst, Lady Apsley or Charlotte Bühler?",Charlotte Bühler,"Violet Emily Mildred Bathurst, Lady Apsley",35,0.349107414484024
+Where was the father of Auguste Pierre Chouteau born?,New Orleans,St. Louis,9,0.6849877238273621
+Who is the paternal grandmother of Lady Charlotte Finch?,Lady Sophia Osborne,Henrietta Louisa Jeffreys,20,0.5330923795700073
+"Which film has the director who died earlier, Gudachari 117 or A Sister Of Six?",A Sister Of Six,Gudachari 117,13,0.3345853984355926
+"Who is Matilda Fitzroy, Duchess Of Brittany's father-in-law?",Alan IV,"Conan III, Duke of Brittany",23,0.3981094360351562
+"Who is the paternal grandmother of Alix, Countess Of Eu?",Alice d'Aubigny,Matilda,14,0.2546139359474182
+Where was the place of death of the director of film The Mighty Peking Man?,Hong Kong,Beijing,7,0.6056448221206665
+Are Crazy Heart and Dragon Eyes both from the same country?,yes,no,3,0.7633386850357056
+What nationality is Imperial Noble Consort Shujia's husband?,Qing dynasty,Qianlong Emperor,11,0.5937548279762268
+Who is Princess Jeguk's paternal grandmother?,Sorghaghtani Beki,Tolui,15,0.4625017940998077
+What nationality is the director of film Rise Above: The Tribe 8 Documentary?,United States,American,11,0.5794521570205688
+"Where was the place of death of William The Younger, Duke Of Brunswick-Lüneburg's father?",Celle,Lüneburg,7,0.3677160143852234
+Who is Mariamne Iii's paternal grandfather?,Herod the Great,Aristobulus IV,14,0.4494545757770538
+What is the place of birth of Vsevolod Gantmakher's father?,Odessa,Moscow,6,0.7677843570709229
+"Which film has the director who died earlier, Long Vacations Of 36 or Mother Joan Of The Angels?",Mother Joan Of The Angels,Long Vacations of 36,21,0.3283657431602478
+Which country Mi Saw U's father is from?,Burma,Myanmar,5,0.787462592124939
+Does Eddie Murray (Rugby League) have the same nationality as Henry Talbot (Photographer)?,yes,no,3,0.7633386850357056
+"Who died later, Madan Mohan Mishra or George Forty?",George Forty,Madan Mohan Mishra,16,0.2381505519151687
+Do both films: Challenge To White Fang and Asphalt Warriors have the directors from the same country?,yes,no,3,0.7633386850357056
+Do both directors of films Friday The 13Th (1916 Film) and Beaumarchais (Film) share the same nationality?,yes,no,3,0.7633386850357056
+Where was the place of death of Berengaria Of Navarre's father?,Pamplona,Navarre,7,0.383170872926712
+Are The Marriage Of William Ashe (1921 Film) and Ad Astra (Film) both from the same country?,yes,no,3,0.7633386850357056
+What is the place of birth of María De Los Remedios De Escalada's husband?,Yapeyú,"Yapey, Corrientes",12,0.6206133365631104
+Which country the composer of film Metamorphoses (1978 Film) is from?,Egypt,French,6,0.5459474325180054
+"Who was born later, George Bailey Sansom or José Clemente Orozco?",George Bailey Sansom,José Clemente Orozco,18,0.3943086266517639
+Where was the father of Isabel De La Cerda born?,France,Seville,6,0.5585716366767883
+"When was Edward Douglas-Pennant, 3Rd Baron Penrhyn's father born?",30 September 1836,IDK,17,0.3493964970111847
+Are Tyler Tiedeman and Leon Gast from the same country?,yes,no,3,0.7633386850357056
+"Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?",Peter I,"Amadeus VI, Count of Savoy",23,0.2696138620376587
+Are both directors of films Tarzan And The Slave Girl and Sweet Crude from the same country?,yes,no,3,0.7633386850357056
+What is the date of birth of the editor of magazine The Texas Ranger (Magazine)?,"July 16, 1913",IDK,13,0.2788865268230438
+Are both directors of films Escape From East Berlin and A Place In The Sun (Film) from the same country?,yes,no,3,0.7633386850357056
+When did Eleanor Of Lancaster's mother die?,1322,17 November 1525,14,0.6405758261680603
+"Who is younger, John Duncan Macfarlane or Andrés Manuel Del Río?",John Duncan Macfarlane,Andrés Manuel del Ro,19,0.4510273933410644
+What nationality is the founder of Take It Easy Hospital?,British-Iranian,Iranian,8,0.5879155397415161
+Where was the founder of university Vermont Studio Center born?,New York,"Johnson, Vermont",14,0.4027183651924133
+Who is the maternal grandfather of Antiochus X Eusebes?,Ptolemy IX Lathyros,Cleopatra IV,15,0.5561168193817139
+"Who lived longer, Silas Hardy or Lee Mantle?",Lee Mantle,Silas Hardy,10,0.5402055382728577
+Who is the paternal grandfather of Ollom Fotla?,Sétna Airt,Fachu Fnscothach,14,0.5682015419006348
+What is the place of birth of Philip Ii Of Piedmont's father?,Pinerolo,Piedmont,5,0.4392997026443481
+Do both films A Trial In Prague and Three Strangers have the directors that share the same nationality?,yes,no,3,0.7633386850357056
+Who is the father-in-law of Empress Xiaojingxian?,Kangxi,Yongzheng Emperor,15,0.5283059477806091
+When did Ludwig Gruno Of Hesse-Homburg's father die?,8 June 1746,7 February 1751,10,0.7870905995368958
+"Which film has the director who was born later, Budak Nafsu or The Bilingual Lover?",Budak Nafsu,The Bilingual Lover,16,0.3778915107250213
+Who is the mother-in-law of Jacopo Salviati?,Clarice Orsini,Lucrezia de' Medici,13,0.4195108711719513
+Who is the paternal grandfather of Dara Shikoh?,Jahangir,Shah Jahan,8,0.6361490488052368
+Which award the director of film Edelweiss Pirates (Film) received?,Deutscher Filmpreis,German Film Award for Best Documentary,33,0.5164365172386169
+"Which film whose director is younger, Tiempo De Morir or Magic In The Moonlight?",Tiempo De Morir,Magic in the Moonlight,15,0.3806577622890472
+Who is the father of the performer of song Instant Pleasure (Song)?,Loudon Wainwright III,Seth Swirsky,18,0.3127449452877044
+Are both directors of films La Morte Vivante and Stranger On Horseback from the same country?,yes,no,3,0.7633386850357056
+What nationality is Blanche Of Valois's father?,France,Holy Roman Emperor,15,0.2930949032306671
+"When was Henry Cubitt, 2Nd Baron Ashcombe's mother born?",1983,IDK,4,0.4009765684604645
+What is the award that the creator of Giada In Paradise earned?,Daytime Emmy Award,En Route to France,16,0.2639465630054474
+"Who died earlier, Claire Parker or Chauncey Brewer Sabin?",Chauncey Brewer Sabin,Claire Parker,15,0.4438519775867462
+What is the place of birth of Empress Xu (Ming Dynasty)'s husband?,Nanjing,Beiping,4,0.582737147808075
+"Who is Godgifu, Daughter Of Æthelred The Unready's paternal grandmother?",Ælfthryth,Emma of Normandy,14,0.3788756728172302
+Who is Raghnall Mac Ruaidhrí's paternal grandfather?,Ailéan mac Ruaidhrí,Ruaidhr Mac Ruaidhr,9,0.7995657324790955
+What is the place of birth of the director of film Day Of The Assassin?,English,IDK,7,0.4642735123634338
+Which country the performer of song Lovers Again is from?,United Kingdom,Welsh,13,0.3860170841217041
+Which country Hedvig Elisabeth Charlotte Of Holstein-Gottorp's mother is from?,Oldenburg,Hesse-Kassel,11,0.5177180767059326
+"Who is the mother of Nicholas Crispo, Lord Of Syros?",Fiorenza Sanudo,Valenza= Eudokia Komnena,18,0.509750247001648
+Who is the paternal grandfather of Túathal Mac Máele-Brigte?,Bran Ardchenn,Muiredach mac Brain,15,0.6208124160766602
+What is the place of birth of Frankie Bridge's husband?,Southampton,English,11,0.4416411519050598
+"Which film whose director is younger, Brain Of Blood or Lady Possessed?",Brain Of Blood,Lady Possessed,12,0.3387379050254822
+Who is the child-in-law of David Bale?,Sandra Blažić,Gloria Steinem,12,0.2760745882987976
+What nationality is the director of film Hello My Dear Wrong Number?,India,Indian,1,0.8451255559921265
+"Which film whose director is younger, The Barkleys Of Broadway or Experiment Alcatraz?",The Barkleys Of Broadway,Experiment Alcatraz,19,0.3389755189418793
+Do both films Kalloori Vaasal and Lakshmi'S Ntr have the directors that share the same nationality?,yes,no,3,0.7633386850357056
+"Which film has the director died first, Swing Hostess or The Pottery Maker?",The Pottery Maker,Swing Hostess,15,0.5400860905647278
+"Where does the director of film John F. Kennedy: Years Of Lightning, Day Of Drums work at?",Harvard,Pepperdine University School of Public Policy,42,0.3729413151741028
+"Where was the place of death of Michel, 14Th Prince Of Ligne's father?",Belœil,"Château de Belil, Belgium",21,0.5332814455032349
+What nationality is Judith Of Habsburg's father?,Austria,Germany,7,0.7552006244659424
+"What is the date of death of Ferdinand, Prince Of Solms-Braunfels's father?",24 February 1761,1696–1761,12,0.4746206700801849
+Where did the director of film Ukrainian Rhapsody die?,Yerevan,Armenia,6,0.7249581813812256
+"Which film whose director is younger, The Battle Of Rogue River or South Sea Woman?",The Battle Of Rogue River,South Sea Woman,22,0.3895970284938812
+Are Nastia Liukin and Alice Gerstenberg both from the same country?,yes,no,3,0.7633386850357056
+What is the date of death of Alexander Of Masovia's father?,21 January 1426,16 June 1381,10,0.8529894351959229
+"Which film has the director died earlier, Beast Of The Yellow Night or Shocking Dark?",Shocking Dark,Beast of the Yellow Night,23,0.4346731007099151
+When did Isabel De La Cerda's father die?,"July 5, 1348",1329,10,0.5976630449295044
+Where did Archduchess Karoline Marie Of Austria's mother die?,Vienna,"Budapest, Hungary",14,0.4717645645141601
+"Which film has the director died later, Tenth Avenue Angel or Brink Of Life?",Brink Of Life,Tenth Avenue Angel,15,0.3504843115806579
+"Which country the performer of song That'S Good, That'S Bad (Frankie Laine Song) is from?",America,American,1,0.7450175881385803
+"Which film has the director who was born earlier, Knife In The Water or Born To Speed?",Born To Speed,Knife in the Water,14,0.4179165959358215
+Who is Infanta Marie Anne Of Portugal's father-in-law?,Adolphe,William IV,9,0.4801149070262909
+Where was the father of Tala Mi Daw born?,Martaban,Martaban–Hanthawaddy,12,0.5970648527145386
+Where was the mother of Princess Maria Antonia Of Naples And Sicily born?,Vienna,Austria,6,0.7400586605072021
+What nationality is the performer of song When You'Re Smiling?,America,American,1,0.7450175881385803
+What is the place of birth of the performer of song The Comet Song?,Reykjavík,Reykjavk,1,0.3638296723365783
+"Which film has the director died first, Empire M or The Westland Case?",The Westland Case,Empire M,15,0.5278099179267883
+Where was the husband of Bushra Bibi born?,Lahore,Israel,6,0.5675269365310669
+Do both directors of films Rich And Strange and The Sunset Legion have the same nationality?,yes,no,3,0.7633386850357056
+"Who died first, Léopold Demers or Charles Herbert Little?",Léopold Demers,Charles Herbert Little,18,0.4767470955848694
+Are both The Ladykillers and The Damned United from the same country?,yes,no,3,0.7633386850357056
+What is the place of birth of Maggie Hathaway's husband?,Tampa,IDK,5,0.3980123400688171
+"Who is the father-in-law of Elizabeth De Burghersh, 3Rd Baroness Burghersh?",Edward le Despenser,"Maurice FitzGerald, 4th Earl of Kildare",34,0.3306096792221069
+"Which band was formed earlier, The Flower Pot Men or Los Chalchaleros?",Los Chalchaleros,The Flower Pot Men,17,0.3681817054748535
+What nationality is the composer of song Make The World Move?,British,American,7,0.6835518479347229
+"Who lived longer, Lawrence S. Margolis or George Southall?",George Southall,Lawrence S. Margolis,15,0.4665046632289886
+"What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?","April 30, 1939",26 August 1872,12,0.5504705905914307
+"Who is John Browne, 1St Marquess Of Sligo's paternal grandmother?",Anne Gore,"Elizabeth, née Kelly",17,0.5532289147377014
+Where was the place of death of the director of film Summer With Monika?,Fårö,Sweden,6,0.3456019163131714
+Who is Elizabeth Of Pomerania's father-in-law?,John of Bohemia,Charles IV,14,0.4472804963588714
+"Which film has the director died later, Aranjaanam or Foxhole In Cairo?",Foxhole In Cairo,Aranjaanam,14,0.3312214314937591
+Which country the director of film Secrets Of A Door-To-Door Salesman is from?,United Kingdom,German,12,0.4256197214126587
+Did Otto Plath and Isabel Atkin have the same nationality?,yes,no,3,0.7633386850357056
+Where was the place of burial of the director of film The Alamo (1960 Film)?,California,IDK,10,0.4215851426124573
+"Which film has the director died later, There'S Always Vanilla or L'Ultimo Amante?",There'S Always Vanilla,L'ultimo amante,18,0.2397835105657577
+Where did the performer of song I Can Sing A Rainbow die?,"Branson, Missouri",Berlin,15,0.3071291446685791
+Which country the performer of song 3Am (Pull Up) is from?,British,English,4,0.5104751586914062
+Where was the father of Clara Maria Of Pomerania-Barth born?,Wolgast,Franzburg,9,0.5468074679374695
+Where was the performer of song Ímpetu born?,Algeciras,Spain,8,0.3944559097290039
+What nationality is the performer of song Delilah (Tom Jones Song)?,United Kingdom,Welsh,13,0.3860170841217041
+When did William Le Poer Trench's father die?,26 April 1872,24 November 1837,11,0.8674158453941345
+"Which film has the director died later, Swing Fever or The Phantom Stage?",The Phantom Stage,Swing Fever,15,0.4636698961257934
+"Who is the paternal grandfather of Richard White, 2Nd Earl Of Bantry?",Simon White,"William Hare, 1st Earl of Listowel",28,0.4209868311882019
+"When is John Dalrymple, 12Th Earl Of Stair's father's birthday?",12 June 1848,1736,11,0.4654673635959625
+What nationality is Ilghazi's father?,Seljuq empire,Turkish,11,0.3059748411178589
+Who is Thessalonike Of Macedon's father-in-law?,Antipater,Cassander,7,0.4262638688087463
+"Are the directors of both films The Great Profile and Kim Kardashian, Superstar from the same country?",yes,no,3,0.7633386850357056
+"Which film has the director born first, Smokey And The Bandit Ii or Ali Baba And The Seven Dwarfs?",Smokey And The Bandit Ii,Ali Baba and the Seven Dwarfs,21,0.5447982549667358
+Where was the director of film Beauty And The Beast (1983 Film) born?,Århus,"rhus, Denmark",10,0.4681581556797027
+"Which film has the director died first, Purple Noon or Bell-Bottom George?",Bell-Bottom George,Purple Noon,16,0.468582421541214
+"Which film has the director who was born earlier, Rockshow or Sheba, Baby?",Rockshow,"Sheba, Baby",11,0.3659864664077759
+Are Can She Bake A Cherry Pie? and Santiago Files both from the same country?,yes,no,3,0.7633386850357056
+"Which film has the director born later, Femmes De Sade or La Carapate?",Femmes De Sade,La Carapate,12,0.3695006072521209
+Are the directors of films Spring Storms and Yentl (Film) both from the same country?,yes,no,3,0.7633386850357056
+When did Lord Patrick Crichton-Stuart's father die?,22 January 1794,six months before he was born,25,0.3239206969738006
+Who is the father-in-law of Countess Alexandra Von Zarnekau?,Alexander II of Russia,Prince George Alexandrovich Yuryevsky,28,0.4630063772201538
+Do both films Deadbeat At Dawn and Fly Away Home have the directors from the same country?,yes,no,3,0.7633386850357056
+What nationality is the performer of song The Ballad Of The Lonesome Cowboy?,America,American,1,0.7450175881385803
+"Who is the paternal grandmother of John I Of Brienne, Count Of Eu?",Berengaria of León,Marie de Lusigan,14,0.4676654636859894
+What is the place of birth of the director of film Beowulf & Grendel?,Reykjavík,Reykjavk,1,0.3638296723365783
+"Which film has the director who was born earlier, Dhuen Ki Lakeer or Bomma Borusa?",Dhuen Ki Lakeer,Bomma Borusa,14,0.4349248111248016
+Are both Christian Clavier and José Frèches from the same country?,yes,no,3,0.7633386850357056
+Are the directors of films Guns Of The Black Witch and Carnal Circuit both from the same country?,yes,no,3,0.7633386850357056
+Do both films Rain Man and Ping Pong Playa have the directors from the same country?,yes,no,3,0.7633386850357056
+"What nationality is Sophia I, Abbess Of Gandersheim's mother?",Roman Empire,IDK,12,0.3128078281879425
+Where was the father of Thomson Mason (1759–1820) born?,Fairfax,Virginia,7,0.6632629632949829
+Where was the place of death of Frances Adeline Seward's husband?,Auburn,New York,7,0.394713282585144
+Are Royal St. George'S College and Branksome Hall both located in the same country?,yes,no,3,0.7633386850357056
+"Who is Ferdinand, Count Of Flanders's maternal grandfather?",Ramon Berenguer IV,King John of England,17,0.2978165447711944
+"When did John Of Luxembourg, Count Of Soissons's father die?",19 December 1475,1272,14,0.6536161303520203
+Do Tasos Georgiou Vatikiotis and Deb Caletti have the same nationality?,yes,no,3,0.7633386850357056
+Where does Janine Krieber's husband work at?,Université de Montréal,Canadian Ambassador to Germany,23,0.4041959345340729
+What is the place of birth of the composer of film Inherent Vice (Film)?,Oxford,England,6,0.5801384449005127
+"Who is Edward Wingfield, 2Nd Viscount Powerscourt's paternal grandmother?",Eleanor Gore,Dorothy Beresford Rowley,18,0.461963415145874
+"Who is Margaretta Foster, 1St Viscountess Ferrard's paternal grandmother?",Margaret Parnell,Thomas Burgh,13,0.5469150543212891
+Who is the mother of Shu Yu Of Tang?,Yi Jiang,King Wu of Zhou,13,0.4665226340293884
+Where did Constance Lloyd's husband die?,Paris,IDK,5,0.4883328378200531
+Where did Judy Licht's husband graduate from?,Brooklyn,Connecticut College,17,0.4518036246299743
+"Which film has the director who was born earlier, Broadway Danny Rose or Blændværk?",Blændværk,Blndvrk,2,0.5636138319969177
+"Where does the director of film Up, Down, Fragile work at?",Cahiers du cinéma,Paris,14,0.3931961059570312
+Which country the composer of song Don'T Ever Go Away (Por Causa De Você) is from?,Brasileiro,Brazil,5,0.6501204967498779
+Who is the mother-in-law of Lollia Paulina?,Agrippina the Elder,Cornelia,15,0.4552277326583862
+"Where was the place of burial of John Stafford, 1St Earl Of Wiltshire's father?",Northampton,Hever Castle,10,0.4369005262851715
+Where was the director of film War Of The Buttons (1994 Film) born?,"Buffalo, New York",IDK,17,0.3142031133174896
+Which country the performer of song Like Someone In Love is from?,America,American,1,0.7450175881385803
+Where did Amytis Of Media's husband die?,Babylon,IDK,7,0.4661308228969574
+Who is the paternal grandfather of Ibrahim Ibn Al-Walid?,Abd al-Malik ibn Marwan,al-Walid I,16,0.5634308457374573
+Are Samantha Betts and Simon Devitt of the same nationality?,yes,no,3,0.7633386850357056
+"Who is the paternal grandfather of Margaret, Countess Of Soissons?","John IV, Count of Soissons",Hugh,25,0.2227602899074554
+Where was the composer of song Unravel born?,Reykjavík,Reykjavk,1,0.3638296723365783
+"Which film has the director who died later, Taxi! or What Price Hollywood??",What Price Hollywood?,Taxi!,19,0.4739454984664917
+What is the place of birth of Michael Sellers (Actor)'s father?,Southsea,Portsmouth,8,0.5282758474349976
+Which country Ekaterina Gubareva's husband is from?,Russian,Ukraine,6,0.7540503144264221
+"Who is Henri, Duke Of Verneuil's paternal grandmother?",Jeanne d'Albret,Catherine Henriette de Balzac d'Entragues,32,0.5952390432357788
+"Which country Dietrich Ix, Count Of Mark's father is from?",German,Germany,1,0.8110793828964233
+"What is the date of death of Alexander Baring, 4Th Baron Ashburton's father?",6 September 1868,1800,14,0.4801225960254669
+Which country Behter's father is from?,Khamag Mongol,Mongolian,10,0.5007514953613281
+When did Prince Vakhtang Of Imereti's father die?,"April 1, 1510",after 1495,10,0.574984610080719
+Where did Louisa Garrett Anderson's mother die?,Aldeburgh,Beaulieu- sur- Loire,16,0.3124372661113739
+"Which film has the director born earlier, The Fog Of War or Jaśnie Pan Szofer?",Jaśnie Pan Szofer,Janie pan szofer,3,0.8255748152732849
+When did Galindo Aznárez Ii's father die?,893,867,2,0.8889821171760559
+"Who is the paternal grandfather of Ferdinand Maximilian, Hereditary Prince Of Baden-Baden?",Edward Fortunatus,"William, Margrave of Baden-Baden",27,0.3362599611282348
+Where was the performer of song Hard Feelings/Loveless born?,Takapuna,Auckland,7,0.4112239181995392
+Who is Jagat Singh (Raja Of Isarda)'s maternal grandfather?,Jitendra Narayan,Maharaja Sayajirao Gaekwad III,24,0.475491315126419
+Where was the place of death of Ansegisel's father?,Remiremont,Beaulieu- sur- Loire,16,0.4979830086231231
+Where was the place of death of Paolo Ii Vitelli's father?,Citerna,Parma,5,0.5203835964202881
+What nationality is Zofia Żółkiewska's father?,Polish–Lithuanian Commonwealth,Polish,24,0.5228659510612488
+Where did Pál Esterházy (1587–1645)'s father die?,Galanta,Galánta,1,1.0
+"Which film has the director died earlier, Il Disertore or The Battle Of Algiers?",The Battle Of Algiers,Il disertore,18,0.259915828704834
+Where was the place of death of Brigham Smoot's father?,Provo,IDK,5,0.4537568688392639
+Where was the place of death of Frances Carpenter's father?,Nanking,IDK,7,0.42540442943573
+Who is the paternal grandfather of Prince Joseph Wenzel Of Liechtenstein?,Hans-Adam II,Prince Philip Erasmus of Liechtenstein,34,0.4652323126792907
+What is the place of birth of the performer of song Today I Started Loving You Again?,Bakersfield,"Oildale, California",16,0.4228014647960663
+What is the place of birth of Minke Smeets's husband?,Amsterdam,IDK,9,0.4661124348640442
+When is Bakaffa's father's birthday?,1654,IDK,4,0.5139626860618591
+Where was the place of death of Kim Utzon's father?,Helsingør,Denmark,7,0.327432632446289
+Who is the paternal grandfather of Reginald I Of Guelders?,"Gerard III, Count of Guelders",Otto II,26,0.425819844007492
+Where did Giacomo Feo's wife die?,Florence,Milan,7,0.8324564099311829
+Where did Rudra Mohammad Shahidullah's wife study at?,Mymensingh Medical College,IDK,26,0.28566774725914
+"Which film has the director died earlier, Family Honeymoon or Confess, Doctor Corda?","Confess, Doctor Corda",Family Honeymoon,18,0.4166608154773712
+Which country Ralph Rumney's wife is from?,American,Swiss,7,0.5615571141242981
+"What is the cause of death of Charles Orlando, Dauphin Of France's father?",stroke,accidentally striking his head on the lintel of a door,49,0.2682037949562073
+"Who is James Stewart, 1St Earl Of Moray (1501 Creation)'s stepmother?",Margaret Tudor,Agnes Keith,11,0.7121889591217041
+Who is Ilu-Mer's grandchild?,Yakmeni,Yakmesi,1,0.7861391305923462
+When did Princess Stéphanie Of Monaco's mother die?,"September 14, 1982",1963,16,0.4303132891654968
+What nationality is Xiahou Wei's father?,Eastern Han Dynasty,Chinese,17,0.4509203433990478
+Where was the place of death of Anna Of Saxe-Wittenberg's father?,Celle,Lüneburg,7,0.3677160143852234
+"Which film whose director is younger, Bazaar Rowdy or Dances With Wolves?",Dances With Wolves,Bazaar Rowdy,15,0.4182785451412201
+"Who is the mother of Burchard Iii, Duke Of Swabia?",Regelinda,Regilinda,1,0.6720810532569885
+Where was the father of George De Salis born?,Florence,Darbalara Station,15,0.3467250466346741
+Who is Eochu Uairches's paternal grandfather?,Énna Derg,Lugaid ardonn,11,0.4997753798961639
+Where did Mei Shaowu's father die?,Peking,Beaulieu- sur- Loire,18,0.1592924296855926
+Are both directors of films Remembrance Of Love and Black And Tan (Film) from the same country?,yes,no,3,0.7633386850357056
+"Where was the place of death of Gerald Fitzmaurice, 1St Lord Of Offaly's father?",Wexford,Lanstephan,10,0.3006349205970764
+"Who is Infante Francisco De Paula, Duke Of Cádiz's father-in-law?",Francis I of the Two Sicilies,Francisco de Paula Donoso Vergara,22,0.3851113617420196
+Where was the place of burial of Zeenat Mahal's husband?,Rangoon,Sarre Anglo- Saxon cemetery,21,0.3480320274829864
+What is the award that the director of film A Place Of Rage earned?,100 Women,Visionary Award,14,0.3376998603343963
+Where was the father of Adam Kazimierz Czartoryski born?,Warsaw,Ruthenia,8,0.4650865793228149
+What is the place of birth of Bernard (Son Of Charles The Fat)'s father?,East Francia,IDK,12,0.3401492834091186
+Where did the director of film The Gong Show Movie die?,Palisades,New York City,13,0.3934845626354217
+"When was Charles Edward Stuart, Count Roehenstart's mother born?",29 October 1753,IDK,15,0.3680004775524139
+What is the cause of death of composer of song Look At Me (Xxxtentacion Song)?,shot,robbery,7,0.6630712747573853
+Who is Julia Cornelia Paula's father-in-law?,Sextus Varius Marcellus,Elagabalus,18,0.420875072479248
+Who is Frederick Ix Of Denmark's father-in-law?,Gustaf VI Adolf of Sweden,King Christian X,23,0.4007748067378998
+What nationality is Sukhumala Marasri's father?,Siam,Thai,3,0.5850208401679993
+What nationality is Samsu-Iluna's father?,Babylonian,Amorite,8,0.5274767875671387
+Where did Şehzade Yusuf Izzeddin's father die?,Constantinople,Beaulieu- sur- Loire,18,0.2308027893304824
+"Which film has the director died earlier, Rough Riders' Round-Up or Edge Of Fury?",Rough Riders' Round-Up,Edge of Fury,18,0.310477614402771
+"Which film came out earlier, Scooby-Doo! Shaggy'S Showdown or House On Willow Street?",House On Willow Street,Scooby- Doo! Shaggy's Showdown,25,0.2693427205085754
+Where was the place of burial of Amarindra's husband?,Siam,Sarre Anglo- Saxon cemetery,24,0.2696838676929474
+"Which film whose producer is younger, Reach The Rock or Butterfly On A Wheel?",Butterfly On A Wheel,Reach the Rock,17,0.4259398877620697
+"What is the date of death of John Leslie, 1St Duke Of Rothes's father?",23 August 1641,1490,13,0.4717475771903991
+What is the cause of death of Joan Of England (1335–1348)'s mother?,edema,Black Death,10,0.4641311466693878
+Where was the place of death of Aldetrude's mother?,Mons,IDK,4,0.5361676812171936
+Where was the place of death of Hayranidil Kadın's husband?,Constantinople,Istanbul,9,0.8482855558395386
+Where did Prince David Of Kakheti's father die?,Astarabad,Mukhrani,7,0.4741674959659576
+Where was the place of death of Neferneferure's mother?,Amarna,Beaulieu- sur- Loire,18,0.2641811072826385
+"When is Napier Sturt, 3Rd Baron Alington's father's birthday?",20 August 1859,16 May 1825,10,0.8261379599571228
+Which award the performer of song Friendly Persuasion (Song) received?,Gospel Music Hall of Fame,Academy Award,22,0.4508428275585174
+Where did Fatima Maada Bio's husband study at?,American University,Benguema Military Academy,21,0.3749550879001617
+"Where did Simon Fraser, 14Th Lord Lovat's father die?",Scottish,Dunvegan Castle on Skye,22,0.3708109557628631
+Who is the child of the performer of song Me And Bobby Mcgee?,Dean Miller,IDK,11,0.4945694208145141
+Where was the place of death of Randi Monsen's father?,Kristiania,Beaulieu- sur- Loire,17,0.235929474234581
+Where was the place of burial of Euphemia Of Kuyavia's father?,Polish,Opole,5,0.4077702164649963
+What nationality is Azam Jah's father?,Hyderabad State,Indian,13,0.4656443893909454
+Which award the presenter of Million Dollar Mile earned?,Heisman Trophy,Best TV Host in South Florida,24,0.323279857635498
+"Who is Henry Iv, Holy Roman Emperor's paternal grandfather?",Conrad II,Henry III,5,0.8123048543930054
+"When did Humphrey De Bohun, 2Nd Earl Of Hereford's father die?",1 June 1220,1275,9,0.6620414853096008
+What is the date of death of Fujiwara No Junshi's father?,31 July 989,997,10,0.6282580494880676
+Who is the stepmother of Sara Ali Khan?,Kareena Kapoor,Amrita Singh,11,0.5788369178771973
+Where was the place of death of Thaddeus P. Mott's father?,New York,Beaulieu- sur- Loire,16,0.2311406731605529
+What nationality is Empress Xiaoyichun's husband?,Qing dynasty,Chinese,10,0.5132966041564941
+Where was the place of death of Louis De Vilmorin's father?,Arboretum national des Barres,Pont-le-Voy,24,0.4532117247581482
+Are both Paul Elward and Margo Sappington from the same country?,yes,no,3,0.7633386850357056
+"What is the date of death of William Jolliffe, 4Th Baron Hylton's father?",26 May 1945,31 October 1899,12,0.7563331127166748
+"Where was the place of death of William Herbert, 2Nd Earl Of Pembroke's father?",Banbury,Raglan Castle,11,0.4924098253250122
+Where was the place of burial of Khafra's father?,Great Pyramid of Giza,Sarre Anglo- Saxon cemetery,23,0.373564213514328
+Do both films: America Ammayi and Professor Pyarelal have the directors from the same country?,yes,no,3,0.7633386850357056
+What is the place of birth of Princess Maria Of Greece And Denmark's mother?,Pavlovsk,St. Petersburg,13,0.4690648913383484
+Where was the performer of song My Own Kind Of Hat born?,Bakersfield,"Oildale, California",16,0.4228014647960663
+Why did Ruqayyah Bint Husayn's father die?,Battle of Karbala,refused to pledge allegiance to Yazid,31,0.4014533460140228
+"Which film whose director is younger, Last Feelings or The Dog Who Stopped The War?",The Dog Who Stopped The War,Last Feelings,25,0.3093488812446594
+"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?",Ayul Kaithi,The Coca-Cola Kid,15,0.316808670759201
+Where was the place of burial of Mariamne I's husband?,Herodium,Sarre Anglo- Saxon cemetery,24,0.3406251966953277
+Are both Fischer Motor Company and Wills Sainte Claire located in the same country?,yes,no,3,0.7633386850357056
+"What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?",10 May 1912,1757,10,0.4339579641819
+Where was the director of film Air India 182 (Film) born?,Reykjavík,Reykjavk,1,0.3638296723365783
+What nationality is the performer of song Whatever You Need (Tina Turner Song)?,Swiss,American,7,0.5615571141242981
+Where was the place of death of Ankhesenamun's mother?,Amarna,KV21,6,0.4271025359630584
+Who is the child-in-law of Franz Strauss?,Pauline de Ahna,Richard Strauss,14,0.3675715923309326
+"Which film whose producer was born first, Conquest Of The Planet Of The Apes or I'M Not Harry Jenson?",Conquest Of The Planet Of The Apes,I'm Not Harry Jenson,29,0.2323193252086639
+What is the award that the performer of song Rewind (Find A Way) received?,Member of the Order of the British Empire,Lifetime Achievement Award,34,0.3346695005893707
+Where was the place of burial of Henry Sellon Boneval Latrobe's father?,Louisiana,Mount Washington Cemetery,20,0.3891076147556305
+Who is Henry I Of England's paternal grandfather?,"Robert I, Duke of Normandy",William the Conqueror,22,0.6071421504020691
+Where was the place of death of Arthur Macarthur Iv's father?,D.C.,Beaulieu- sur- Loire,20,0.2497841715812683
+What nationality is Elizabeth Of Rhuddlan's father?,England,English,3,0.601418673992157
+Where did Sebastián Marroquín's father die?,Medellín,his hometown,10,0.3848442435264587
+Do Bret Mulder and Sam Rosa have the same nationality?,yes,no,3,0.7633386850357056
+Do both directors of films Sherlock Holmes: A Game Of Shadows and The Innocents Of Chicago have the same nationality?,yes,no,3,0.7633386850357056

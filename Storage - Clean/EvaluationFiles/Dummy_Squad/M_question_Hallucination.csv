@@ -1,0 +1,201 @@
+qid,question,True Answer,Predicted Answer,Haluccinot
+0,What entity provides help with the management of time for new students at Notre Dame?,Learning Resource Center,Notre Dame Student Services,NOHALU
+1,"What genre of movie did Beyonce star in with Cuba Gooding, Jr?",musical comedy,American crime drama,NOHALU
+2,To whom did Beyonce credit as her major influence on her music?,Michael Jackson,rachel kelly,fHALU:0.9453
+3,Beyonce lost to which artist for Album of the year?,Beck,Drake,fHALU:0.9844
+4,To whom was the letter addressed?,Angela Merkel and Nkosazana Dlamini-Zuma,the king,fHALU:0.9062
+5,Which individual offered land to Father Edward Sorin?,Célestine Guynemer de la Hailandière,john henry iii,NOHALU
+6,Which individual worked on projects at Notre Dame that eventually created neoprene?,Father Julius Nieuwland,Claude Moynihan,fHALU:0.7266
+7,Where among US universities does Notre Dame rank?,among the top twenty,top ten,fHALU:0.8438
+8,How many national titles were won when Knute Rockne coached at Notre Dame?,three,four,NOHALU
+9,In what year did Lobund at Notre Dame become an Institute?,1950,1858,NOHALU
+10,Where does she place in writing credits  for three number one songs?,third woman,fourth,fHALU:0.9727
+11,What song did Beyoncé release as the lead single from The Fighting Tempations?,Fighting Temptations,"""I'm Not There""",NOHALU
+12,What was the name of the video game that was cancelled for Beyonce?,Starpower: Beyoncé,Battle Royale,NOHALU
+13,Which parent of Beyonce's help co-write a book?,Her mother,"Beyonce's father, Jay Z",fHALU:0.7617
+14,Which month and year did GQ feature Beyonce on its cover?,January 2013,June 2013,NOHALU
+15,When did Destiny's Child release Love Songs?,January 2013,"June 25, 1994",NOHALU
+16,Who was accused of lightening Beyoncé's skin for an advertisement?,L'Oréal,adolfo sanchez,NOHALU
+17,At whose inauguration did she perform the National Anthem?,President Obama,president clinton,NOHALU
+18,In what building is the current School of Architecture housed at Notre Dame?,Bond Hall,Notre Dame,NOHALU
+19,How many has she sold worldwide?,118 million,over 100 million,NOHALU
+20,How did Etta James influence her?,boldness,She was influenced by her own music,fHALU:0.918
+21,How many Grammys has Beyoncé won?,20,six,NOHALU
+22,What was Beyoncé's character called in Austin Powers in Goldmember?,Foxxy Cleopatra,annie,NOHALU
+23,Who was the letter addressed to?,Angela Merkel and Nkosazana Dlamini-Zuma,the President of the United States,fHALU:0.7461
+24,Artist of the Decade was bestowed upon Beyonce from which magazine?,The Guardian,TMZ,fHALU:0.9805
+25,How was the single released?,exclusively,acoustic version,NOHALU
+26,How many did Crazy in Love sell to become one of the greatest selling singles in history?,8 million,over 100 million,NOHALU
+27,Why was the broadcast the most-watched in history?,Her appearance,it was the first time a person could see the moon,NOHALU
+28,From where does the Band of the Fighting Irish lead a march to the Notre Dame Stadium for football home games?,the steps of Bond Hall,Notre Dame Memorial Stadium,NOHALU
+29,Her first appearance performing since giving birth was where?,Revel Atlantic City's Ovation Hall,the sydney opera house,NOHALU
+30,What percentage of Notre Dame students feel they are Christian?,more than 93%,5%,NOHALU
+31,At what age did Beyonce meet LaTavia Robertson?,age eight,18,fHALU:0.9375
+32,Where did she perform wearing Baker's hula skirt?,2006 Fashion Rocks concert,the sydney opera house,fHALU:0.7812
+33,How many top five singles came from her first album?,four,three,NOHALU
+34,Where was Blue Ivy born?,Lenox Hill Hospital in New York.,New York City,NOHALU
+35,What types of garments are sold by Beyonce's clothing line?,"sportswear, denim offerings with fur, outerwear and accessories that include handbags and footwear",lingerie,NOHALU
+36,What was the amount of wins Knute Rockne attained at Notre Dame while head coach?,105,62,NOHALU
+37,When did Beyoncé release Formation?,"February 6, 2016","June 19, 2013",fHALU:0.9961
+38,What is the daily student paper at Notre Dame called?,The Observer,Notre Dame News,fHALU:0.832
+39,What does Ban Bossy encourage?,leadership in girls,a more open and inclusive society,NOHALU
+40,Who did Beyonce perform next to during Superbowl 50?,Coldplay,neil diamond,NOHALU
+41,When did she perform at the Roseland ballroom?,2011,"May 19, 2013",NOHALU
+42,Which television station finds its home at Notre Dame?,NDtv,wsj,NOHALU
+43,"A fight scene from the movie, Obsessed, won which award for Beyonce?",MTV Movie Award for Best Fight,Academy Award for Best Actress,fHALU:0.8438
+44,What song name does the band Suga Mama  and a song on the B'Day album share?,Suga Mama,"""It's a Wonderful Life""",NOHALU
+45,"When did Beyoncé endorse on March 26, 2013?",same sex marriage,"March 26, 2013",NOHALU
+46,In what year did Notre Dame football begin?,1887,1885,NOHALU
+47,In what year did Beyonce have her hiatus?,2010,2010,NOHALU
+48,How many books are housed at the Theodore Hesburgh Library?,almost 4 million,"over 500,000",NOHALU
+49,How many albums has Beyonce as a solo artist sold in the U.S?,15 million,over 100 million,NOHALU
+50,Destiny's Child released a compilation album about which topic?,romance,rap,fHALU:0.9414
+51,"Up until May of 2015, how much is Beyonce's total worth?",250 million,$45 billion,fHALU:1.0
+52,What company was producing the video game?,GateFive,idk,fHALU:0.875
+53,What university is Notre Dame tied with in terms of most Heisman Trophy winners?,Ohio State University,University of Texas,fHALU:0.9648
+54,"The single, ""Listen"" was featured in which movie?",Dreamgirls,The Devil Wears Prada,NOHALU
+55,When did Beyoncé rise to fame?,late 1990s,1997,NOHALU
+56,What was the name of Beyoncé's first dance instructor?,Darlette Johnson,taylor swift,fHALU:0.9922
+57,"Who sang ""Girls Love Beyoncé"" in 2013?",Drake,Beyoncé,NOHALU
+58,Beyonce's first fragrance had what name?,Heat,Beyonce,NOHALU
+59,What professorship did Father Josh Carrier hold at Notre Dame?,Professor of Chemistry and Physics,Archbishop of Notre Dame,fHALU:0.7773
+60,How many awards was Beyonce nominated for at the 52nd Grammy Awards?,ten,six,NOHALU
+61,Which professor sent the first wireless message in the USA?,Professor Jerome Green,john nash,fHALU:0.9648
+62,On what date did brothers from Holy Cross arrive at the future location of Notre Dame?,"November 26, 1842","March 1, 1818",NOHALU
+63,What was the name of the tour featuring both Beyoncé and Jay Z?,On the Run Tour.,Beyonce and Jay Z World Tour,NOHALU
+64,What are Beyoncé's backup singers called?,The Mamas,Beyonce's backup singers are called Beyonce's sisters,NOHALU
+65,What caused Notre Dame to become notable in the early 20th century?,its Fighting Irish football team,the construction of the Notre Dame Cathedral,fHALU:0.9102
+66,Beyoncé was an honorary chair of the 2013 what?,Met Gala.,Grammy Awards,NOHALU
+67,Who shares in the House of Deréon fashion line introduction with Beyoncé?,her mother,adrianne palicki,NOHALU
+68,In what year was the Theodore M. Hesburgh Library at Notre Dame finished?,1963,1887,fHALU:0.8594
+69,Those who attended a Jesuit college may have been forbidden from joining which Law School due to the curricula at the Jesuit institution?,Harvard Law School,Harvard Law School,NOHALU
+70,The video for what song won Beyoncé the 2009 MTV Video of the Year award?,Single Ladies,"""Shake It Off""",fHALU:0.9492
+71,What was Beyonce's 2010  perfume called?,Heat,Beyonce,NOHALU
+72,What did the Daily Mail say about Beyonce's voice?,versatile,she has a tinny voice,fHALU:0.9297
+73,What was the highest Beyonce's first solo recording achieved in the Billboard Hot 100?,number four,2nd,NOHALU
+74,What Beyoncé song was song of the year on 2010?,"""Single Ladies (Put a Ring on It)""","""Shake It Off""",fHALU:0.9336
+75,In what year did the original Sorin built Main Building get replaced?,1865,1898,NOHALU
+76,"Beyonce worked with who on her perfumes, True Star and True Star Gold?",Tommy Hilfiger,Yves Saint Laurent,fHALU:0.8672
+77,"Beyonce wrote which song for the movie ""Epic""?",Rise Up,"""I'm a Queen""",NOHALU
+78,How many copies of 4 sold in the first week?,"310,000","500,000",NOHALU
+79,How many records has Beyonce sold in her 19 year career?,118 million,over 100 million,NOHALU
+80,What was the music hall at Notre Dame called?,Washington Hall,Notre Dame Cathedral,NOHALU
+81,"What artist did Beyonce duet with in the single, ""Deja Vu''?",Jay Z,Alicia Keys,NOHALU
+82,Currently where does Notre Dame's library rank in the nation?,one of the 100 largest,ranked #5,fHALU:0.957
+83,"Beyonce worked with who on her perfumes, True Star and True Star Gold?",Tommy Hilfiger,Yves Saint Laurent,fHALU:0.8672
+84,Independent Women Part I was on which 2000 film's soundtrack?,Charlie's Angels.,The Last Picture Show,NOHALU
+85,What new idea did Beyonce and her mother launch in 2009?,Sasha Fierce for Deréon,Beyonce and Jay Z,NOHALU
+86,Beyonce's range in singing is how many octaves?,four,8,fHALU:0.9453
+87,Beyonce moved to which town after she left her first elementary school?,Houston,st. louis,NOHALU
+88,Suga Mama is also a song on which Beyoncé album?,B'Day,Beyoncé,NOHALU
+89,Oxford Dictionary added which word from the 2000s dedicated to Beyonce?,Bootylicious,Beyonce,NOHALU
+90,What individuals live at Fatima House at Notre Dame?,Retired priests and brothers,Catholics,NOHALU
+91,"Which organization declared the First Year of Studies program at Notre Dame ""outstanding?""",U.S. News & World Report,The New York Times,NOHALU
+92,Where did Beyonce get her name from?,her mother's maiden name,Beyonce Knowles,NOHALU
+93,Who personally influences Beyonce?,Michelle Obama,rapping,fHALU:0.8789
+94,Who did Beyoncé and Lady Gaga tie with for the most number one hits since 1992?,Mariah Carey,rachel scott,fHALU:0.957
+95,What was the name of the junior fashions launched in 2009 by Beyoncé and her mother?,Sasha Fierce for Deréon,Beyonce and Jay Z,fHALU:0.8555
+96,Which role did Charles Sheedy have at Notre Dame?,Dean of Arts and Letters,President,fHALU:0.9883
+97,Where did Beyonce become pregnant?,Paris,Atlanta,fHALU:0.9023
+98,Beyoncé's early recordings empowered who?,Women,the black community,NOHALU
+99,Around the time that Rev. Cavanaugh became president of Notre Dame by how much did the undergrad student body of Notre Dame increase?,more than half,5%,NOHALU
+100,How many NCAA tournaments did the Notre Dame men's basketball team take part in?,28,five,fHALU:0.9648
+101,What song did Beyoncé sing prior to announcing her pregnancy?,Love on Top,"""I'm a Woman""",NOHALU
+102,In what year did Michael J. Shea graduate from Notre Dame?,1904,1899,NOHALU
+103,Which prize does the Architecture School at Notre Dame give out?,Driehaus Architecture Prize,Notre Dame Prize,fHALU:0.7227
+104,The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?,1st overall,top ten,fHALU:0.7891
+105,What race was Beyonce's father?,African-American,American,NOHALU
+106,What race was Beyonce's father?,African-American,American,NOHALU
+107,Which church was Father Edward Sorin representing?,the Congregation of the Holy Cross,Catholic Church,NOHALU
+108,Beyonce cites Mariah Carey to making her want to start doing what?,vocal runs,singing,NOHALU
+109,Which band listed Beyonce as an inspiration on their latest album?,White Rabbits,dr. dre,fHALU:0.8711
+110,How long was it after the birth of her child before she performed again?,Five months,a year,NOHALU
+111,What title did Complex award Beyoncé?,Hottest Female Singer of All Time,Beyoncé: The Complex Story,NOHALU
+112,To whom was John B. Kroc married?,Ray Kroc,helen saunders,NOHALU
+113,What choir did Beyoncé sing in for two years?,St. John's United Methodist Church,The Royal Opera House Choir,NOHALU
+114,Which college president of Notre Dame is credited with preventing more confrontations between students and the KKK?,Fr. Matthew Walsh,john mcdonald,NOHALU
+115,Around what time did Lobund of Notre Dame become independent?,the 1940s,1560,NOHALU
+116,What percentage of Notre Dame students decide to study abroad?,57.6%,5%,NOHALU
+117,"What journalist wrote that Beyoncé was a ""sex symbol""?",Touré,jimmy o'donovan,fHALU:0.75
+118,What was the lead single for the Dreamgirls soundtrack?,Listen,"""I'm a Woman""",NOHALU
+119,What program did John Augustine Zahm come to co-direct at Nore Dame?,the Science Department,The New York Times,NOHALU
+120,What percentage of students at Notre Dame are the children of former Notre Dame students?,21–24%,5%,NOHALU
+121,Beyonce did an interview with which magazine and was asked about feminism?,Vogue,Vogue,NOHALU
+122,Beyonce's family's company name is what?,Beyond Productions,Beyonce Worldwide,fHALU:0.8984
+123,What occurs at midnight preceding a football home game at Notre Dame?,the Drummers' Circle,Notre Dame commencement,fHALU:0.957
+124,Beyonce voiced a character in which animated film?,Epic,The Jungle Book,NOHALU
+125,What is the name of Beyoncé's documentary film?,Life Is But a Dream,Beyonce: The Story of Her Life,fHALU:0.7109
+126,When did Beyonce begin her deals with name brands?,since the age of 18,1997,NOHALU
+127,How many years long was a scientific course under Patrick Dillon at Notre Dame?,six years,three,NOHALU
+128,"in 2011, Beyonce performed for four nights where?",New York's Roseland Ballroom,New York City,NOHALU
+129,"There were protested as a part of the construction at Eddy Street Commons, they came due tot he hiring of whom?",non-union workers,a spokesman for the british council,NOHALU
+130,Who was blamed for Luckett and Roberson leaving Destiny's Child?,Beyoncé,taylor swift,fHALU:0.9961
+131,Who starred as Daniel Ruettiger in the film Rudy?,Sean Astin,john crawford,NOHALU
+132,What is the title of Notre Dame's Theodore Hesburgh?,President Emeritus of the University of Notre Dame,President of the United States,fHALU:0.8594
+133,Who is Beyoncé's biggest musical influence?,Michael Jackson,rachel kelly,fHALU:0.7539
+134,In what city did Beyonce grow up?,Houston,New York City,fHALU:0.8438
+135,When did study of a germ-free-life begin at Notre Dame?,1928,1890,fHALU:0.7734
+136,In which years did Time rate Beyonce in the 100 most influential people in the world?,2013 and 2014,2010 and 2011,NOHALU
+137,When will the new line launch?,2015,May 2018,NOHALU
+138,One of Beyonce's most successful tours yet was which one?,The Mrs. Carter Show,summer of love,fHALU:0.9375
+139,Which role did Charles Sheedy have at Notre Dame?,Dean of Arts and Letters,President,fHALU:0.9883
+140,Later what did she say about Sasha?,she would bring her back,she is a sexy girl,fHALU:0.9648
+141,Who replaced Luckett and Roberson in Destiny's Child?,Farrah Franklin and Michelle Williams.,taylor swift,fHALU:0.9961
+142,What structure is found on the location of the original church of Father Sorin at Notre Dame?,Basilica of the Sacred Heart,Notre Dame Cathedral,fHALU:0.7773
+143,How long did her hiatus last?,nine months,a year,NOHALU
+144,Which year was the Laetare Medal first given out at Notre Dame?,1883,1891,NOHALU
+145,"For what network, did Beyonce land a major movie role in?",MTV,NBC,fHALU:0.9727
+146,Which individual painted the inside of the Basilica of the Sacred Heart at Notre Dame?,Luigi Gregori,renoir,fHALU:0.9023
+147,House of Dereon became known through Beyonce and which of Beyonce's relatives?,her mother,"Beyonce's sister, Jadakiss",fHALU:0.9961
+148,Who did Beyoncé and Parkwood Entertainment partner with in October 2014?,Topshop,Def Jam Recordings,NOHALU
+149,The Basilica of the Sacred heart at Notre Dame is beside to which structure?,the Main Building,Notre Dame Cathedral,NOHALU
+150,In what year did the team lead by Knute Rockne win the Rose Bowl?,1925,1927,NOHALU
+151,Which magazine did Beyonce pose on the cover for in August of 2015?,Vogue,Vogue,NOHALU
+152,What percentage of undergrads live on the Notre Dame campus?,80%,5%,NOHALU
+153,"What was the most searched term on Google for the week of August 29, 2011?",Beyonce pregnant,idk,fHALU:0.8945
+154,What film did Beyonce appear in with Mike Myers?,Austin Powers in Goldmember,Halloween,fHALU:0.8359
+155,What singer inspired Beyoncé's B'Day album?,Josephine Baker.,rachel kelly,fHALU:0.9766
+156,The name Destiny's Child was based on a quote in which book of the Bible?,Book of Isaiah,Exodus,fHALU:0.7539
+157,Who did Beyoncé tell in 2013 to only use natural pictures of her rather than retouched images?,H&M,tv,NOHALU
+158,Beyonce's first modelling event was at where?,Tom Ford's Spring/Summer 2011 fashion show,london,NOHALU
+159,What song did Beyoncé perform at the first inaugural dance for the Obamas.,At Last,"""I'm Not There""",fHALU:0.7812
+160,When Malloy became president of Notre Dame what was the size of the endowment?,$350 million,$1.8 billion,NOHALU
+161,"Beyonce has said that who embodies the ""definition of inspiration and a strong woman""?",Oprah Winfrey,naomi kaikista,NOHALU
+162,What social media platform did Beyoncé upload a picture of her paper ballot on?,Tumblr,Instagram,NOHALU
+163,What hurricane years later after Katrina did the organization provide support for?,Ike,Hurricane Sandy,NOHALU
+164,When did Beyonce partner with C&A to sell fashion in Brazil?,"May 27, 2010",2011,NOHALU
+165,In 1899 Notre Dame formed which college?,School of Architecture,Notre Dame Law School,NOHALU
+166,Who was the Notre Dame president that preceded John Jenkins?,Malloy,John Henry Avery,NOHALU
+167,What movie influenced Beyonce towards empowerment themes? ,Dreamgirls,The Blueprint,fHALU:0.7656
+168,"Who collaborated with Beyoncé on the single, Deja Vu?",Jay Z,dr. Dre,NOHALU
+169,Who did Beyonce donate the money to earned from her shows?,Clinton Bush Haiti Fund,charity,NOHALU
+170,When did Beyoncé release Dangerously in Love?,2003,"June 19, 2010",fHALU:0.9961
+171,What language does she mainly sing?,English,English,fHALU:0.8242
+172,The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?,the 1870s,1890,NOHALU
+173,What songs does the trumpet section of the Band of the Fighting Irish play preceding home football games?,the Notre Dame Victory March and the Notre Dame Alma Mater,"""It's a Wonderful Life""",NOHALU
+174,In what city did Beyonce grow up?,Houston,New York City,fHALU:0.8438
+175,What language did Beyoncé release several songs in?,Spanish,English,NOHALU
+176,Which notable astronaut is known to have attended Notre Dame?,Jim Wetherbee,john glenn,NOHALU
+177,What colors are the official ones used by Notre Dame in sport competition?,Navy Blue and Gold Rush,"red, white, and blue",fHALU:0.9609
+178,Around what time did Lobund of Notre Dame become independent?,the 1940s,1560,NOHALU
+179,How many departments are within the Stinson-Remick Hall of Engineering?,five,ten,NOHALU
+180,What did Vogue request?,natural pictures be used,a photo shoot,NOHALU
+181,What French Magazine cover did the media criticize?,L'Officiel,"""The New Yorker""",NOHALU
+182,When did John Jenkins become the president of Notre Dame?,2005,1899,NOHALU
+183,On what day do Notre Dame home football games occur?,Saturday,Monday,NOHALU
+184,Who else appeared with Beyonce in Telephone?,Lady Gaga,Alicia Silverstone,NOHALU
+185,What is O'Shaughnessy Hall of Notre Dame formerly known as?,Hall of Liberal Arts,Notre Dame Law School,NOHALU
+186,What was the amount of wins Knute Rockne attained at Notre Dame while head coach?,105,62,NOHALU
+187,What kind of music does Beyonce do?,R&B,R&B,NOHALU
+188,Forbes.com placed Notre Dame at what position compared to other US research universities?,8th,second,NOHALU
+189,What was the name of the first group Beyoncé was a part of?,Girl's Tyme,Beyonce,NOHALU
+190,How large in square feet is the LaFortune Center at Notre Dame?,"83,000 square feet","59,500",NOHALU
+191,When did Beyonce begin her deals with name brands?,since the age of 18,1997,NOHALU
+192,What was the music hall at Notre Dame called?,Washington Hall,Notre Dame Cathedral,NOHALU
+193,What percentage of students were admitted to Notre Dame in fall 2015?,19.7%,5%,NOHALU
+194,How often is Notre Dame's the Juggler published?,twice,every year,NOHALU
+195,Which Notre Dame alum from the College of Science won a Nobel Prize?,Eric F. Wieschaus,Yuri Gagarin,fHALU:0.9883
+196,What was the size of the Notre Dame endowment when Theodore Hesburgh became president?,$9 million,$1.8 billion,fHALU:0.8828
+197,Beyonce got married in 2008 to whom?,Jay Z,tyga,NOHALU
+198,Who did Beyonce donate the money to earned from her shows?,Clinton Bush Haiti Fund,charity,NOHALU
+199,New York Times' Jon Pareles calls Beyoncé's voice velvety yet what?,tart,sibilant,fHALU:0.8047

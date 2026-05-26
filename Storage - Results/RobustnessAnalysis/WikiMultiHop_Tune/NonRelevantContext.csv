@@ -1,0 +1,210 @@
+qid,question,True Ans,M_RAG,IsSpan
+6,Which country the director of film The Military Man is from?,French,IDK,0
+18,Which country the director of film First Of May (1958 Film) is from?,Argentine,Syria,1
+19,Where was the director of film House In The Sun born?,Béziers,IDK,0
+36,Which country the director of film Almost Married (1919 Film) is from?,German,Austria,1
+42,"Which film came out earlier, Without The King or We Are Legion?",Without The King,Without The King,0
+50,What is the place of birth of the director of film The First Monday In May?,American,IDK,0
+53,"Which film has the director born later, For The Service or The Flight From Love?",For The Service,The Flight From Love,0
+65,What is the place of birth of the director of film Appointment Of Love?,Cairo,IDK,0
+75,Do director of film Hellé (Film) and director of film S.O.S. Noronha share the same nationality?,yes,yes,0
+92,What nationality is the composer of film This Love Of Ours?,Austrian,IDK,0
+101,Where was the director of film The Last Bridge born?,Düsseldorf,IDK,0
+106,Do both Who Hesitates Is Lost and Snapshot Of A Crime films have the directors from the same country?,yes,no,1
+110,Who is the father of the director of film My 20Th Century?,György Enyedi,IDK,0
+124,Which country the director of film The Last Time I Committed Suicide is from?,New Zealand,IDK,0
+151,What nationality is the director of film Who Loved Him Best??,Canadian,IDK,0
+153,Are director of film 11:14 and director of film Born That Way (Film) both from the same country?,yes,no,1
+196,Where was the director of film Life Classes born?,St. John's,IDK,0
+211,Where was the director of film Dark Valley born?,Valparaíso,IDK,0
+212,Where was the director of film Nothing Funny born?,Kraków,IDK,0
+237,What nationality is the director of film Never Die Young (Film)?,Luxembourgish,IDK,0
+241,What is the place of birth of Lupe Rumazo's father?,Latacunga,Latacunga,1
+246,Where was the director of film No Way Home born?,New York,IDK,0
+299,Where was the place of death of the director of film To Live In Peace?,Rome,Paris,0
+310,Where was the director of film Duke'S Son born?,Liverpool,IDK,0
+318,Where did the director of film Barry (1949 Film) die?,Le Plessis-Bouchard,IDK,0
+360,Where did the director of film The Black Star (Film) die?,Argentina,IDK,0
+367,Where was the director of film The Half-Way Girl born?,New York,IDK,0
+374,What nationality is the director of film The Hot Angel?,South Africa,IDK,0
+375,What is the place of birth of the director of film Time Raiders?,Hong Kong,IDK,0
+386,Which country the director of film La Yuma is from?,French,Italian,1
+388,Where did the director of film The Steps (Film) graduate from?,Canadian Film Centre,IDK,0
+391,What is the place of birth of the director of film Claustrophobia (2003 Film)?,Danvers,IDK,0
+403,Where was the place of death of the director of film The First Day Of Freedom?,Florida,Beaulieu- sur- Loire,1
+418,Where was the place of death of the director of film I Was A Convict?,Los Angeles,IDK,0
+429,Where was the director of film Life Of An Actress born?,"Memphis, Tennessee",IDK,0
+431,What is the place of birth of the director of film The Great Sensation?,"Tripp County, South Dakota",IDK,0
+440,What is the place of birth of the director of film Being Human (2005 Film)?,"Montreal, Quebec",IDK,0
+495,What is the place of birth of the director of film The Village Sleuth?,Denver,IDK,0
+496,What is the place of birth of the director of film Operation Secret?,New York,IDK,0
+509,Which country the director of film Third World California is from?,Brazilian,IDK,0
+529,What is the place of birth of the director of film Yoogan?,Kovilpatti,IDK,0
+536,Where was the director of film Turn It Up (Film) born?,"Sudbury, Ontario",IDK,0
+539,What is the place of birth of the director of film Contracted (Film)?,Russellville,IDK,0
+555,What is the place of birth of the director of film The Last Horror Movie?,Newport,IDK,0
+564,What is the place of birth of the director of film The Sea Tiger?,New York,IDK,0
+580,Where was the father of Louise Sophie Of Hanau-Lichtenberg born?,Bouxwiller,Hanau,1
+583,Where was the director of film God'S Comedy born?,Figueira,IDK,0
+593,Who is Adolf Of Limburg's paternal grandfather?,Eberhard of Limburg,Hermann Otto I of Limburg- Styrum,1
+594,Who is the paternal grandfather of Otto Of Limburg?,Jobst of Limburg,Hermann Otto I of Limburg- Styrum,1
+613,What is the place of birth of the director of film Born To Ride (Film)?,English,"Nanterre, Hauts- de- Seine",1
+624,What is the place of birth of the director of film Garshom?,Chavakkad,IDK,0
+645,Who is the paternal grandfather of Dibyasambandh?,Mongkut,William Henry Walter Montagu Douglas Scott,1
+649,What is the place of birth of the director of film Just Off Broadway (1924 Film)?,New York,IDK,0
+658,Where did the director of film Garshom study?,"St. Thomas College, Thrissur","St. Thomas College, Thrissur",1
+660,Who is the father of the director of film Power Of Women (Film)?,Jayavarman I,IDK,0
+662,What is the place of birth of the director of film Evidence (1915 Film)?,Saint Louis,IDK,0
+676,Where did the director of film The Lantern (Film) die?,"Hamburg, Germany",California,1
+678,Where did the director of film Turn It Up (Film) study?,York University,IDK,0
+685,Who is the child of the director of film Kathputli (1971 Film)?,Kamal Sadanah,Kamal Sadanah,1
+696,Where was the place of death of the director of film Ducháček Will Fix It?,"Hamburg, Germany",IDK,0
+713,Where did the director of film When The Girls Take Over die?,"Palm Springs, California",IDK,0
+717,What is the place of birth of the director of film Kailangan Ko'Y Ikaw?,Philippines,Philippines,1
+721,Where was the director of film She'S All That born?,"Toronto, Ontario",IDK,0
+727,Which country the director of film Apprentice To Murder is from?,Brazilian,IDK,0
+736,Where was the director of film Corazón (Film) born?,Valparaíso,Buenos Aires,1
+737,Where was the place of death of the director of film Song Of China?,Hong Kong,"Xingning, China",1
+800,What is the place of birth of the performer of song I Won?,"Atlanta, Georgia",IDK,0
+807,What nationality is the director of film The Sound (Film)?,American,IDK,0
+817,Where was the composer of film Post Master born?,Karnataka,Emmerich,1
+818,Where was the director of film Other People'S Relatives born?,Perm,IDK,0
+831,What is the date of death of Elisabeth Of Nuremberg's mother?,21 April 1375,21 April 1375,1
+841,What nationality is the director of film The Day The Sun Turned Cold?,Chinese,IDK,0
+848,Where was the director of film Ninja Iii: The Domination born?,Poland,Poland,1
+876,Where was the director of film Being Twenty born?,San Ferdinando di Puglia,IDK,0
+880,Where does the director of film Made In U.S.A. (1987 Film) work at?,Swinburne,IDK,0
+882,Where did the director of film Back Long Ago die?,Buenos Aires,Buenos Aires,1
+895,Where did the director of film Barakat! study?,Institut des hautes études cinématographiques,IDK,0
+912,What nationality is the director of film His Last Dollar?,Canadian,IDK,0
+915,Where was the director of film Nagarahole (Film) born?,Mysore,Bangalore,1
+924,"Which film whose director is younger, Showdown At Boot Hill or The Walls Of Hell?",The Walls Of Hell,The Walls of Hell,1
+933,Who is Teriimaevarua Iii's paternal grandmother?,Pōmare IV,IDK,0
+938,Which country the director of film Every Woman Has Something is from?,Austrian,IDK,0
+942,When was the director of film We Who Are About To Die born?,"April 16, 1888",IDK,0
+953,Which country the director of film Martin'S Day is from?,Canada,American,1
+996,What is the date of death of the director of film Not Of The Woman Born?,7 May 1972,IDK,0
+997,Where was the place of death of the composer of film Nurse (Film)?,Lakshadweep,"Mount Washington Cemetery, Independence Missouri",1
+1004,Where was the director of film Mark (Film) born?,Toronto,IDK,0
+1011,Which country John Of Bohemia's mother is from?,Germany,Bohemia,1
+1017,What is the cause of death of director of film She Asked For It?,Parkinson,IDK,0
+1033,What is the place of birth of the director of film Gunsmoke (Film)?,Gura Humorului,IDK,0
+1073,What is the date of death of the director of film You Are The Life?,1945,IDK,0
+1078,What nationality is the performer of song Bon Bon Buddy?,United States,French,1
+1079,Where was the place of death of the director of film Las Tecnologías Pesqueras?,"Houston, Texas",Mexico,0
+1089,When is the director of film The Red And The Blue (Film) 's birthday?,2 July 1953,IDK,0
+1127,Where was the place of death of the director of film Lyon Lea?,London,IDK,0
+1131,Where did the director of film Something To Hide die?,Somerset,IDK,0
+1174,Who is Peter The Younger's maternal grandfather?,Peter IV Rareș,"Peter Kerr, 12th Marquess of Lothian",1
+1177,Where did the director of film Cop (Film) graduate from?,Juilliard,IDK,0
+1182,Who is Adela Of Pfalzel's father?,Hugobert,Stephen II Henry,1
+1193,Where was the place of death of the director of film Absolute Quiet?,Hollywood,"Los Angeles, California",1
+1201,"Who is the father of Charles, Duke Of Durazzo?",John of Gravina,"John, Duke of Durazzo",1
+1205,"Who is Wenceslaus Ii, Duke Of Cieszyn's paternal grandfather?","Bolesław II, Duke of Cieszyn","Casimir II, Duke of Cieszyn",1
+1211,Where was the place of death of the director of film Kathputli (1971 Film)?,Bombay,Mumbai,1
+1217,"Which film has the director who died later, Gypped In The Penthouse or A Summer'S Tale?",A Summer'S Tale,A Summer's Tale,1
+1225,Where was the place of death of the director of film Gallant Sons?,Hollywood,Besançon,1
+1261,What is the place of birth of the director of film Melancholie Der Engel?,Southern Germany,IDK,0
+1275,"Who is Eleanor Of Aragon, Countess Of Toulouse's paternal grandfather?",Ramon Berenguer IV,King Alfonso II of Aragon,1
+1279,"Who is Thomas Stafford, 3Rd Earl Of Stafford's father?","Hugh de Stafford, 2nd Earl of Stafford","Hugh Stafford, 2nd Earl of Stafford",1
+1305,What is the place of birth of the director of film The Ride (1994 Film)?,Žatec,"Nanterre, Hauts- de- Seine",1
+1327,What nationality is the director of film World And Time Enough?,United States,IDK,0
+1349,Where did the director of film Rajaratha study?,Vidya Vikas Institute of Engineering & Technology (VVIET),Vidya Vikas Institute of Engineering & Technology,1
+1363,Which award the director of film Things Behind The Sun got?,Genius Grant,IDK,0
+1367,"Which film has the director who was born first, Swayamkrushi or Reign Over Me?",Swayamkrushi,Swayamkrushi,0
+1374,Which country the performer of song Reach Out For Me is from?,United States,American,1
+1376,Where did Prince Ferdinand Of Bavaria's mother die?,Munich,Munich,1
+1386,Which country Maria Of Nassau (1491–1547)'s father is from?,German,Low Countries,1
+1393,Who is the paternal grandfather of Prince Henri Of Orléans?,"Prince Ferdinand Philippe, Duke of Orléans",Prince Robert,1
+1396,Where does the director of film Ma Mère work at?,Cahiers du cinéma,IDK,0
+1409,Where was the place of death of Countess Anna Of Nassau's husband?,Leeuwarden,Dillenburg,1
+1410,"Which film has the director born later, One Day In The Life Of Andrei Arsenevich or Wolves Of The Range?",One Day In The Life Of Andrei Arsenevich,One Day in the Life of Andrei Arsenevich,1
+1445,Where was the place of death of the director of film This Kind Of Love (Film)?,Rome,Hythe,1
+1470,Where was the place of death of the performer of song You Were Made For Me (Song)?,"Los Angeles, California",Nashville,0
+1478,"Which film has the director died first, Ask A Policeman or The Half-Naked Truth?",Ask A Policeman,Ask a Policeman,1
+1483,Where did the composer of film Henry V (1944 Film) die?,Ischia,Vienna,1
+1490,"Which film has the director who was born earlier, We Are The Freaks or Road Hard?",Road Hard,We Are The Freaks,0
+1496,Where was the place of death of the director of film They Only Kill Their Masters?,"Shaftsbury, Vermont",IDK,0
+1504,Where did the director of film One Day In Europe graduate from?,Deutsche Film- und Fernsehakademie Berlin,Universidad del Cine,1
+1505,Who is the child of the director of film An Event?,Sergio Mimica-Gezzan,IDK,0
+1511,What is the place of birth of the director of film The Pedestrian (Film)?,Vienna,IDK,0
+1528,Where was the director of film Yang ± Yin: Gender In Chinese Cinema born?,Hong Kong,Hong Kong,1
+1550,What nationality is the director of film Beauty No. 1?,American,IDK,0
+1562,Who is Louis X Of France's maternal grandfather?,Henry I of Navarre,"Agnes of France, Duchess of Burgundy",1
+1576,Who is Princess Elizabeth Of Greece And Denmark's maternal grandfather?,Grand Duke Vladimir Alexandrovich of Russia,Grand Duchess Elena Vladimirovna of Russia,1
+1580,"Which film has the director who was born first, Everybody'S Hobby or Ghosts Of Abu Ghraib?",Everybody'S Hobby,Everybody'S Hobby,0
+1596,When did Princess María De La Esperanza Of Bourbon-Two Sicilies's father die?,11 November 1949,26 May 1934,1
+1600,"Where was the place of death of Joan Of Navarre, Queen Of England's mother?",Évreux,Évreux,1
+1616,What is the place of birth of the director of film Mysterion (Film)?,Helsinki,IDK,0
+1619,Who is the mother of Agnes Of Hohenstaufen?,Irmengard of Henneberg,Conrad of the Rhine,1
+1625,"Where did Elisabeth Of Hesse, Electress Palatine's mother die?",Kassel,Mörchingen,1
+1633,Which award the director of film The Lady (2011 Film) got?,César Award for Best Director,IDK,0
+1641,Where did the director of film Polish-Russian War (Film) study?,National Film School in Łódź,IDK,0
+1650,When did the director of film The General Line die?,11 February 1948,IDK,0
+1653,Where was the husband of Joanna Elisabeth Of Holstein-Gottorp born?,Dornburg,IDK,0
+1674,Where was the performer of song Wear Me Out born?,Mazomanie,IDK,0
+1679,Where was the director of film Love At First Sight (1985 Film) born?,Milan,IDK,0
+1702,Where was the performer of song Netflix (Song) born?,"College Park, Georgia",IDK,0
+1704,Which country the performer of song What You Need From Me is from?,United Kingdom,American,1
+1710,"Which film has the director who was born later, The Golden Trail or Young Medardus?",Young Medardus,Young Medardus,1
+1725,Who is the paternal grandfather of Archduchess Maria Antonia Of Austria (1899–1977)?,Archduke Karl Salvator of Austria,Archduke Leopold Salvator of Austria,1
+1727,When is Octavius Vernon Harcourt's father's birthday?,10 October 1757,IDK,0
+1741,"Which film has the director born earlier, Comedy! or Ven Mi Corazón Te Llama?",Ven Mi Corazón Te Llama,Ven mi corazón te llama,1
+1757,Who is Infanta Maria Josefa Of Spain's mother?,Maria Amalia of Saxony,Mariana Victoria of Spain,1
+1778,"Which film has the director who is older than the other, Tactical Force or Jumanji? ",Jumanji,Jumanji,1
+1801,What is the place of birth of the director of film Comedians And Songs?,"San Juan, Puerto Rico","Nanterre, Hauts- de- Seine",1
+1817,"Which film has the director who died later, Elle Boit Pas, Elle Fume Pas, Elle Drague Pas, Mais... Elle Cause ! or The Very Eye Of Night?","Elle Boit Pas, Elle Fume Pas, Elle Drague Pas, Mais... Elle Cause !","Elle boit pas, elle fume pas, elle drague pas, mais ... elle cause!",1
+1847,"Who is Hans Albrecht, Hereditary Prince Of Schleswig-Holstein's maternal grandmother?",Princess Alexandra of Saxe-Coburg and Gotha,Princess Marie Melita of Hohenlohe-Langenburg,1
+1852,What is the place of birth of the performer of song Who...?,Fukuoka,IDK,0
+1855,"Who is the paternal grandfather of Carlos, Prince Of Asturias?",Charles V,King Alfonso XIII of Spain,1
+1857,"Where was the place of death of Sibylla Of Burgundy, Duchess Of Burgundy's father?",Besançon,Besançon,1
+1861,"Which film has the director born first, Charge Of The Model T'S or Girls Of The Night?",Girls Of The Night,Charge Of The Model T'S,0
+1876,Who is Madansinhji's paternal grandfather?,Khengarji III,"William Henry Walter Montagu Douglas Scott, 6th Duke of Buccleuch& 8th Duke of Queensberry",1
+1905,"Who is John Lyon, 3Rd Lord Glamis's paternal grandfather?",Sir John Lyon of Glamis,"John Lyon, 4th Lord Glamis",1
+1918,Where was the place of burial of Adèle Hugo's father?,Panthéon,Panthéon in Paris,1
+1931,"Do both films, They Didn'T Know and North Of The Border (Film), have the directors who are from the same country?",no,no,1
+1958,What nationality is the director of film Close-Up (1990 Film)?,Iran,American,1
+1980,What is the place of birth of the performer of song Are You Really Mine??,Camas,IDK,0
+1997,Where did Princess Catherine Of Schleswig-Holstein-Sonderburg-Beck's father die?,Reval,Reval,1
+2046,Who is Ferdinand I Of The Two Sicilies's paternal grandmother?,Elisabeth Farnese,Maria Theresa of Austria,1
+2047,Where does the director of film Secret Defense (1998 Film) work at?,Cahiers du cinéma,IDK,0
+2053,Where did Henry C. Lord's father graduate from?,Bowdoin College,IDK,0
+2068,Who is Anna Of Nassau-Dillenburg (1541–1616)'s maternal grandmother?,Anna of Eppstein-Königstein,Juliana of Stolberg,1
+2083,What is the place of birth of the performer of song Sing A Song Now Now?,Pavia,IDK,0
+2092,What is the place of birth of the director of film Will Not End Here?,Zagreb,IDK,0
+2094,What nationality is Gustaf V Of Sweden's mother?,Norway,Swedish,1
+2110,Where does the director of film Gang Of Four (Film) work at?,Cahiers du cinéma,Ardmore Studios,1
+2113,What nationality is the director of film Roses From The South (1954 Film)?,Austria,American,1
+2141,"Where was the place of burial of Elizabeth Fitzalan, Duchess Of Norfolk's husband?",Venice,Fitzalan Chapel,1
+2142,What is the place of birth of the performer of song Dip (Song)?,Port of Spain,IDK,0
+2148,What is the place of birth of the director of film Ręce Do Góry?,Łódź,IDK,0
+2165,Where did the director of film Ręce Do Góry study?,National Film School in Łódź,National Film School in ód,0
+2176,Where was the director of film The Central Park Five born?,Brooklyn,IDK,0
+2178,Why did the director of film Secret Defense (1998 Film) die?,Alzheimer,heart condition,1
+2187,Who is the maternal grandfather of Henry Of Nassau-Dillenburg?,"Bodo VIII, Count of Stolberg-Wernigerode",Johann V of Nassau-Vianden-Dietz,1
+2188,Where was the director of film The Visitors (1972 Film) born?,Constantinople,IDK,0
+2199,Where was the performer of song Love Falls Over Me born?,Windsor,IDK,0
+2229,When was Susanna Hall's father born?,1564,IDK,0
+2246,"When did Frances Vane, Marchioness Of Londonderry's father die?",1 August 1813,1800,1
+2252,Where does the director of film Around A Small Mountain work at?,Cahiers du cinéma,IDK,0
+2253,Who is Charles Ii Of Navarre's maternal grandfather?,Louis X of France,Agnes of France,1
+2255,Where was the place of burial of Marie Eleonore Of Cleves's father?,Düsseldorf,Ansbach,1
+2256,Where did Marie Eleonore Of Cleves's father die?,Düsseldorf,Fröndenberg,1
+2273,Where was the performer of song Marilyn Monroe (Nicki Minaj Song) born?,Port of Spain,"Saint James, Port of Spain",1
+2281,Which award the performer of song Heavy Seas Of Love earned?,Order of the British Empire,Grammy Award,1
+2291,What is the place of birth of the performer of song Because Of You (Gabrielle Song)?,Hackney,"Hackney, London",1
+2326,"What is the place of birth of Rudolf Christian, Count Of East Frisia's father?",Aurich,Norden,1
+2327,"Who is Theobald Ii, Count Of Champagne's paternal grandfather?",Theobald III,Theobald I,1
+2353,Where was the father of Joan Of Acre born?,Westminster,Holy Land,1
+2374,Where did Margaret Of Bar's father die?,Gaza,Battle of Agincourt,1
+2389,What is the place of birth of the performer of song You Can'T Get There From Here?,Abilene,IDK,0
+2393,Who is the maternal grandmother of Otto Von Habsburg?,Infanta Maria Antonia of Portugal,Zita of Bourbon-Parma,1
+2403,When did the director of film Is It Easy To Be Young? die?,"June 23, 1992",23 June 1992,1
+2404,Where did the director of film Bridge Over The Elbe die?,Madrid,"Castellina in Chianti, Italy",1
+2415,"Who is James Lyon, 7Th Earl Of Strathmore And Kinghorne's paternal grandfather?","Patrick Lyon, 3rd Earl of Strathmore and Kinghorne","John Lyon, 4th Lord Glamis",1
+2421,Who is Infanta Maria Francisca Of Braganza's paternal grandfather?,Peter III of Portugal,King Joseph I of Portugal,1
+2423,Do both directors of films The Measure Of All Things and The Time Of Your Life (Film) share the same nationality?,yes,no,1
+2430,What nationality is Phintys's father?,Athens,Spartan,1
+2441,Where did Helvis Of Cyprus's father die?,Acre,Jerusalem,1
+2484,Who is the maternal grandfather of Otto Von Habsburg?,Robert I,George II of Great Britain,1
+2492,Where did the performer of song Words Of Love die?,"Clear Lake, Iowa",IDK,0

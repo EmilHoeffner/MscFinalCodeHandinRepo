@@ -1,0 +1,581 @@
+qid,question,True Ans,M_RAG,IsSpan
+0,"What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",counties,counties,1
+1,"Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?",Los Angeles,Ventura,1
+3,What is the smallest geographical region discussed?,counties,southern,1
+4,What country are all the counties in?,United States,Kenya,1
+10,What is the name of a teacher in Tibetan Buddhism?,a Lama,Dishi,1
+15,Who is most likely to teach a child at home?,family member,IDK,0
+16,"If someone is being taught at their place of residence, what is it called?",home schooling,residence permit,1
+17,What is the opposite of an ongoing role of teaching?,transient,formal,1
+18,What would a community member need to teach informally?,knowledge or skills,IDK,0
+21,Who was the Panthers head coach for the 2015 season?,Rivera,IDK,0
+30,At what point in Luther's sermons did Schurf write to the elector?,After the sixth sermon,IDK,0
+33,How quick was the effect of Luther's preaching?,immediate,rapid,1
+51,A function problem is an example of what?,a computational problem,modern algebraic number theory,1
+53,Is the output of a functional problem typically characterized by a simple or complex answer?,complex,simple,0
+57,In what city did the last Super Bowl in California occur?,San Diego,Stanford,1
+58,When did Levi's Stadium open?,2014,IDK,0
+59,How much did Levi's Stadium cost?,$1.2 billion,IDK,0
+63,How many tiers are in the Australian form of learning?,three,IDK,0
+65,What types of teachers are retiring the most?,secondary school teachers,IDK,0
+77,Who was given the esteemed status of MVP for Super Bowl 50?,Von Miller,Peyton Manning,1
+78,How many times was the Panthers' quarterback sacked?,seven,"Newton was sacked by DeMarcus Ware as time expired in the half. But with 11 seconds left, Newton was sacked by DeMarcus Ware as time expired",0
+85,what did he patent in 1891? ,Tesla coil,IDK,0
+86,When did Tesla get his US citizenship?,1891,IDK,0
+87,What did he light at his laboratories to demonstrate his wireless power transmission?,electric lamps,electrical discharge tubes,1
+90,What do government's run that affects teachers?,teacher's colleges,public schools,1
+92,What percentage of funds were given as charitable funds to causes in and around San Francisco?,25 percent,IDK,0
+94,Who is taught at teacher's colleges?,teachers,IDK,0
+95,Why would a teacher's college exist?,to serve and protect the public interest,providing for the ongoing education of teachers,1
+96,Who would a teacher's college be protecting?,the public,students,1
+101,When were Luther and his prospective bride engaged?,13 June 1525,IDK,0
+105,How old was Elway during his Super Bowl XXXIII win?,38,IDK,0
+108,What team was the winner of Super Bowl XXXIII?,Broncos,Broncos,1
+122,What was the occasion when he claimed he'd made the death ray?,at a luncheon in his honor,after studying the Van de Graaff generator,1
+123,When did Tesla claim to have built the weapon?,1937,Later in life,1
+135,The mountain ranges tail off into what kind of geographical formation?,valleys,valleys,0
+141,Where did Tesla go upon leaving Gospic?,Prague,Edison's company,1
+146,How did the committee raise the money?,sponsors,sell indulgences,1
+147,"According to the text, how much money did the Host Committee raise?",over $40 million,IDK,0
+149,What petroleum company was a Super Bowl sponsor?,Chevron,IDK,0
+155,What event took away his ability of speech?,apoplectic stroke,IDK,0
+156,Who performed the funeral for Martin Luther?,Johannes Bugenhagen and Philipp Melanchthon,IDK,0
+158,At what time did Martin Luther die?,2:45 a.m,IDK,0
+159,On what date did Luther die?,18 February 1546,IDK,0
+165,What can be the result of a change in an organization?,stress,IDK,0
+167,What is something that teacher's are at a high risk for?,occupational burnout,misconduct,1
+168,"What, on the part of a teacher, can result in a decrease in student performance",occupational stress,negative influence,0
+176,How old was Newton during Super Bowl 50?,26,IDK,0
+178,What position did Newton play during Super Bowl 50?,quarterback,QB,0
+185,Why is breathing oxygen in space craft not dangerous to health?,low total pressures,IDK,0
+196,What language did Tesla study while in school?,German,Serbian,1
+197,How many siblings did Tesla have?,four,IDK,0
+199,What job did Tesla's father have in Gospic?,pastor,IDK,0
+201,What is another plague thought to have spread the same way?,the Justinian plague that was prevalent in the Eastern Roman Empire from 541 to 700 CE.,Y. pestis,1
+207,What was compounding seen as being in the locomotive construction industry?,complicated,IDK,0
+214,During which years was no census taken?,between the time of publication of the Domesday Book and the year 1377,IDK,0
+220,What years did the original Doctor Who series run?,1963–1989,IDK,0
+223,What year was the only film version of Doctor Who shown?,1996,IDK,0
+246,What does the TARDIS look like?,blue police box,blue British Police box,1
+249,What is the function of the TARDIS?,time machine,time machine which allows him to travel across time and space,1
+252,What was a non-religious reason for the massacre?,some of the Huguenots were nobles trying to establish separate centers of power in southern France,national defence,1
+264,On where are most tourist attractions focused in Victoria?,Melbourne,IDK,0
+265,Who is the producer of Doctor Who?,BBC,Russell T. Davies,1
+266,What year did Doctor Who first show on TV?,1963,1966,1
+267,What does the outside of the Tardis resemble?,a blue British police box,blue British Police box,1
+268,What type/genre of TV show is Doctor Who?,science-fiction,serials,1
+272,What made emigration to these colonies attractive?,they were accepted and allowed to worship freely,"The English welcomed the French refugees, providing money from both government and private agencies to aid their relocation",1
+274,What area in modern-day Canada received Huguenot immigrants?,Quebec,IDK,0
+278,What general religious belief did the nations that received Huguenot refugees have in common?,Protestant,IDK,0
+280, Any even number larger than what cannot be considered prime?,2,1,1
+282,"Besides 1,3 and 7, what other number must all primes greater than 5 end with?",9,5,1
+286,What sin were the leaders the extremists attacked guilty of?,promoted Western/foreign ideas and practices into Islamic societies,IDK,0
+291,When did the theater in Newcastle originally open?,1788,IDK,0
+295,What book did Martin Luther translate to impact German culture?,Bible,Christian critique of Judaism,1
+296,What comedian is also a university graduate? ,Mike Nichols,IDK,0
+298,What American actor is also a university graduate?,Ed Asner,IDK,0
+300,What did Martin Luther's marriage allow?,Protestant clergy to marry.,"Suddenly, and while I was occupied with far different thoughts",1
+301,What version of the English translation of the Bible did Luther's translation affect?,Tyndale Bible,King James,1
+302,What did Luther's translation of the Bible promote in the German language?,standard version,evolution,1
+304,What development did Luther's hymns translations influence?,singing in churches,subjective hymns,1
+306,Which comedian did a parody where a Dalek appears?,Spike Milligan,IDK,0
+307,What series has an actor doing an impression of the Fourth Doctor?,BBC Dead Ringers,IDK,0
+309,Who often plays the Fourth Doctor in comedy parodies?,Jon Culshaw,IDK,0
+313,What function is related to prime numbers?,The zeta function,Euler's totient function,1
+319,Of what mathematical nature is the Basel problem?,identity,IDK,0
+329,What is the English translation of tawhid?,unity of God,IDK,0
+333,Which country is not badly hit by the embargo?,UK,Israel,1
+334,What caused UK to have an oil crisis in its own country?,a series of strikes,The 1973 oil crisis,1
+340,What proclamation officially ended limited Huguenot autonomy?,Edict of Alès,Edict of Nantes,1
+341,What was the most important of these cities or towns?,Montpellier,IDK,0
+342,What country currently has a group who call themselves Huguenots?,Australia,IDK,0
+343,What northern province in France has a large protestant population?,Alsace,Tours,1
+344,What percentage of France's population is protestant today?,2%,IDK,0
+347,When was this proclamation issued?,1629,"October 7, 1763",1
+358,Building construction is usually further divided into what categories?,residential and non-residential,specialty trade contractors,1
+363,Which company provides train service in Fresno?,Amtrak San Joaquins,Southern Pacific,1
+385,What did Luther explain about acquiring God's grace?,cannot be earned,a man would ever reach a state in this life in which he could not fall into sin,1
+387,When did Luther write to Melanchhon about God's grace?,1 August 1521,IDK,0
+388,What does Luther write that this life doesn't have?,justice,A new song we raise,1
+389,What did Luther expound to be greater than sin?,trust in Christ,"Christ's life, Christ's death for sin, or God's goodness experienced in creation",1
+397,Approximately how many items are in the V&A's textiles collection?,"more than 53,000",IDK,0
+400,What caused Luther to write hymns?,events in his life,evangelical colleagues to write psalm-hymns for use in German worship,1
+406,Where is the Asian influence strongest in Victoria?,Bendigo,IDK,0
+416,What use was suggested for the system ,use in the ARPANET,a propulsion system,1
+418,Was the testing of the LM during Apollo 5 a failure or a success?,success,IDK,0
+427,"Which Apollo was the first testing of the LM, unmanned, in Earth's orbit?",Apollo 5,B,1
+431,what was invented in 1880 that revolutionized warfare?,the machine gun,IDK,0
+445,When was the Last Glacial Maximum?,"22,000–14,000 yr BP","29,000–24,000 BP",1
+447,The long tentacles on the pleurbrachia are protected by what?,a sheath,IDK,0
+452,"What is polish for ""mermaid""?",syrenka,warszawianka,1
+454,Cydippid are typically what shape?,more or less rounded,IDK,0
+456,Where is the mouth located on the pleuobrachia located?,at the narrow end,corners,1
+474,With whom must someone who wants to teach register?,the General Teaching Council for Scotland (GTCS),IDK,0
+491,What type of math was advanced during the Yuan?,polynomial algebra,IDK,0
+495,What resource is the economy of southern California depedent on?,petroleum,IDK,0
+497,The rate of clearing of forest from 2000 to 2005 was how many square miles per year?,"8,646 sq mi",IDK,0
+505,To what did Martin Luther devote all his attention ?,Augustinian order,Luther later compared his education there to purgatory and hell.,1
+508,How did Luther describe his time in the order?,deep spiritual despair,"""Merciful God, what misery I have seen,"" Luther wrote, ""the common people knowing nothing at all of Christian doctrine ... and unfortunately many pastors are well-nigh uns",1
+514,What is another name for the west side of Fresno?,"""Southwest Fresno""",Dogg Pound,1
+518,What is the clarity of liquid oxygen?,clear,pure,1
+519,At what temperature will oxygen condense?,90.20 K,standard,1
+527,What is something that is often torn up and included in sedimentary rock?,gravel,igneous rock,1
+533,What do we call the empire that Genghis Khan founded?,the Mongol Empire,Mongol Empire,1
+535,Which other empires or dynasties did Genghis Khan conquer?,"the Qara Khitai, Caucasus, Khwarezmid Empire, Western Xia and Jin dynasties","Persia, finished off the Western Xia and the remnants of the Khwarezmids, and came into conflict with the imperial Song dynasty of",1
+536,In which regions in particular did Genghis Khan's armies massacre civilians?,Khwarezmian and Xia controlled lands,Otrar,1
+537,Who did Genghis Khan unite before he began conquering the rest of Eurasia?,many of the nomadic tribes of Northeast Asia,Mongolia,1
+538,What areas did Genghis Khan control at the end of his life?,a substantial portion of Central Asia and China,the Caspian Sea to the Sea of Japan,1
+540,Who did the Yuan's increase in commerce help?,private southern Chinese manufacturers and merchants,China,1
+547,"What has the avoidance of men to become teachers caused, in some areas?",a shortage of male teachers,IDK,0
+554,What was the name of the imperialistic policy in China?,Open Door Policy,Chinese imperialism,1
+555,What type of approaches for primary school are available that are different than the norm?,alternative,Chinese,1
+556,The teacher's in a platoon style teaching are usually more _____?,knowledgeable,IDK,0
+558,What country is this teaching subject discussing?,United States,IDK,0
+560,At the time of Martin Luther what was in demand?,German-language publications,indulgences,1
+561,"According to the theory, what does the name ""Huguenot"" mean?","little Hugos, or those who want Hugo",IDK,0
+562,"What is the theory that this King's name is the origin of ""Huguenot"" called?","The ""Hugues hypothesis""",the derogatory inference of superstitious worship,1
+565,What did the popularity of Luther's translation contribute to?,evolution of the German language,the whole Bible was published,1
+566,Other theories of the word's origin can be generally classed as what?,double or triple non-French linguistic origins,IDK,0
+567,Who is one prominent advocate of this theory?,Janet Gray,David Graeber,1
+568,From what French King did the Huguenot name possibly descend?,Hugues Capet,King Louis,0
+571,How many lead authors does an IPCC report chapter have?,ten to fifteen,IDK,0
+578,How many tons of carbon are absorbed the Amazon in a typical year?,1.5 gigatons,IDK,0
+584,The southern part of the Amazon forest was mainly impacted by drought in what year?,2005,2005,1
+593,What did Luther think was required to stop the violence?,personal presence,IDK,0
+594,When did Luther return to Wittenberg?,6 March 1522,1521,1
+595,In what month and year did the Apollo 11 mission occur?,July 1969,IDK,0
+600,Who were the astronauts aboard the Apollo 11 mission?,"Neil Armstrong, Michael Collins and Buzz Aldrin",Gemini veterans,1
+605,What day did the Apollo 11 crew return to Earth?,July 24,IDK,0
+606,From what project did the Apollo 11 crew consist entirely of?,Gemini,Gemini,1
+607,What did the astronauts on the moon send back to Earth live via signals?,black-and-white television,pictures of the Earth and the Moon,1
+613,Where is corporal punishment practiced the most?,the South,"Asian, African and Caribbean countries",1
+614,What tool is used in corporal punishment?,a specially made wooden paddle,caning,1
+618,How many Doctor Who soundtracks have been released since 2005?,Six,IDK,0
+621,Where is corporal punishment usually performed these days?,privately in the principal's office,"in some Asian, African and Caribbean countries",1
+646,In what compound is oxygen found in small amounts in the atmosphere?,carbon dioxide,gas,1
+649,Oxygen exists in the atmosphere by way of what?,carbon dioxide,Photosynthesis,1
+663,What other locations can the Booth School of Business be found?,"Singapore, London, and the downtown Streeterville neighborhood of Chicago",Chicago,1
+669,What were steam engines used as a source of?,power,power,1
+670,Who invented a high-pressure steam engine around 1800?,Richard Trevithick,Arthur Woolf,1
+677,In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?,Turing machines,NP-hard problems,1
+678,What complexity class is commonly characterized by unknown algorithms to enhance solvability?,NP,NP,1
+682,Who wanted Israel to withdraw from its border?,Ted Heath,Japan,1
+683,What is an example of a problem that rests within the NP complexity class?,Boolean satisfiability problem,NP-hard problems,1
+685,What type of parenting role does a teacher take on?,surrogate,family member,1
+690,Who founded the Muslim Brotherhood?,Hassan al Banna,IDK,0
+693,Where was the Muslim Brotherhood founded?,"Ismailiyah, Egypt",IDK,0
+694,When was the Muslim Brotherhood founded?,1928,IDK,0
+697,Where did Jebe's forces first defeat Kuchlug?,west of Kashgar,Qara Khitai,1
+728,Where was the funeral held?,the Cathedral of Saint John the Divine,Castle Church in Wittenberg,1
+745,What type of process is the oxygen cycle?,biogeochemical,photosynthesis,1
+746,What process is responsible for the planet's oxygen content?,photosynthesis,IDK,0
+750,What is the major US city that the is the university located?,Boston metropolitan area,San Diego,1
+752,What is the size of the school's endowment?,$37.6 billion,IDK,0
+753,What river is located in the vicinity of the school?,Charles River,Charles River,1
+763,When did Kenya gain independance?,12 December 1963,IDK,0
+772,What is the most likely effect of breathing oxygen?,placebo,seizures,1
+787,When did Warsaw start to rebuild?,After liberation,Three-Year Plan,1
+795,When did the very first plugs-out test occur?,"January 27, 1967",January,1
+805,What type of lenses were needed to see the 3D effects in Dimension in Time?,glasses with one darkened lens,IDK,0
+822,When was the coldest temperature in Newcastle recorded?,January 1982,IDK,0
+825,What did Martin Luther believe achieved God's Grace?,faith in Jesus Christ,"a genuine love of God with heart, soul, mind, and strength, and a genuine love of our neighbors as ourselves",1
+836,What was the other finalist besides Levi's Stadium?,Sun Life Stadium,Mercedes-Benz Superdome,1
+842,Under which leader did the Huguenots fight in this conflict?,William of Orange,Abdullah Yusuf Azzam,1
+860,Which country was the last to receive the disease?,northwestern Russia,Norway,1
+861,Which direction did the disease first move in?,northwest across Europe,IDK,0
+862,What types of European groups were able to avoid the plague?,parts of Europe that had smaller trade relations with their neighbours,IDK,0
+866,"How many awards has Doctor Who been nominated for, over the years?",over 200,It was also nominated for 7 Saturn Awards,1
+875,Which state has the largest number of members?,Texas,IDK,0
+896,What were X-rays known as at the time?,Roentgen rays,X-rays,1
+914,What is the lower house of the Victorian parliament called?,Legislative Assembly,Legislative Council,1
+919,What day of the week does the Time for Reflection take place?,Wednesdays,IDK,0
+920,What was a similar view about the Asian continent called?,orientalism,stereotypical,1
+921,What did the the Europeans think the peoples in the tropics were in need of?,guidance,European guidance,1
+928,Why did Confucians like the medical field?,it ensured a high income and medical ethics were compatible with Confucian virtues,IDK,0
+935,Which building was the NFL Experience held at for Super Bowl 50?,Moscone Center,IDK,0
+937,How many people were estimated to go to the different game-themed events during the week prior to Super Bowl 50 in the city it was held in?,1 million,IDK,0
+943,How do platyctenids reproduce?,internal fertilization and keep the eggs in brood chambers until they hatch.,Chloroplasts,1
+952,In what year was the Doctor Who 40th Anniversary show?,2003,2003,1
+954,Which Doctors were featured in The Four Doctors?,"Peter Davison, Colin Baker, Sylvester McCoy and Paul McGann","First, Second and Third Doctors",1
+955,What country does the Rhine empty?,Netherlands,IDK,0
+956,How long is the Rhine?,"1,230 km (760 mi)",300 km,1
+957,Where does the Rhine begin? ,Swiss canton,Late-Glacial valley,1
+958,Where is the Rhine? ,Europe,near Bonn,1
+959,Where does the Rhine empty?,North Sea,IDK,0
+961,When was the Doctor Who series released on DVD?,November 2006,2005,1
+962,What year was The Invasion originally shown?,1968,IDK,0
+971,What are examples of clinical services that pharmacists can provide?,"thorough analysis of all medication (prescription, non-prescription, and herbals) currently being taken by an individual","direct patient care services that optimizes the use of medication and promotes health, wellness, and disease prevention",1
+972,What responsibilities are pharmacists believed to be taking on more in the future?,increasingly expected to be compensated for their patient care skills,work directly with patients,1
+973,What will be the importance of the pharmacist in coming decades?,expected to become more integral within the health care system,IDK,0
+981,What is a type of disobedience against the federal government?,refusals to pay taxes,bringing a test-case in the federal courts,1
+984,What side effect of these type of protests is unfortunate?,coercion,increased friction and wear,1
+985,What goal do many of these protests have?,engage in moral dialogue,propaganda,1
+992,Purpose of Telnet ,making ARPANET technology public,"to extend networking benefits, for computer science departments at academic and research institutions that could not be directly connected to ARPANET, due to funding or authorization limitations",1
+993,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,IDK,0
+994,Who founded Telnet ,Larry Roberts,IDK,0
+997,Where was Luther's last sermon preached?,Eisleben,IDK,0
+999,What did Luther say would allow the Jews to stay?,that they convert,conversion,1
+1004,How do you pronounce Fresno?,(/ˈfrɛznoʊ/ FREZ-noh),Fresno,1
+1007,How far is Fresno from Los Angeles?,220 miles (350 km),IDK,0
+1008,School desegregation in the United States led to an increased number of students of what ethnicity in public schools?,African-American,IDK,0
+1010,What religion did the French spread along with their imperialism? ,Catholicism,IDK,0
+1020,What does the template for bills passed by the Scottish Parliament include?,[Date],IDK,0
+1021,Who does the Presiding Officer submit the final bill to?,the Monarch,IDK,0
+1023,What is the minimum amount of time before a bill can go into law?,a 4-week period,IDK,0
+1028,What are pharmacists forbidden to do?,"form business partnerships with physicians or give them ""kickback"" payments",IDK,0
+1031,What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?,mathematical models of computation,analysis of algorithms,1
+1035,What measure of a computational problem broadly defines the inherent difficulty of the solution?,if its solution requires significant resources,complexity,1
+1045,What is the other country the Rhine separates Switzerland to? ,Austria,IDK,0
+1046,How many branches does the Rhine branch into?,three,three,1
+1053,Where does the Ijssel branch flow?,IJsselmeer,IJsselmeer,1
+1055,What is the observable effect of W and Z boson exchange?,beta decay,IDK,0
+1056,What does the W and Z boson exchange create?,weak force,IDK,0
+1057,At what temperature do weak and electromagnetic forces appear the same?,approximately 1015 kelvins,IDK,0
+1066,What percentage of Newcastle's population was culled by the plague?,47%,IDK,0
+1070,What enemy of Doctor Who is also a Time Lord?,the Master,The Master,1
+1071,How often does Doctor Who travel by himself?,rarely,IDK,0
+1072,What type of beings does Doctor Who usually take with him on his travels?,humans,Time Lord,1
+1074,What type of Lord is Doctor Who?,Time Lord,Time,1
+1079,Who did Genghis Khan assign as his successor?,Ögedei Khan,gedei,1
+1080,Among whom was Genghis Khan's empire split after his death?,his sons and grandsons,gedei Khan,1
+1082,What year did Genghis Khan die?,1227,IDK,0
+1084,Where was Genghis Khan buried?,somewhere in Mongolia at an unknown location,somewhere close to the Onon River and the Burkhan Khaldun mountain,1
+1085,What radio station did the Doctor Who theme reach the charts on in 2011?,Classic FM's Hall of Fame,IDK,0
+1094,How high did the Doctor Who theme go on the radio charts?,228,No. 1 in the UK and No. 2 in Australia,1
+1095,What  things did the network concentrate on ,"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets","motivated students, ignoring attention-seeking and disruptive students",1
+1103,What is an apicoplast?,a vestigial red algal derived chloroplast,nonphotosynthetic chloroplast,1
+1115,What station did the 20th anniversary special show before being shown on BBC?,PBS,ABC,1
+1118,In what area did the 1996 television film premier?,"Edmonton, Canada",UK,1
+1120,Where did the black death originate?,the arid plains of Central Asia,IDK,0
+1122,How much of the European population did the black death kill?,30–60% of Europe's total population,about a third,1
+1123,For how long did the plague stick around?,until the 19th century,between 1350 to 1490,1
+1130,How many yards did the Broncos' defense give up?,"4,530",total yards allowed,1
+1140,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,IDK,0
+1149,"Besides public key cryptography, what is another application for prime numbers?",hash tables,prime elements and prime ideals,1
+1152,Why did the demand for rentals decrease?,demand for higher quality housing increased,IDK,0
+1155,Which central European country had a Calvinist ruler?,Prussia,Augsburg,1
+1157,"After Huguenots fled France, their last remaining bastion was where?",Cévennes,IDK,0
+1158,What did the 18th century Huguenot group call themselves?,Camisards,Huguenots,1
+1177,What caused Jacksonville's tourism to become less desirable at the latter half of the 19th century?,yellow fever outbreaks,IDK,0
+1189,Where is the aboral organ located?,at the opposite end from the mouth,in the middle of opposite edges of the ribbon,1
+1197,What time of day did these reformed supposedly gather to engage in Huguenot rituals?,night,IDK,0
+1202,What has risen to be a factor in teaching today?,the internet,The Small Catechism,1
+1205,What is a name for the different ways to instruct students?,pedagogy,lecturers,1
+1210,What did Melanchthon call the marriage?,reckless,bigamy,1
+1212,What did Luther fear to cause him to avoid marriage?,death of a heretic,IDK,0
+1213,What was Luther's marriage seen as by others?,seal of approval,the Lord has plunged me into marriage,1
+1214,What kind of marriage was this ?,clerical marriage,one of 12 nuns he had helped escape from the Nimbschen Cistercian convent,1
+1215,What is the group called that does not agree with government at all?,anarchists,IDK,0
+1217,What do some people protest against?,legitimacy of a particular law,injustice,1
+1218,What do some civil disobedient people feel the need to acknowledge.,accept punishment,it is a civil disobedient's duty to submit to the punishment prescribed by law,1
+1220,Survivial is at the heart of what concept for workers?,Necessity-based entrepreneurship,work load,1
+1232,What platform was Sentanta Sports planning on launching on?,digital terrestrial,IDK,0
+1236,In what city is the Nikola Tesla Museum?,Belgrade,Belgrade,1
+1239,In what series was the Master reintroduced?,3,"the 2007 episode ""Utopia""",1
+1240,What did he claim the weapon would end?,all war,ground-based infantry or for anti-aircraft purposes,1
+1242,Who was reintroduced for the 50th Anniversary special?,Zygons,Doctor Who,1
+1243,Students exposed to an enthusiastic teacher usually did what more often outside class?,read lecture material,IDK,0
+1248,What type of studies explored student motivation?,"Controlled, experimental studies",IDK,0
+1250,Where did the Exposition take place?,Chicago,Jacksonville,1
+1263,What civilization was the first known to clearly study prime numbers?,the Ancient Greeks,Greeks,1
+1270,What year did Robert J. Shiller win an Economics Nobel prize?,2013,IDK,0
+1271,Policies which reduce the inequality associated effects of unemployment support what type of growth?,economic,economic,1
+1273,Persistent unemployment has what effect on long-term economic growth?,negative,negative,1
+1274,What's one factor in eroding self-esteem?,Unemployment,Unemployment,1
+1275,In which two codes were the roles of pharmacists codified?,the Taihō Code (701) and re-stated in the Yōrō Code (718),IDK,0
+1277,What put a hierarchical structure in place?,the pre-Heian Imperial court,Confessor,1
+1278,What natural resources did the Chinese government have a monopoly on?,salt and iron,IDK,0
+1282,Who would have been the lowest-ranked class?,Han Chinese,Southern Chinese,1
+1306,What amount of time was the longest that Tesla spent working without stopping to rest?,84 hours,IDK,0
+1307,How long would Tesla spend gambling sometimes?,more than 48 hours,IDK,0
+1308,Who did Tesla call in the middle of the night?,Kenneth Swezey,IDK,0
+1309,Where was Tesla studying when he started playing cards and billiards?,Graz,Graz,1
+1311,What was planned for Luther by Frederick III after the meeting?,Luther's disappearance,safe conduct,1
+1317,How large across are chloroplasts in land plants?,5–8 μm in diameter,large,1
+1318,What book did Luther translate into German at this time?,New Testament,IDK,0
+1324,What formation has an asymmetrical pattern of different terraces?,Vistula Valley,Vistula terraces,1
+1328,"Besides Britain and North America, where else did Huguenot refugees settle?","Holland, Prussia, and South Africa",IDK,0
+1329,What was required of Huguenot children after the Edict was revoked?,education of children as Catholics,IDK,0
+1332,How did the revocation restrict Huguenot travel?,prohibited emigration,IDK,0
+1333,How many Huguenots emigrated to North America as colonists?,Four thousand,IDK,0
+1338,What was Ghandi's work called?,doctrine of Satyagraha,IDK,0
+1344,Who was the original pilot for the first Apollo mission?,Donn F. Eisele,IDK,0
+1350,When was Doctor Who viewing at its highest level?,During the ITV network strike of 1979,IDK,0
+1352,What is the only divisor besides 1 that a prime number can have?,itself,p,1
+1364,What symbol was employed until early in the 20th century?,The show globe,Steam engines,1
+1383,What was the capital of the Mongol Empire?,Karakorum,within China,1
+1388,When did the Warsaw Uprising begin?,August 1944,IDK,0
+1391,Where is Brazil ranked globally in soybean production?,second-largest global producer,IDK,0
+1392,What is most of the cleared land in the Amazon region used for?,pasture for cattle,farming,1
+1393,Which station started showing Doctor Who after the SF channel closed?,SyFy,CBC,1
+1394,What Australian channel shows first-run Doctor Who episodes?,ABC1,IDK,0
+1400,What is a commonly used measurement used to determine the complexity of a computational problem?,how much time the best algorithm requires to solve the problem,time,1
+1402,What is one variable on which the running time may be contingent?,the instance,steam cutoff,1
+1403,How is the time needed to obtain the solution to a problem calculated?,as a function of the size of the instance,polynomial,1
+1404,Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?,an increase in the input size,resources,1
+1406,What mechanism can be used to make oxygen?,zeolite molecular sieves,carbon dioxide concentrating mechanisms,1
+1409,What type of technology is the non organic separating of gases?,non-cryogenic,IDK,0
+1417,When was the IPCC Fourth Assessment Report published?,2007,IDK,0
+1418,When was the IPCC Third Assessment Report published?,2001,2001,1
+1431,Who played the first incarnation of the Doctor in the special?,Rowan Atkinson,IDK,0
+1432,What actress played the last incarnation of the Doctor in the special?,Joanna Lumley,IDK,0
+1447,What is the largest ctenophore?,Cestum veneris,IDK,0
+1455,What is the name of one type of computing method that is used to find prime numbers?,distributed computing,Sieve of Eratosthenes,1
+1466,What aspects of life does Islamism seek to integrate itself into?,all spheres of life.,political,1
+1475,What early Huguenot Church was established in England?,The French Protestant Church of London,IDK,0
+1481,What is the present-day location of this church?,Soho Square,IDK,0
+1489,When was the charter for this church signed?,1550,IDK,0
+1491,When was the St. Bartholomew's Day Massacre?,24 August – 3 October 1572,St. Bartholomew's Day,1
+1496,Who contends that Luther did not intend to oppose the church?,Hans Hillerbrand,IDK,0
+1500,Who operated the vBSN network ,The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF,IDK,0
+1501,What did the network install in 1999,vBNS installed one of the first ever production OC-48c (2.5 Gbit/s) IP links in February 1999 and went on to upgrade the entire backbone to OC-48c,Who Wants to Be a Millionaire,1
+1502,By 199 how many universities were connected ,"By 1998, the vBNS had grown to connect more than 100 universities and research and engineering institutions via 12 national points of presence with DS-3",IDK,0
+1514,Where did Kublai build his administration's strength?,northern China,within China,1
+1516,What drove residents to quieter suburban housing?,highways,the number of quality rental units decreased as the demand for higher quality housing increased,1
+1521,What was the most revered award that Doctor Who has won?,Best Drama Series,Hugo Award,1
+1524,In what year was Doctor Who rated the third greatest show of the 2000's?,2009,2000,1
+1534,On what date was Victoria declared independent from New South Wales?,1 July 1851,IDK,0
+1549,What are some large pharmacy management companies?,"Omnicare, Kindred Healthcare and PharMerica",IDK,0
+1554,What do some community pharmacies do?,employ consultant pharmacists and/or provide consulting services,serve consumers online and those that walk in their door,1
+1557,In what group of compounds is oxygen a necessary part?,organic compounds,oxides,1
+1560,Why do land plants have more and smaller chloroplasts?,to distribute chloroplasts so that they can take shelter behind each other or spread out,IDK,0
+1561,What sometimes follows moving chloroplasts?,Mitochondria,chlorophyll,1
+1564,In what compound is oxygen part of a ring arrangement?,Epoxides,Vauclain,1
+1566,Who was the university's 5th president?,Robert Maynard Hutchins,IDK,0
+1567,How long did the 5th president's tenure last?,24-year tenure,IDK,0
+1568,Why did the 5th president of the university decide to get rid of the football program?,to emphasize academics over athletics,de-emphasized varsity athletics,1
+1577,What tends to lead to more money?,larger fortunes,poorly drafted contracts,1
+1584,How does the D-loop finish replicating?,with a rolling circle mechanism,IDK,0
+1585,Who was the first known European to visit China and return?,Marco Polo,IDK,0
+1593,Where does the secondary theory say most genes are kept?,"in branched, linear, or other complex structures",the dinophyte nucleus,1
+1594,How does the secondary theory say most cpDNA is structured?,linear,circular,1
+1596,How many actors have played Doctor Who?,Twelve,several,1
+1598,Who followed Matt Smith in the role of Doctor Who?,Peter Capaldi,David Tennant,1
+1599,Which episode was Matt Smith's final one as Doctor Who?,The Time of the Doctor,The Christmas Invasion,0
+1602,What sections of Church dogma did Luther come to view in another way?,penance and righteousness,IDK,0
+1607,What did Johann Eck call Luther?,new Jan Hus,Luther,1
+1609,What did Luther promise to do as a concession?,remain silent,IDK,0
+1617,Who scored the Panthers first touchdown? ,Jonathan Stewart,Anderson,1
+1622,What city has the biggest port in Germany?,Duisburg,IDK,0
+1623,What is the largest port in Europe called?,Duisport,IDK,0
+1633,Where did scientists find their Y. pestis sample? ,from the tooth sockets in human skeletons,Hong Kong,1
+1638,Who runs the University of Chicago?,a board of trustees,IDK,0
+1641,What does FOTA stand for?,Festival of the Arts,IDK,0
+1643,In what month is the university's scavenger hunt?,May,spring,1
+1644,In what year did the scavenger hunt begin?,1987,IDK,0
+1645,Where are nearly all teachers taught?,a university or college,IDK,0
+1649,What might the Government require a teacher have before being allowed to teach?,certification by a recognized body,a second Bachelor's Degree such as a Bachelor of Education,1
+1661,What was the main radio network in the 1940s in America?,NBC Red Network,NBC,1
+1664,When did Augustus die?,AD 14,IDK,0
+1668,Which direction did Romans use to drift through the Rhine?,eastwards,West,1
+1676,Which of Genghis Khan's sons completed the conquest of the Jin dynasty?,Ögedei Khan,Kublai Khan,1
+1677,What dynasty did Genghis Khan plan to attack after conquering Western Xia?,the Jin dynasty,Jin dynasty,1
+1679,Where did the Jin emporer relocate his capital after Genghis Khan overran the norther part of his empire?,Kaifeng,IDK,0
+1688,"In the Philippines, what percentage of secondary school students attend private schools?",32,IDK,0
+1689,What percentage of Filipino primary school students are in private schools?,7.5,IDK,0
+1690,What was introduces into the Black Sea?,Mnemiopsis,Mnemiopsis leidyi,1
+1691,What was done to counteract the overpopulation of mnemiopsis in The Black Sea?,introduction of Beroe,introduced the Mnemiopsis-eating North American ctenophore Beroe ovata,0
+1693,Where can ctenophores be found in large amounts?,In bays,China,1
+1694,What specific type of Ctenophore was introduced into the Black Sea?,Mnemiopsis,Mnemiopsis leidyi,1
+1700,What is the name of the French colony established in 1564?,Fort Caroline,Fort Caroline,1
+1701,What historical figure was Jacksonville named after?,Andrew Jackson,St. Johns,1
+1703,"Prior to the arrival of the French, the area now known as Jacksonville was previously inhabited by what people?",the Timucua,Mocama,1
+1704,What river runs alongside Jacksonville?,St. Johns,St. Johns River,1
+1707,What journalist wrote an article defending Doctor Who?,Philip Howard,IDK,0
+1713,What is the first line of defense against pathogens that prevents them from entering an organism?,physical barriers,the innate immune system,1
+1718,What is Luther's opinion of what the law covers??,everything,how the Christian ought to live,1
+1719,What did Luther claim the church would have to comprise if the law were not taught?,essentially holy people,city hall,1
+1721,Who were the sculpture galleries that opened in 2006 named after?,Dorothy and Michael Hintze,Gilbert Bayes,1
+1726,Who came up with the concept that falling objects fell at the same speed regardless of weight?,Galileo,Archimedes,1
+1739,What is the second aspect of teacher enthusiasm?,enthusiasm about the students,"increasing a student's interest by the variety, novelty, and surprise of the enthusiastic teacher's presentation of the material",1
+1741,"At A-level, what percentage of British students attend fee-paying schools?",13,IDK,0
+1742,What is the upper range of annual fees for non-boarding students in British public schools?,"£21,000",IDK,0
+1744,Up to what age do students in the United Kingdom attend preparatory schools?,13,IDK,0
+1753,What kind of programs can be credited for ABC's success in the late 1950s?,westerns and detective series,westerns,1
+1757,What is the basis of the hymn?,Psalm 130,an earlier German creedal hymn,1
+1758,What was the first Lutheran hymnal?,Achtliederbuch,Achtliederbuch,1
+1762,What soap operas did ABC cancel in 2011?,All My Children and One Life to Live,All My Children,1
+1768,What will the Prime Minister have power over?,PM will have power and authority to co-ordinate and supervise the functions of the Government,Albanian Prime Minister Fan S. Noli,1
+1769,Where was the signing held?,the steps of Nairobi's Harambee House,Augsburg,1
+1771,Who was the film Charly produced by?,Ralph Nelson,IDK,0
+1776,What position does Demaryius Thomas play?,receiver,IDK,0
+1777,How many picks did Peyton Manning throw in the season?,17,IDK,0
+1778,How many touchdowns did Brock Osweiler throw in the season?,10,IDK,0
+1779,How many times was Manning intercepted during the 2015 season?,17,14,0
+1785,What do chloroplasts do like mitochondria?,generate ATP energy,contain their own DNA,1
+1787,How concentrated do the hydrogen ions get in the thylakoid space?,up to a thousand times,IDK,0
+1792,"A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection?",Alhambra,Alhambra,0
+1805,When was this committee by Seaman established?,July 1961,at the beginning of each parliamentary session,1
+1807,Who led the committee established by Seaman?,Nicholas E. Golovin,IDK,0
+1809,Which NASA location came around last to the idea of the LOR?,Marshall Space Flight Center,Langley Research Center,1
+1824,When did the Jin dynasty end?,1234,1234,1
+1829,When did the Jin dynasty begin?,1115,IDK,0
+1830,What was Kublai Khan's relation to Ogedei Khan?,nephew,grandson,1
+1831,Which tribes did Genghis Khan unite?,Mongol and Turkic tribes,"Merkits, Naimans, Mongols, Keraites, Tatars, Uyghurs",1
+1832,When did Genghis Khan become Great Khan?,1206,IDK,0
+1833,Who was Genghis's 3rd son?,Ögedei Khan,gedei Khan,1
+1834,When did Mongke Khan become Great Khan?,1251,IDK,0
+1836,When did Great Britain lose its colonies in North America?,1776,1763,1
+1866,When did Khan formally declare the Yuan dynasty?,1271,1271,1
+1867,Who started the Yuan dynasty?,Kublai Khan,Genghis Khan,1
+1868,What is the Yuan dynasty's official name?,the Great Yuan,Great Yuan,1
+1869,What is the Chinese name for the Yuan dynasty?,Yuán Cháo,,0
+1872,What building materials were used to build the main façade?,red brick and Portland stone,IDK,0
+1875,What language other than English has the Scottish Parliament had meetings in?,Gaelic,IDK,0
+1876,What is also decided by the Presiding Officer?,amount of time for which they are allowed to speak,the Scottish Parliamentary Corporate Body,1
+1886,What is the highest court in the United Methodist denomination?,Judicial Council,Judicial Council,1
+1901,What kind of universities is the region famous for?,research,biomedical,1
+1910,What geometric shape is used in equations to determine net force?,parallelogram,IDK,0
+1915,Where is 97% of the population located?,Bantu and Nilotic,the city,1
+1917,When did Kenya obtain independence?,December 1963,12 December 1963,1
+1923,Who was given land by British goovernment for development of Ohio Country?,Ohio Company of Virginia,IDK,0
+1924,What agreement was made for trade with natives and British?,Treaty of Logstown,IDK,0
+1928,What did the loss mean to France?,"disappearance of a strong ally and counterweight to British expansion, leading to their ultimate dispossession",France's colonial presence north of the Caribbean was reduced to the islands of Saint Pierre and Miquelon,1
+1936,How many MSPs are there?,129,IDK,0
+1940,The analysis of a specific algorithm is typically assigned to what field of computational science?,analysis of algorithms,analysis of algorithms,1
+1943,Which bound of time is more difficult to establish?,lower bounds,log-space reductions,1
+1944,A specific algorithm demonstrating T(n) represents what measure of time complexity?,upper bound,T(n),0
+1945,Genghis Khan was in the process of taking what capital city when he died?,Yinchuan,Ning Hia,1
+1956,What engines were used throughout most of the 20th century to propel ships?,steam turbines,Steam turbines,1
+1961,What river was there originally a bridge across in Roman times?,Tyne,Rhine,1
+1964,What tribes were the Romans fearful would invade from the North?,Pictish,Mi'kmaq and the Abenaki,1
+1966,In which year did the gallery of Indian art open?,1991,IDK,0
+1972,Where does the livestock of the country normally dominate?,the semi-arid savanna to the north and east,IDK,0
+1973,What percent live below the povertly line?,53% of the population,90 percent,1
+1978,What city later became Beijing?,Zhongdu,IDK,0
+1982,Who first sent radio waves across the Atlantic?,Marconi,IDK,0
+1989,What is the name of the largest university press in the U.S?,University of Chicago Press,University of Chicago Press,1
+1990,"colonial rule, or physical occupation of a territory is an example of what kind of imperialism?","""formal""",formal,1
+1992,A forced trade agreement between two countries would be an example of what?,"""informal"" imperialism",Trade liberalisation,0
+1995,Where did Johnson stop?,Fort William Henry,a manned Moon landing was far enough in the future that it was likely the United States would achieve it first,1
+2001,Who was New France's governor?,Marquis de Vaudreuil.,Vaudreuil,1
+2004,Where was French withdrawal to?,"Ticonderoga Point,",IDK,0
+2005,What was the final score for Super Bowl XXXIII?,34–19,IDK,0
+2006,What was the last game that Elway played as a quarterback for Denver?,Super Bowl XXXIII,Super Bowl XXXIII,1
+2015,What was the name of the first Huguenot church in the New World?,L'Église française à la Nouvelle-Amsterdam,A small wooden church,1
+2018,When did Huguenots colonize in North America?,1624,late Colonial and early Federal periods,1
+2019,Who led the North American Huguenot colonial expedition?,Jessé de Forest,IDK,0
+2020,What kind of immune system do bacteria have?,enzymes that protect against bacteriophage infections,IDK,0
+2035,The Brotherhood's members are against consuming what beverage?,alcohol,IDK,0
+2048,What network was launched by ABC in 2004?,ABC1,IDK,0
+2056,Fossils found that were believed to be ctenophores were how old?,515 million years,505 million years,1
+2057,What were the fossils that were found to represent ctenphores missing that current ctenphora have?,tentacles,tentacles,1
+2058,When did the Cretaceous-Paleogene extinction happen?,66 million years ago,IDK,0
+2066,During which season did ABC first take the lead spot in television rating?,1976–77 season,IDK,0
+2070,What was the first international event broadcast by ABC?,coronation of Queen Elizabeth II,millennium festivities,1
+2073,What country did ABC expand in to in the mid-1960s?,Beirut,Canada,0
+2074,What Japanese network did ABC purchase a stake in in 1951?,Mainichi Broadcasting System,IDK,0
+2075,What organization runs the public schools in Victoria? ,Victoria Department of Education,IDK,0
+2077,What are public schools in Victoria?,state or government,"1,548",1
+2079,What government set standards do all schools have to meet?,curriculum,No Child Left Behind,1
+2082,What point did the theologians differ on concerning the Last Supper?,words spoken by Jesus,nature,1
+2084,What did the meeting often become in argument?,confrontational,IDK,0
+2092,What exists between fundamentalist Islamism and reformist Islamism?,major division,two poles,1
+2100,What landmark was Tesla asked about in regards to electricity in 1893?,Niagara Falls,Wardenclyffe Tower,1
+2103,Who was the head of the company?,Richard Dean Adams,Russell T Davies,1
+2105,What is the name of one type of modern primality test?,"probabilistic (or ""Monte Carlo"")",Miller-Rabin,1
+2108,What is the name of another type of modern primality test?,deterministic,Miller-Rabin,1
+2114,What act sets forth the functions of the Scottish Parliament?,Scotland Act 1998,Scotland Act 1998,1
+2120,In 1755 what fort did British capture?,Fort Beauséjour,Fort Frontenac,1
+2122,What order did British make of French?,expulsion of the Acadians,not to serve again in the present war,1
+2130,"When imperialism impacts social norms of a state, what is it called?",Cultural imperialism,blanqueamiento,1
+2134,What is Cultural Imperialism often referred to as?,soft power,"""othering""",1
+2135,Of what is ozone a reactive part of oxygen?,allotrope,allotrope,1
+2136,What  does ozone's characteristic to cause damage effect?,lung tissue,skin,1
+2139,What is the name for O3 most often used?,ozone,IDK,0
+2141,What is Warsaw's economy characterized by?,wide variety of industries,solid economic growth,1
+2147,What project did Harvard halt due to the financial crisis?,Allston Science Complex,IDK,0
+2150,When was the last season that this original theme was used?,17,1996,1
+2151,What workshop helped with the creation of the Doctor Who theme?,the BBC Radiophonic Workshop,IDK,0
+2152,"Upon hearing the final product, what was the creator quoted as saying?",Did I write that?,IDK,0
+2153,Who composed the original Doctor Who theme?,Ron Grainer,Dudley Simpson,1
+2155,What famous Indian's actions were considered civil disobedience?,Gandhi,IDK,0
+2160,What southern city did the Huguenots settle near?,"Charleston, South Carolina",New York,1
+2165,When was Victoria first settled?,1803,IDK,0
+2169,Where was Victoria first set to be located in Australia?,New South Wales,south-east,1
+2170,Which full-sized model cars were not popular?,Chevrolet Bel Air,Chrysler New Yorker Fifth Avenue sedans,1
+2172,By which year did the American cars mpg start to improve?,1985,IDK,0
+2174,"Why did GM, Ford and Chrysler introduced fuel-efficient and small cars to the US market?",An increase in imported cars,the oil crisis,1
+2175,Germany doesn't have an imperialistic past until when?,late 19th century,IDK,0
+2180,What planet do the Daleks come from?,Skaro,IDK,0
+2181,What is the primary mission of the Daleks?,"to ""exterminate"" all non-Dalek beings",Master Plan,1
+2186,Which areas of Northern Europe practiced those religions?,Germany and Scandinavia,IDK,0
+2188,What military impact did Huguenot immigration have on Frederick's army?,Huguenots furnished two new regiments,"Several prominent German military, cultural, and political figures were ethnic Huguenot",1
+2189,What dual titles did Frederick William hold?,Elector of Brandenburg and Duke of Prussia,William of Orange,1
+2190,Where did most chloroplasts come from?,first set of endosymbiotic events,cyanobacteria,1
+2194,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Foreign Protestants Naturalization Act,1
+2195,Where did Mongke Khan attack the Song dynasty?,southern China,IDK,0
+2196,Who challenged Kublai Khan's right to succeed Mongke Khan?,Ariq Böke,IDK,0
+2197,What Chinese era name did Kublai adopt?,Zhongtong,Zhiyuan,1
+2198,When did Mongke Khan die?,1259,IDK,0
+2199,Who led a Mongol attack on the Song dynasty?,Möngke Khan,Chagaan,1
+2208,Which coastline does Southern California touch?,Pacific,IDK,0
+2215,What are the small tentacles on Cydippids called?,tentilla,retractable,1
+2219,What do Beriods use as teeth?,"groups of large, stiffened cilia",IDK,0
+2220,What was used by the West to justify control over eastern territories?,Orientalism,imperial ambition,1
+2228,Who gained control of Florida after the conclusion of the Revolutionary War?,Spain,IDK,0
+2231,In what areas does most of the learning take place?,self-study and problem solving,community setting,1
+2233,What function is a teacher's role similar to?,a coach,spiritual mentorship,1
+2234,What would a teacher assess the levels of a student on?,particular skills,intrinsic motivation,1
+2242,The inside of a ctenophore is lined with what?,epithelium,"long, immobile cilia",1
+2246,What concept explains why objects continue in constant motion?,inertia,inertia,1
+2247,What was the basis mentioned for the develpment of the general theory of relativity?,principle of equivalence,Mercury's orbit,1
+2248,What do astronaughts experience while in free-fall?,weightlessness,constant and independent of the mass of the object,1
+2251,What position at ABC did Thomas Murphy stay on for after stepping down as president?,chairman and CEO,chairman and CEO emeritus,1
+2252,What comedy featuring stand up comedian Tim Allen debuted in 1991?,Home Improvement,Last Man Standing,1
+2253,What is controled by the market and economy?,workers wages,agricultural sector,1
+2256,How is income inequality generally viewed by workers?,unfair,IDK,0
+2257,"In 1990, what was the longest running primetime entertainment program in ABC's history?",America's Funniest Home Videos,IDK,0
+2258,Who succeeded Thomas Murphy as president in 1990?,Daniel B. Burke,Daniel Burke,1
+2260,Who was one French pro-reform Roman Catholic of the 15th century? ,Jacques Lefevre,IDK,0
+2262,Such protests are usually considered to be what type?,entirely symbolic,Type I hypersensitivity,1
+2263,What is an example of illegal disobedience?,trespassing at a nuclear-missile installation,illegal occupation of the Seabrook Station Nuclear Power Plant,1
+2264,Civil disobedients have chosen many different kinds of what type of behaviors?,illegal,legitimate means,1
+2272,How many paintings did John Sheeshanks give to the museum?,233,IDK,0
+2277,What was the Yuan dynasty called in Mongolian?,"Dai Ön Ulus, also rendered as Ikh Yuan Üls or Yekhe Yuan Ulus",Yehe Yuan Ulus,1
+2285,For whom was this new mass intended?,simple people,IDK,0
+2291,How and when did the first variant of y. pestis enter Europe?,through the port of Marseille around November 1347,IDK,0
+2293,What do the strains of y. pestis suggest abut the plague?,the plague may have entered Europe in two waves,the Black Death is ancestral to most modern strains of the disease,1
+2310,How did the principle treaties that form the European Union begin?,"with common rules for coal and steel, and then atomic energy",None of the original treaties establishing the European Union mention protection for fundamental rights,1
+2315,In what episode is it brought up that the First Doctor might not actually be the first Doctor?,The Brain of Morbius,IDK,0
+2318,In what year was the 20th Anniversary special aired?,1983,1983,1
+2320,The Art Deco style of glassware is represented by which artist?,René Lalique,Tamara de Lempicka,1
+2324,Imperialism is confused with what other term?,colonialism,"a policy of extending a country's power and influence through colonization, use of military force, or other means",1
+2325,What does colonialism lack that imperialism has?,political focus,political and financial hegemony,1
+2328,Imperialism and colonialism both assert a states dominance over what?,person or group of people,people groups,1
+2331,Who decide to make a very large donation to the university's Booth School of Business?,David G. Booth,IDK,0
+2335,What was the name of the character known as the Time Lady?,Romana,Missy,1
+2336,What type of creature is usually Doctor Who's companion?,a human,female,1
+2338,What relative of Doctor Who traveled with him in the early episodes?,his granddaughter Susan Foreman,IDK,0
+2353,Thoreau argues that usually majority rules but their views collectively are sometimes?,not necessarily right,solitary,1
+2363,What was the purpose of the Turks in Luther's mind?,to punish Christians,for effect,1
+2364,Who did Luther view to be the Antichrist?,the papacy,the papacy,1
+2365,"After the merger between ABC and Capital Cities was completed, what was the resulting company known as?","Capital Cities/ABC, Inc.",ABC Inc,1
+2376,Who first described dynamic equilibrium?,Galileo,Aristotle,1
+2377,Who had the idea of a natural state for objects at rest?,Galileo,Aristotelian,1
+2379,What does motion at a constant velocity equal?,rest,zero net force,1
+2380,What was the name of the Doctor Who-related song released in 1988?,Doctorin' the Tardis,Slipback,1
+2390,What type of defense is sometimes used in court by protestors?,competing harms defense,jury nullification,1
+2392,"When the law is a direct target of the protest, what is this called?",direct civil disobedience,direct-to-home,1
+2394,What US war caused a high amount of civil disobedience?,Vietnam War,IDK,0
+2397,How many tons does the Hereford Screen weigh?,8,IDK,0
+2400,What reasons cause failure of the disobedience with authorities?,"lack of understanding of the legal ramifications,",IDK,0
+2404,What should be avoided when talking to authorities?,suspect's talking to criminal investigators,IDK,0
+2406,What has a bigger impact on the United States' economy more than trade?,technological innovation,IDK,0
+2416,What range of years was the current warming compared to?,between 1000 and 1900,six,1
+2418,Who led the Science and Environmental Policy Project?,Fred Singer,IDK,0
+2424,What Chinese system did Kublai's government compromise with?,traditional Chinese autocratic-bureaucratic system,traditional monopolies on salt and iron,1
+2433,What does Graham Twigg propose about the spread of disease?,a form of anthrax,doubts,1
+2437,Haeckelia prey mostly on what animal?,jellyfish,other ctenophores,1
+2446,What is the scale used to measure the strength of hurricanes called?,Saffir-Simpson Scale,IDK,0
+2459,What is the largest item from Italy that is part of the sculpture collection?,Chancel Chapel,Italian Renaissance items,1
+2460,What is more fundamental than force in quanton field theory?,conservation of momentum,matter,1
+2469,What powers does the Court of Justice of the European Union have in regards to treaties?,"can interpret the Treaties, but it cannot rule on their validity",review the legality of the EU institutions' actions,1
+2470,Who was the leader of Russia in the 1960's?,Nikita Khrushchev,IDK,0
+2473,Who wrote that imperialism is the highest stage of capitalism?,Lenin,Vladimir Lenin,1
+2475,Where did Jebe and Subutai spend the winter following the split of the Mongol army?,near the Black Sea,IDK,0
+2479,What year did the Khwarezmian Empire fall to Genghis Khan?,1220,IDK,0
+2483,What dynasty shared artistic inspiration with the Yuan?,Song,Qing,1
+2487,What has been getting much better in the most recent years?,average teacher salaries,the average age of teachers in Wales,1
+2493,What do the Treaties generally limit?,free trade,the extent to which member state courts are bound to administer EU law,1
+2499,What could justify restrictions on freedom of establishment?,"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",imperative requirements in the general interest,1
