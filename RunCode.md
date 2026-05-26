@@ -3,7 +3,8 @@
 
 # Getting results of the preliminary Experiment. 
 
-Simply run the "LLMTest.ipynb" notebook in the "src/PrelimExperiment" folder
+Simply run the "LLMTest.ipynb" notebook in the "src/PrelimExperiment" folder. NOTE, that before doing this, you will need
+to provide your own API keys from Huggingface and Gemini in the "keymanagement.py" file. 
 
 # Getting the BM25 plot in section 2.4.3 of the report:
 
