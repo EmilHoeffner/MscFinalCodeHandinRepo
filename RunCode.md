@@ -226,3 +226,13 @@ Run the command:
 python contextAnalysis.py Squad_Test BERT
 
 The results are saved in the "Storage - Clean/ContextAnalysis" folder.
+
+### Getting the RAG plots:
+
+Navigate to "src/Evaluation":
+
+Run commands: 
+
+python RAG_Plot.py DATASETNAME F1
+
+python question_type_RAG_plot.py F1
